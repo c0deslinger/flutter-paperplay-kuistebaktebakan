@@ -1,0 +1,712 @@
+
+
+
+	
+{ "level_1":[{
+		"isi_soal" : "Budi ikut lomba lari. Jika ia menyalip pelari di posisi ke-2, di posisi berapa dia sekarang?",
+		"jawaban" : "B",
+		"pilihanA" : "pertama",
+		"pilihanB" : "kedua",
+		"pilihanC" : "ketiga",
+		"pilihanD" : "keempat"
+		},{
+		"isi_soal" : "Jika budi menyalip orang di posisi terakhir, di posisi berapa dia sekarang?",
+		"jawaban" : "A",
+		"pilihanA" : "pertama",
+		"pilihanB" : "dua dari terakhir",
+		"pilihanC" : "terakhir",
+		"pilihanD" : "ketiga"
+		},{
+		"isi_soal" : "1000, tambah 40, tambah 1000, tambah 30, tambah 1000, tambah 20, tambah 1000, tambah 10, berapa hasilnya?",
+		"jawaban" : "D",
+		"pilihanA" : "5000",
+		"pilihanB" : "5100",
+		"pilihanC" : "4000",
+		"pilihanD" : "4100"
+		},{
+		"isi_soal" : "Ayah mary punya 5 anak. Nana, nene, nini dan nono. Siapa nama anak ke-5?",
+		"jawaban" : "D",
+		"pilihanA" : "nunu",
+		"pilihanB" : "nenu",
+		"pilihanC" : "noni",
+		"pilihanD" : "mary"
+		},{
+		"isi_soal" : "Mana yang lebih berat, batu 1 kg atau kapas 1 kg?",
+		"jawaban" : "C",
+		"pilihanA" : "batu ",
+		"pilihanB" : "kapas",
+		"pilihanC" : "sama berat",
+		"pilihanD" : "ringan semua"
+		},{
+		"isi_soal" : "Mana yang lebih sakit jika dilempar ke kepala, batu 1 kg atau kapas 4 kg?",
+		"jawaban" : "A",
+		"pilihanA" : "Batu",
+		"pilihanB" : "Kapas",
+		"pilihanC" : "Sama sakit",
+		"pilihanD" : "Tidak sakit semua"
+		},{
+		"isi_soal" : "Berapa banyak tanah dalam sebuah lubang dengan panjang 25m, lebar 6m dan tiggi 2m ?",
+		"jawaban" : "D",
+		"pilihanA" : "300 meter kubik",
+		"pilihanB" : "150 meter kubik",
+		"pilihanC" : "50 meter kubik",
+		"pilihanD" : "0 meter kubik"
+		},{
+		"isi_soal" : "Apakah 0,999999999…. (jumlah 9 tak terhingga) Lebih kecil dari 1?",
+		"jawaban" : "C",
+		"pilihanA" : "Lebih kecil",
+		"pilihanB" : "Lebih besar",
+		"pilihanC" : "Sama dengan 1",
+		"pilihanD" : "Kurang dari 1"
+		},{
+		"isi_soal" : "Berapa kali angka 7 muncul di antara bilangan 1 sampai 100?",
+		"jawaban" : "C",
+		"pilihanA" : "7 kali",
+		"pilihanB" : "10 kali",
+		"pilihanC" : "20 kali",
+		"pilihanD" : "13 kali"
+		},{
+		"isi_soal" : "Mana yang lebih besar, 18% dari 81 atau 81% dari 18?",
+		"jawaban" : "C",
+		"pilihanA" : "18% dari 81",
+		"pilihanB" : "81% dari 18",
+		"pilihanC" : "Sama besar",
+		"pilihanD" : "Sama kecil"
+		},{
+		"isi_soal" : "Jika diperukan waktu 1 menit untuk merebus telur, berapa waktu yg diperlukan untuk merebus 10 telur?",
+		"jawaban" : "A",
+		"pilihanA" : "1 menit",
+		"pilihanB" : "10 menit",
+		"pilihanC" : "30 menit",
+		"pilihanD" : "1 jam"
+		},{
+		"isi_soal" : "Bumi itu bundar, jika 1+1=0, 6+6=2, 8+1=2 dan 1+5+9=1 maka 1+2+6+8+9+10 = ?",
+		"jawaban" : "D",
+		"pilihanA" : "0",
+		"pilihanB" : "1",
+		"pilihanC" : "3",
+		"pilihanD" : "5"
+		},{
+		"isi_soal" : "Bila seorang bankir memiliki anak bernama sita dan istri bernama kirana, siapa nama bankir itu?",
+		"jawaban" : "D",
+		"pilihanA" : "johny",
+		"pilihanB" : "karina",
+		"pilihanC" : "joseph",
+		"pilihanD" : "bila"
+		},{
+		"isi_soal" : "Kelihatan memakai jaket kulit, kantong celananya tebal, anda tau kemana harus mencarinya. Siapa dia?",
+		"jawaban" : "C",
+		"pilihanA" : "Maling",
+		"pilihanB" : "Tukang copet",
+		"pilihanC" : "Tukang ojek",
+		"pilihanD" : "Collector"
+		},{
+		"isi_soal" : "Jika 10-1=3, 9-2=5, 8-3=3, 7-4=0 maka 6-5=?",
+		"jawaban" : "A",
+		"pilihanA" : "0",
+		"pilihanB" : "1",
+		"pilihanC" : "5",
+		"pilihanD" : "3"
+		},{
+		"isi_soal" : "Suami istri punya 4 anak perempuan & tiap anak perempuan punya 1 saudara laki2. Berapa anggota keluarga itu?",
+		"jawaban" : "B",
+		"pilihanA" : "6",
+		"pilihanB" : "7",
+		"pilihanC" : "9",
+		"pilihanD" : "10"
+		},{
+		"isi_soal" : "Apa yang sebenarnya kepunyaanmu tetapi lebih sering dipakai orang lain?",
+		"jawaban" : "D",
+		"pilihanA" : "motormu",
+		"pilihanB" : "no handpone",
+		"pilihanC" : "barang pribadimu",
+		"pilihanD" : "namamu"
+		},{
+		"isi_soal" : "Jika 1=4, 2=3, 3=4 dan 5=4, berapakah 12?",
+		"jawaban" : "D",
+		"pilihanA" : "2",
+		"pilihanB" : "4",
+		"pilihanC" : "6",
+		"pilihanD" : "8"
+		},{
+		"isi_soal" : "Sebelum gunung Everest ditemukan, gunung apakah yang tertinggi di dunia?",
+		"jawaban" : "D",
+		"pilihanA" : "Mauna Kea",
+		"pilihanB" : "Mauna Loa",
+		"pilihanC" : "Gunung Kilimanjaro",
+		"pilihanD" : "Gunung Everest"
+		},{
+		"isi_soal" : "Seseorang mengenalkan kepadamu kakak perempuan iparnya suaminya adik perempuan ibumu. Siapa dia?",
+		"jawaban" : "D",
+		"pilihanA" : "Kakak perempuan ipar",
+		"pilihanB" : "Suaminya",
+		"pilihanC" : "Adik perempuan",
+		"pilihanD" : "Ibumu"
+	}
+	
+	], "level_2":[{
+		"isi_soal" : "Apa huruf kelima dalam abjad?",
+		"jawaban" : "B",
+		"pilihanA" : "E",
+		"pilihanB" : "D",
+		"pilihanC" : "F",
+		"pilihanD" : "O"
+		},{
+		"isi_soal" : "Kecil di China besar di Arab. Apa itu?",
+		"jawaban" : "D",
+		"pilihanA" : "bayi unta",
+		"pilihanB" : "orang imigran",
+		"pilihanC" : "orang cina",
+		"pilihanD" : "huruf A"
+		},{
+		"isi_soal" : "Kalian melihat orang China makan mie ayam dengan apa?",
+		"jawaban" : "D",
+		"pilihanA" : "sumpit",
+		"pilihanB" : "sendok",
+		"pilihanC" : "mulut",
+		"pilihanD" : "mata"
+		},{
+		"isi_soal" : "Walaupun dibeli dalam waktu yg berbeda, habisnya selalu bersamaan. Apakah itu?",
+		"jawaban" : "C",
+		"pilihanA" : "Makanan",
+		"pilihanB" : "Uang Bulanan",
+		"pilihanC" : "Kalender",
+		"pilihanD" : "Pulsa"
+		},{
+		"isi_soal" : "Ujung satu basah, ujung yang lain terbakar. Apakah itu?",
+		"jawaban" : "D",
+		"pilihanA" : "Korek Api",
+		"pilihanB" : "Lilin",
+		"pilihanC" : "Sumbu kompor",
+		"pilihanD" : "Kompor gas"
+		},{
+		"isi_soal" : "Dipotong semakin panjang. Apakah itu?",
+		"jawaban" : "D",
+		"pilihanA" : "Tali",
+		"pilihanB" : "Rafia",
+		"pilihanC" : "Celana",
+		"pilihanD" : "Karet Gelang"
+		},{
+		"isi_soal" : "Aku sembunyi, tetapi kepalaku selalu kelihatan. Apakah aku?",
+		"jawaban" : "B",
+		"pilihanA" : "Orang sembunyi",
+		"pilihanB" : "Paku",
+		"pilihanC" : "Genteng",
+		"pilihanD" : "Antena"
+		},{
+		"isi_soal" : "Berbaris bukan tentara, meletus bukan balon. Apakah itu?",
+		"jawaban" : "",
+		"pilihanA" : "Gas Elpiji",
+		"pilihanB" : "Petasan",
+		"pilihanC" : "Kembang api",
+		"pilihanD" : "Jagung bakar"
+		},{
+		"isi_soal" : "Diucapkan 1 kali jauh, diucapkan 2 kali jadi dekat. Apakah itu?",
+		"jawaban" : "C",
+		"pilihanA" : "Gua",
+		"pilihanB" : "Awan",
+		"pilihanC" : "Langit",
+		"pilihanD" : "Gunung"
+		},{
+		"isi_soal" : "Benda apa yang kalau digosok selalu berwarna putih?",
+		"jawaban" : "B",
+		"pilihanA" : "Kapur tulis",
+		"pilihanB" : "Sabun",
+		"pilihanC" : "Kaca",
+		"pilihanD" : "Batu Akik "
+		},{
+		"isi_soal" : "Aku mempunyai 2 mulut, 1 besar dan 1 kecil, 1 untuk saya dan 1 untuk orang lain. Apakah aku?",
+		"jawaban" : "D",
+		"pilihanA" : "Manusia",
+		"pilihanB" : "Gua",
+		"pilihanC" : "Sedotan",
+		"pilihanD" : "Teko"
+		},{
+		"isi_soal" : "Aku punya mulut besar tapi tak bisa bicara dan tidak punya kaki. Apakah aku?",
+		"jawaban" : "B",
+		"pilihanA" : "Sedotan",
+		"pilihanB" : "Gua",
+		"pilihanC" : "Lubang",
+		"pilihanD" : "Teko"
+		},{
+		"isi_soal" : "Jika 2=3, 3=4, 4=5, 10 adalah?",
+		"jawaban" : "B",
+		"pilihanA" : "11",
+		"pilihanB" : "7",
+		"pilihanC" : "8",
+		"pilihanD" : "9"
+		},{
+		"isi_soal" : "Ada angka 3 digit, jika dibagi 6 atau 7 bersisa 1. Jika dibagi 8 atau 11 bersisa 7. Berapa angka terbesarnya?",
+		"jawaban" : "C",
+		"pilihanA" : "599",
+		"pilihanB" : "699",
+		"pilihanC" : "799",
+		"pilihanD" : "899"
+		},{
+		"isi_soal" : "Benda apa yang jadi rusak ketika dibalik?",
+		"jawaban" : "C",
+		"pilihanA" : "Piring",
+		"pilihanB" : "Gelas",
+		"pilihanC" : "Kasur",
+		"pilihanD" : "Meja"
+		},{
+		"isi_soal" : "Salman adalah ayah Rudi. Salman adalah.. dari ayah Rudi",
+		"jawaban" : "D",
+		"pilihanA" : "Ayah",
+		"pilihanB" : "Kakek",
+		"pilihanC" : "Paman",
+		"pilihanD" : "Nama"
+		},{
+		"isi_soal" : "Duluan mana antara telur dan ayam?",
+		"jawaban" : "A",
+		"pilihanA" : "Telur",
+		"pilihanB" : "Ayam",
+		"pilihanC" : "Bebarengan",
+		"pilihanD" : "Tidak ada yg duluan"
+		},{
+		"isi_soal" : "Joni memegang 5 apel di tangan kanan dan 5 apel di tangan kiri. Apa yang joni miliki?",
+		"jawaban" : "B",
+		"pilihanA" : "Apel banyak",
+		"pilihanB" : "Tangan yang besar",
+		"pilihanC" : "Hati yang senang",
+		"pilihanD" : "Tubuh yang sehat"
+		},{
+		"isi_soal" : "Dani punya 2 orang kakak yang masing – masing punya 1 orang adik. Berapa jumlah semua adik dari kakak dani?",
+		"jawaban" : "A",
+		"pilihanA" : "1",
+		"pilihanB" : "3",
+		"pilihanC" : "5",
+		"pilihanD" : "7"
+		},{
+		"isi_soal" : "Lebih besar dari gajah dan masih berhubungan dengan gajah. Apakah itu?",
+		"jawaban" : "D",
+		"pilihanA" : "Kakeknya gajah",
+		"pilihanB" : "Moyangnya gajah",
+		"pilihanC" : "Mamooth",
+		"pilihanD" : "Kandang gajah"
+	}
+	], "level_3":[{
+		"isi_soal" : "Ada 12 gelas di nampan, kamu mengambil 7 buah gelas. Berapa gelas yg ada di tanganmu sekarang?",
+		"jawaban" : "C",
+		"pilihanA" : "5",
+		"pilihanB" : "12",
+		"pilihanC" : "7",
+		"pilihanD" : "Tidak ada"
+		},{
+		"isi_soal" : "Seorang petani mengkombinasikan 2 tumpukan semen dgn 3 yang lain. Berapa banyak tumpukannya sekarang?",
+		"jawaban" : "C",
+		"pilihanA" : "5",
+		"pilihanB" : "2",
+		"pilihanC" : "1",
+		"pilihanD" : "0"
+		},{
+		"isi_soal" : "Saat itu kamu mulai tidur pukul 8 malam dan menyetel weker pada pukul 9 pagi. Berapa lama kamu tidur?",
+		"jawaban" : "D",
+		"pilihanA" : "13 jam",
+		"pilihanB" : "8 jam",
+		"pilihanC" : "5 jam",
+		"pilihanD" : "1 jam"
+		},{
+		"isi_soal" : "Manakah yang lebih cepat membeku: gelas berisi air panas atau gelas berisi air dingin?",
+		"jawaban" : "A",
+		"pilihanA" : "Gelas berisi air panas",
+		"pilihanB" : "Gelas berisi air dingin",
+		"pilihanC" : "Sama – sama cepat",
+		"pilihanD" : "Sama – sama lambat"
+		},{
+		"isi_soal" : "Jika ada ayam jago sebesar lapangan sepak bola, telurnya sebesar apa?",
+		"jawaban" : "C",
+		"pilihanA" : "sebesar lapangan",
+		"pilihanB" : "sebesar ayam",
+		"pilihanC" : "ayamnya tidak bertelur ",
+		"pilihanD" : "sebesar ayam biasa"
+		},{
+		"isi_soal" : "Ada 7 burung di hutan, ditembak pemburu 1 burung. Sisa berapa burung di pohon?",
+		"jawaban" : "D",
+		"pilihanA" : "6",
+		"pilihanB" : "3",
+		"pilihanC" : "7",
+		"pilihanD" : "0"
+		},{
+		"isi_soal" : "Jika kamu punya buku tebalnya 100 lembar, pada lembar ke berapa lembar tengah2 nya?",
+		"jawaban" : "D",
+		"pilihanA" : "50",
+		"pilihanB" : "51",
+		"pilihanC" : "52",
+		"pilihanD" : "Tidak ada"
+		},{
+		"isi_soal" : "Bagaimana cara seorang pria mengunjungi lebih dari 20 negara dalam sehari tanpa pakai paspor?",
+		"jawaban" : "C",
+		"pilihanA" : "Pria itu imigran gelap",
+		"pilihanB" : "Pria itu numpang",
+		"pilihanC" : "Pria itu tukang pos",
+		"pilihanD" : "Pria itu nekat"
+		},{
+		"isi_soal" : "Anda seorang pelaut yg telah berlayar lebih dari 5 tahun. Berapa umur si pelaut itu sekarang?",
+		"jawaban" : "D",
+		"pilihanA" : "35-an",
+		"pilihanB" : "40-an",
+		"pilihanC" : "50-an",
+		"pilihanD" : "Tergantung umur anda"
+		},{
+		"isi_soal" : "Berapa kali Anda bisa mengurangi angka 32 dengan 2?",
+		"jawaban" : "D",
+		"pilihanA" : "16 kali",
+		"pilihanB" : "8 kali",
+		"pilihanC" : "2 kali",
+		"pilihanD" : "1 kali"
+		},{
+		"isi_soal" : "Bagaimana mungkin seorang pria yang jatuh dari jendela gedung berlantai 20 dan masih hidup?",
+		"jawaban" : "C",
+		"pilihanA" : "ada pengaman dibawah",
+		"pilihanB" : "dia diselamatkan",
+		"pilihanC" : "dia jatuh dari lt 1",
+		"pilihanD" : "dia orang sakti"
+		},{
+		"isi_soal" : "Dalam kalender masehi, bulan apa yang jumlah harinya hingga 28 hari?",
+		"jawaban" : "C",
+		"pilihanA" : "Februari",
+		"pilihanB" : "Bulan kabisat",
+		"pilihanC" : "Semua bulan",
+		"pilihanD" : "Tidak ada"
+		},{
+		"isi_soal" : "Manakah yang lebih banyak: enam lusin lusin atau separuh lusin lusin?",
+		"jawaban" : "A",
+		"pilihanA" : "enam lusin lusin",
+		"pilihanB" : "separuh lusin lusin",
+		"pilihanC" : "sama banyak",
+		"pilihanD" : "sama sedikit"
+		},{
+		"isi_soal" : "Berapakah sejuta dibagi seperempat plus limapuluh?",
+		"jawaban" : "D                                                                                                                             ",
+		"pilihanA" : "Rp 250.000",
+		"pilihanB" : "Rp 300.000",
+		"pilihanC" : "Rp 1.050.000",
+		"pilihanD" : "Rp 4.050.000"
+		},{
+		"isi_soal" : "Jika kamu memiliki aku, kamu ingin berbagi aku. Jika kamu berbagi aku, aku tidak punya aku. Apakah aku?",
+		"jawaban" : "D",
+		"pilihanA" : "Komitmen",
+		"pilihanB" : "Rahasia",
+		"pilihanC" : "Kejujuran",
+		"pilihanD" : "Sesuatu"
+		},{
+		"isi_soal" : "Mengapa tidak bisa seorang pria yang hidup di Amerika dimakamkan di Kanada?",
+		"jawaban" : "D",
+		"pilihanA" : "Karena dia Amerikan",
+		"pilihanB" : "Dia bukan Kanadian",
+		"pilihanC" : "Karena kuburannya penuh",
+		"pilihanD" : "Karena dia masih hidup"
+		},{
+		"isi_soal" : "Seorang pengacara memiliki saudara imam masjid. Dia ingin menjadi imam tapi tidak boleh. Mengapa?",
+		"jawaban" : "",
+		"pilihanA" : "Dia tidak fasih",
+		"pilihanB" : "Dia belum berlatih",
+		"pilihanC" : "Dia seorang pengacara",
+		"pilihanD" : "Dia seorang perempuan"
+		},{
+		"isi_soal" : "Saya berada di sebuah rumah kosong, disana tidak ada benda sama sekali. Bisakah anda tebak sekarang saya sedang apa?",
+		"jawaban" : "D",
+		"pilihanA" : "Melihat seisi rumah",
+		"pilihanB" : "Bermain hape",
+		"pilihanC" : "Bicara sendiri",
+		"pilihanD" : "Bertanya"
+		},{
+		"isi_soal" : "Apa yang sebesar Anda namun tidak seberat Anda?",
+		"jawaban" : "C",
+		"pilihanA" : "Batu",
+		"pilihanB" : "Tumpukan karung",
+		"pilihanC" : "Bayangan",
+		"pilihanD" : "Halusinasi"
+		},{
+		"isi_soal" : "Apa jenis kata – kata ini: Ada, level, katak, taat?",
+		"jawaban" : "B",
+		"pilihanA" : "Homonim",
+		"pilihanB" : "Polindrom",
+		"pilihanC" : "Silogisme",
+		"pilihanD" : "Noun"
+	}
+	], "level_4":[{
+		"isi_soal" : "Apa kata yang tepat untuk kondisi seorang wanita tanpa seluruh jari tangan lengkap di 1 tangannya?",
+		"jawaban" : "C",
+		"pilihanA" : "Cacat",
+		"pilihanB" : "Abnormal",
+		"pilihanC" : "Normal",
+		"pilihanD" : "Aneh"
+		},{
+		"isi_soal" : "Jika ada 3 buah apel dan kamu membawa 2 buah, berapa apel yang kamu miliki sekarang?",
+		"jawaban" : "C",
+		"pilihanA" : "0",
+		"pilihanB" : "1",
+		"pilihanC" : "2",
+		"pilihanD" : "3"
+		},{
+		"isi_soal" : "Apa yang sulit ditangkap, semakin lama dan semakin cepat kamu berlari?",
+		"jawaban" : "C",
+		"pilihanA" : "penjahat",
+		"pilihanB" : "pelari di posisi 1",
+		"pilihanC" : "nafas",
+		"pilihanD" : "tenaga"
+		},{
+		"isi_soal" : "Koboi berkuda pada Jumat, tinggal 3 hari dan naik lagi pada Jumat. Bagaimana bisa hal itu terjadi?",
+		"jawaban" : "D",
+		"pilihanA" : "Dia buru - buru",
+		"pilihanB" : "Jumat cepat datang",
+		"pilihanC" : "Jumat hari favoritnya",
+		"pilihanD" : "Nama kudanya Jumat"
+		},{
+		"isi_soal" : "Ini adalah serangga. Dan bagian pertama dari namanya adalah nama serangga lain. Apakah itu?",
+		"jawaban" : "B",
+		"pilihanA" : "Kupu - kupu",
+		"pilihanB" : "Kumbang",
+		"pilihanC" : "Belalang",
+		"pilihanD" : "Kepik"
+		},{
+		"isi_soal" : "Mana yang merupakan kata terpanjang pada bahasa Inggris?",
+		"jawaban" : "C",
+		"pilihanA" : "Moon",
+		"pilihanB" : "Drive",
+		"pilihanC" : "Smile",
+		"pilihanD" : "Long"
+		},{ 
+		"isi_soal" : "Ada orang masuk restoran minta segelas air, namun dia ditodong pistol dan malah berterima kasih. Mengapa?",
+		"jawaban" : "D",
+		"pilihanA" : "Agar dia selamat",
+		"pilihanB" : "Dia menghindar",
+		"pilihanC" : "Dia tidak takut",
+		"pilihanD" : "Karna dia cegukan"
+		},{
+		"isi_soal" : "2 ayah mengajak 2 anaknya memancing. Masing2 mereka menangkap 1 ikan, namun membawa pulang 3 ikan. Mengapa?",
+		"jawaban" : "C",
+		"pilihanA" : "Karena ikannya jatuh",
+		"pilihanB" : "1 Ayah gk bawa anak",
+		"pilihanC" : "Mereka keluarga nelayan",
+		"pilihanD" : "Ada yg tidak dapat ikan"
+		},{
+		"isi_soal" : "Pria berpakaian serba hitam lewat lorong yg gelap dgn lampu padam. Mobil dgn lampu padam lewat namun tidak menabraknya. Mengapa?",
+		"jawaban" : "C",
+		"pilihanA" : "karena sopir melihatnya",
+		"pilihanB" : "karena bajunya mencolok",
+		"pilihanC" : "waktu itu siang hari",
+		"pilihanD" : "dia berhati - hati"
+		},{
+		"isi_soal" : "Seorang pria pergi ke pesta lalu minum es punch, lalu dia pergi. Orang2 di pesta yg meminum es itu keracunan. Mengapa dia selamat?",
+		"jawaban" : "C",
+		"pilihanA" : "karena dia beruntung",
+		"pilihanB" : "dia tau ada racunnya",
+		"pilihanC" : "dia terburu - buru",
+		"pilihanD" : "dia tidak meminum habis"
+		},{
+		"isi_soal" : "Seorang tukang kayu memotong tiap kayu dlm 1 menit. Berapa waktu yg dibutuhkan untuk memotong 15 potong kayu?",
+		"jawaban" : "B",
+		"pilihanA" : "1 menit",
+		"pilihanB" : "14 menit",
+		"pilihanC" : "15 menit",
+		"pilihanD" : "1 jam"
+		},{
+		"isi_soal" : "Jika kalimat ‘Ini rini’ =4, ‘itu rina’=2, berapakah jumlah ‘aku jini’?",
+		"jawaban" : "A",
+		"pilihanA" : "2",
+		"pilihanB" : "4",
+		"pilihanC" : "7",
+		"pilihanD" : "8"
+		},{
+		"isi_soal" : "Apa hari sebelum kemarin, jika 3 hari setelah besok adalah hari Sabtu?",
+		"jawaban" : "D",
+		"pilihanA" : "Rabu",
+		"pilihanB" : "Kamis",
+		"pilihanC" : "Jumat",
+		"pilihanD" : "Sabtu"
+		},{
+		"isi_soal" : "Saat aku berumur 2 tahun, umur adikku setengah dari umurku. Berapa umur adikku saat umurku 100 tahun?",
+		"jawaban" : "C",
+		"pilihanA" : "50 tahun",
+		"pilihanB" : "90 tahun",
+		"pilihanC" : "99 tahun",
+		"pilihanD" : "100 tahun"
+		},{
+		"isi_soal" : "Ada sebuah pohon kelapa dan ada monyet, singa dan jerapah yang berlomba untuk memetik pisang pada pohon itu. Siapa pemenangnya?",
+		"jawaban" : "D",
+		"pilihanA" : "Monyet",
+		"pilihanB" : "Singa",
+		"pilihanC" : "Jerapah",
+		"pilihanD" : "Tidak ada yg menang"
+		},{
+		"isi_soal" : "Ada 4 anak dlm rumah. Si A lagi masak, Si B lagi main catur, Si C lagi dandan, apa yg dilakukan si D?",
+		"jawaban" : "C",
+		"pilihanA" : "Makan",
+		"pilihanB" : "Jalan - jalan",
+		"pilihanC" : "Main catur",
+		"pilihanD" : "Mancing"
+		},{
+		"isi_soal" : "Jika dokter memberi Anda 3 tablet dan tiap tablet harus diminum tiap jam. Berapa lama waktunya hingga tablet habis?",
+		"jawaban" : "B",
+		"pilihanA" : "1 jam",
+		"pilihanB" : "2 jam",
+		"pilihanC" : "3 jam",
+		"pilihanD" : "4 jam"
+		},{
+		"isi_soal" : "Seorang pria membangun rumah persegi menghadap selatan. Seekor beruang masuk ke dalam. Apa warna beruang itu?",
+		"jawaban" : "B",
+		"pilihanA" : "Coklat",
+		"pilihanB" : "Putih",
+		"pilihanC" : "Abu - abu",
+		"pilihanD" : "Hitam"
+		},{
+		"isi_soal" : "Nadya lahir pada 15 Juni 2007. Jika sekarang 2016, berapa kali Nadya merayakan ultahnya dlm setahun?",
+		"jawaban" : "A",
+		"pilihanA" : "1",
+		"pilihanB" : "2",
+		"pilihanC" : "8",
+		"pilihanD" : "9"
+		},{
+		"isi_soal" : "2 pemuda dgn berat badan masing2 50 dan 120 kg terjun & melaju dalam 2km/jam. Siapa yg pertama kali turun ke bumi?",
+		"jawaban" : "D",
+		"pilihanA" : "Yang 50 kg",
+		"pilihanB" : "Yang 120 kg",
+		"pilihanC" : "Dua duanya",
+		"pilihanD" : "Nabi Adam"
+	}
+	], "level_5":[{
+		"isi_soal" : "Anda memiliki 2 lembar uang 5000, jika anda membeli 3 pensil seharga 1500/buah, berapa kembaliannya?",
+		"jawaban" : "A",
+		"pilihanA" : "Rp 500",
+		"pilihanB" : "Rp 4500",
+		"pilihanC" : "Rp 5500",
+		"pilihanD" : "Rp 6500"
+		},{
+		"isi_soal" : "Seorang wanita berumur 35 tahun pada tahun 1810, bagaimana bisa wanita tsb berumur 30 tahun pada tahun 1815?",
+		"jawaban" : "C",
+		"pilihanA" : "Karena dia prematur",
+		"pilihanB" : "Krn waktu berlalu cepat",
+		"pilihanC" : "Karena tahunnya SM",
+		"pilihanD" : "Matematika blm berkembang"
+		},{
+		"isi_soal" : "Mengapa seorang pria tidak dianggap poligami, sedangkan dia telah menikahkan 30 wanita dalam setahun?",
+		"jawaban" : "D",
+		"pilihanA" : "dia kepala suku",
+		"pilihanB" : "dia orang disegani",
+		"pilihanC" : "dia kepala adat",
+		"pilihanD" : "dia penghulu"
+		},{
+		"isi_soal" : "Berapa banyak hewan yg dibawa Musa dalam bahteranya?",
+		"jawaban" : "A",
+		"pilihanA" : "0",
+		"pilihanB" : "5.000",
+		"pilihanC" : "10.000",
+		"pilihanD" : "25.000"
+		},{
+		"isi_soal" : "Bayangkan kamu berada dalam sebuah ruang gelap. Bagaimana caramu keluar dari sana?",
+		"jawaban" : "D",
+		"pilihanA" : "Menyalakan lilin",
+		"pilihanB" : "Membawa obor",
+		"pilihanC" : "Membayangkan cahaya",
+		"pilihanD" : "Berhenti berhayal"
+		},{
+		"isi_soal" : "4 ayah, 2 kakek dan 4 anak pergi ke bioskop. Berapa jumlah minimum tiket yg harus mereka beli?",
+		"jawaban" : "B",
+		"pilihanA" : "4",
+		"pilihanB" : "6",
+		"pilihanC" : "8",
+		"pilihanD" : "10"
+		},{
+		"isi_soal" : "Bagaimana caramu menjatuhkan sebutir telur mentah dari ketinggian menuju lantai tanpa memecahkannya?",
+		"jawaban" : "",
+		"pilihanA" : "Telur dilapisi busa",
+		"pilihanB" : "Telur direbus dulu",
+		"pilihanC" : "Dilempar dengan pelan",
+		"pilihanD" : "Lantai tidak akan pecah "
+		},{
+		"isi_soal" : "Michael adalah penyanyi. Pada konser, dia berada pada posisi ke 4 dari depan & dari belakang. Berapa banyak krunya?",
+		"jawaban" : "D",
+		"pilihanA" : "4",
+		"pilihanB" : "5",
+		"pilihanC" : "6",
+		"pilihanD" : "8"
+		},{
+		"isi_soal" : "Kapan angka 99 lebih besar dari 100?",
+		"jawaban" : "D",
+		"pilihanA" : "Saat perlombaan renang",
+		"pilihanB" : "Pada maraton",
+		"pilihanC" : "Timer pada stopwatch",
+		"pilihanD" : "Timer pada microwave"
+		},{
+		"isi_soal" : "John ditemukan tenggelam, tetapi dia tidak basah. Bagaimana bisa?",
+		"jawaban" : "C",
+		"pilihanA" : "Dia memakai mantel",
+		"pilihanB" : "Dia tenggelam di lumpur",
+		"pilihanC" : "Dia tenggelam di pasir",
+		"pilihanD" : "Dia tenggelam dan selamat"
+		},{
+		"isi_soal" : "Angka apa yang jika dikalikan dengan dirinya sendiri akan menghasilkan 12345678987654321?",
+		"jawaban" : "A",
+		"pilihanA" : "1",
+		"pilihanB" : "11",
+		"pilihanC" : "111",
+		"pilihanD" : "1111"
+		},{
+		"isi_soal" : "Jika sekarang pukul 9 malam, maka pukul berapakah 23,999,997 jam kemudian?",
+		"jawaban" : "A",
+		"pilihanA" : "Pukul 6 malam",
+		"pilihanB" : "Pukul 7 malam",
+		"pilihanC" : "Pukul 8 malam",
+		"pilihanD" : "Pukul 8 pagi"
+		},{
+		"isi_soal" : "Berapa banyak kata yg dapat dibuat bulu pena dari burung merpati dengan 100 ml botol tinta hitam?",
+		"jawaban" : "D",
+		"pilihanA" : "Tak terbatas",
+		"pilihanB" : "Sekitar 5000 kata",
+		"pilihanC" : "Sekitar 1000 kata",
+		"pilihanD" : "Tidak satupun"
+		},{
+		"isi_soal" : "Besok lusa adalah 3 hari kemarin lusa sebelum selasa. Jadi hari apa sekarang?",
+		"jawaban" : "B",
+		"pilihanA" : "Sabtu",
+		"pilihanB" : "Kamis",
+		"pilihanC" : "Senin",
+		"pilihanD" : "Rabu"
+		},{
+		"isi_soal" : "Harga stik pemukul hockey dan bola adalah 50$. Jika harga stik 49$ lebih mahal, berapakah harga bola?",
+		"jawaban" : "A",
+		"pilihanA" : "0.5$",
+		"pilihanB" : "1$",
+		"pilihanC" : "1.5$",
+		"pilihanD" : "2$"
+		},{
+		"isi_soal" : "Dalam balap mobil, pembalap ke-2 dari paling belakang mencapai finish sebelum pembalap ke-5. Berapa jumlah pembalapnya?",
+		"jawaban" : "B",
+		"pilihanA" : "7",
+		"pilihanB" : "6",
+		"pilihanC" : "5",
+		"pilihanD" : "4"
+		},{
+		"isi_soal" : "AR TA GE CA ?? VI LI SC SA CA AQ PI. Apakah deret yang tepat pada ?? tersebut.",
+		"jawaban" : "C",
+		"pilihanA" : "EA",
+		"pilihanB" : "VE",
+		"pilihanC" : "SC",
+		"pilihanD" : "MK"
+		},{
+		"isi_soal" : "Presiden ke 22 dan ke 24 bukan saudara kandung tapi memiliki orangtua yg sama. Bagaimana bisa terjadi?",
+		"jawaban" : "C",
+		"pilihanA" : "Mereka saudara tiri",
+		"pilihanB" : "Mereka sahabat karib",
+		"pilihanC" : "Mereka orang yg sama",
+		"pilihanD" : "Tidak mungkin terjadi"
+		},{
+		"isi_soal" : "Sebuah jam berbunyi 5 kali dalam 4 detik, berapa kali jam berbunyi dalam 10 detik?",
+		"jawaban" : "C",
+		"pilihanA" : "9",
+		"pilihanB" : "10",
+		"pilihanC" : "11",
+		"pilihanD" : "12"
+		},{
+		"isi_soal" : "Di sebuah toko grosir, Dio bertemu dengan satu satunya anak perempuan dari ibu mertua ayahnya. Siapa dia?",
+		"jawaban" : "C",
+		"pilihanA" : "Tantenya",
+		"pilihanB" : "Sepupunya",
+		"pilihanC" : "Ibunya",
+		"pilihanD" : "Neneknya"
+	}]
+}
+

@@ -1,0 +1,713 @@
+
+
+
+	
+{ "level_1":[{
+		"isi_soal" : "Satuan kelajuan dalam SI adalah?",
+		"jawaban" : "B",
+		"pilihanA" : "m/s3",
+		"pilihanB" : "m/s",
+		"pilihanC" : "meter sekon2",
+		"pilihanD" : "km/jam"
+		},{
+		"isi_soal" : "Gerak benda yang bergerak dengan lintasan berbentuk setengah lingkaran adalah. . .",
+		"jawaban" : "D",
+		"pilihanA" : "gerak melingkar",
+		"pilihanB" : "gerak lurus",
+		"pilihanC" : "gerak nyata",
+		"pilihanD" : "gerak parabola"
+		},{
+		"isi_soal" : "Apa yang menyebabkan benda mengalami gerak parabola?",
+		"jawaban" : "B",
+		"pilihanA" : "gaya gradient bumi",
+		"pilihanB" : "gaya gravitasi bumi",
+		"pilihanC" : "gaya sentrifugal",
+		"pilihanD" : "gaya genosoda bumi"
+		},{
+		"isi_soal" : "Benda yang bergerak jatuh bebas dari ketinggian tertentu disebut….",
+		"jawaban" : "D",
+		"pilihanA" : "gerak lurus berubah beraturan",
+		"pilihanB" : "gerak belok lurus beraturan",
+		"pilihanC" : "gerak lurus berhente beraturan",
+		"pilihanD" : "gerak lurus beraturan"
+		},{
+		"isi_soal" : "Gaya yang bekerja pada sebuah benda akan mengakibatkan perubahan.. ",
+		"jawaban" : "A",
+		"pilihanA" : "gerak dan bentuk benda",
+		"pilihanB" : "gerak dan massa benda",
+		"pilihanC" : "laju dan satuannya",
+		"pilihanD" : "gerak otomatis"
+		},{
+		"isi_soal" : "Bus yang direm mendadak akan mengakibatkan penumpangnya terhempas ke depan. Peristiwa ini adalah contoh dari..",
+		"jawaban" : "A",
+		"pilihanA" : "Hukum I Newton",
+		"pilihanB" : "Hukum II Newton ",
+		"pilihanC" : "Hukum III Newton ",
+		"pilihanD" : "Hukum IV Newton "
+		},{
+		"isi_soal" : "Pesawat sederhana yang cocok digunakan untuk memotong kertas adalah..",
+		"jawaban" : "D",
+		"pilihanA" : "sekrup",
+		"pilihanB" : "obeng",
+		"pilihanC" : "pisau",
+		"pilihanD" : "gunting"
+		},{
+		"isi_soal" : "Keuntungan mekanis dari katrol tetap sebesar…",
+		"jawaban" : "A",
+		"pilihanA" : "1 kali",
+		"pilihanB" : "2 kali ",
+		"pilihanC" : "3 kali ",
+		"pilihanD" : "4 kali "
+		},{
+		"isi_soal" : "Pada tuas berlaku rumus..",
+		"jawaban" : "B",
+		"pilihanA" : "w x lb = F x la",
+		"pilihanB" : "F x lk = w x lb",
+		"pilihanC" : "F x w = lk x lb",
+		"pilihanD" : "w x lk = lk x lb"
+		},{
+		"isi_soal" : "Tujuan orang menggunakan katrol tetap adalah.. ",
+		"jawaban" : "A",
+		"pilihanA" : "mengubah energi",
+		"pilihanB" : "menghilangkan energi",
+		"pilihanC" : "memperbesar kecepatan",
+		"pilihanD" : "mengubah arah gaya"
+		},{
+		"isi_soal" : "Zat yang dapat mengalir disebut?",
+		"jawaban" : "B",
+		"pilihanA" : "gaya",
+		"pilihanB" : "fluida",
+		"pilihanC" : "densitas",
+		"pilihanD" : "kekentalan"
+		},{
+		"isi_soal" : "Satuan tekanan dalam zat cair adalah? ",
+		"jawaban" : "A",
+		"pilihanA" : "N/m2",
+		"pilihanB" : "N.m",
+		"pilihanC" : "kg/m3",
+		"pilihanD" : "kg.m"
+		},{
+		"isi_soal" : "Jika massa jenis benda lebih besar daripada massa jenis air, benda tersebut akan…",
+		"jawaban" : "D",
+		"pilihanA" : "melayang",
+		"pilihanB" : "mengapung",
+		"pilihanC" : "mendatar",
+		"pilihanD" : "tenggelam"
+		},{
+		"isi_soal" : "Alat yang bekerja berdasarkan prinsip hukum Archimedes adalah…",
+		"jawaban" : "C",
+		"pilihanA" : "pompa air",
+		"pilihanB" : "talang air",
+		"pilihanC" : "kapal laut",
+		"pilihanD" : "dongkrak"
+		},{
+		"isi_soal" : "Alat untuk mengukur tekanan gas pada ruang tertutup adalah..",
+		"jawaban" : "C",
+		"pilihanA" : "barometer",
+		"pilihanB" : "hidrometer",
+		"pilihanC" : "manometer",
+		"pilihanD" : "fluidameter"
+		},{
+		"isi_soal" : "Perubahan tekanan udara dapat digunakan untuk..",
+		"jawaban" : "A",
+		"pilihanA" : "memperkirakan cuaca",
+		"pilihanB" : "memperkirakan musim",
+		"pilihanC" : "membuat hujan buatan",
+		"pilihanD" : "membuat atmosfer"
+		},{
+		"isi_soal" : "Alat untuk mengukur tekanan atmosfer adalah..",
+		"jawaban" : "A",
+		"pilihanA" : "barometer",
+		"pilihanB" : "hidrometer",
+		"pilihanC" : "manometer",
+		"pilihanD" : "fluidameter"
+		},{
+		"isi_soal" : "Sifat benda yang cenderung mempertahankan keadaannya yang diam atau bergerak disebut?.",
+		"jawaban" : "B",
+		"pilihanA" : "Sifat Statis Benda",
+		"pilihanB" : "Sifat Inersia Benda",
+		"pilihanC" : "Sifat Benda dinamis",
+		"pilihanD" : "Sifat benda diam"
+		},{
+		"isi_soal" : "Gaya yang dikeluarkan untuk memindahkan beban pada pesawat sederhana disebut?",
+		"jawaban" : "C",
+		"pilihanA" : "Gaya usaha",
+		"pilihanB" : "Gaya tenaga ",
+		"pilihanC" : "Gaya kuasa",
+		"pilihanD" : "Gaya beban"
+		},{
+		"isi_soal" : "Berikut ini merupakan pesawat sederhana yang menggunakan prinsip tuas, kecuali..",
+		"jawaban" : "C",
+		"pilihanA" : "Gunting",
+		"pilihanB" : "Jungkat - jungkit",
+		"pilihanC" : "Tangga",
+		"pilihanD" : "Gerobak"
+	}
+	
+	], "level_2":[{
+		"isi_soal" : "Peristiwa yang terjadi pada pengisian akumulator merupakan perubahan bentuk energy dari?",
+		"jawaban" : "B",
+		"pilihanA" : "energy kimia menjadi energy panas",
+		"pilihanB" : "energy kimia menjadi energy listrik",
+		"pilihanC" : "energy listrik menjadi energy kimia",
+		"pilihanD" : "energy listrik menjadi energy panas"
+		},{
+		"isi_soal" : "Energi alternative yang berasal dari luar bumi yaitu..",
+		"jawaban" : "C",
+		"pilihanA" : "panas bumi",
+		"pilihanB" : "angin",
+		"pilihanC" : "matahari",
+		"pilihanD" : "air"
+		},{
+		"isi_soal" : "Pemain sepak bola menggunakan sepatu bola yang bawahnya dibuat kasar dan banyak tonjolan. Hal ini bertujuan untuk?",
+		"jawaban" : "C",
+		"pilihanA" : "mempercepat lari",
+		"pilihanB" : "meringankan beban",
+		"pilihanC" : "memperbesar gaya gesek",
+		"pilihanD" : "mudah menahan bola"
+		},{
+		"isi_soal" : "Perubahan energy pada turbin generator adalah.. ",
+		"jawaban" : "C",
+		"pilihanA" : "kalor menjadi listrik",
+		"pilihanB" : "listrik menjadi panas",
+		"pilihanC" : "gerak menjadi listrik",
+		"pilihanD" : "kimia menjadi gas"
+		},{
+		"isi_soal" : "Cahaya yang merambat di antara dua bidang permukaan yang berbeda kerapatannya akan mengalami?",
+		"jawaban" : "B",
+		"pilihanA" : "pemantulan",
+		"pilihanB" : "pembiasaan",
+		"pilihanC" : "penyerapan",
+		"pilihanD" : "perambatan lurus"
+		},{
+		"isi_soal" : "Bunyi merambat paling cepat melalui?",
+		"jawaban" : "C",
+		"pilihanA" : "ruang hampa",
+		"pilihanB" : "benda cair",
+		"pilihanC" : "benda gas",
+		"pilihanD" : "benda padat"
+		},{
+		"isi_soal" : "Bunyi yang dapat didengar oleh manusia disebut?",
+		"jawaban" : "B",
+		"pilihanA" : "infrasonik",
+		"pilihanB" : "audiosonik",
+		"pilihanC" : "ultrasonik",
+		"pilihanD" : "supersonik"
+		},{
+		"isi_soal" : "Suatu benda dikatakan benda gelap jika benda itu..",
+		"jawaban" : "A",
+		"pilihanA" : "menyerap cahaya",
+		"pilihanB" : "memantulkan cahaya",
+		"pilihanC" : "membaurkan cahaya",
+		"pilihanD" : "membiaskan cahaya"
+		},{
+		"isi_soal" : "Pemasangan rel kereta api diberi jarak karena…",
+		"jawaban" : "D",
+		"pilihanA" : "rel akan mendatar jika kena dingin",
+		"pilihanB" : "rel akan melengkung jika kena dingin",
+		"pilihanC" : "rel akan menyusut jika kena panas",
+		"pilihanD" : "rel akan memuai jika kena panas"
+		},{
+		"isi_soal" : "Peristiwa angin darat dan angin laut merupakan contoh bentuk perpindahan panas secara..",
+		"jawaban" : "B",
+		"pilihanA" : "radiasi",
+		"pilihanB" : "konveksi",
+		"pilihanC" : "konduksi",
+		"pilihanD" : "konstruksi"
+		},{
+		"isi_soal" : "Kegunaan sekring adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "alat pengukur arus listrik",
+		"pilihanB" : "alat penurun tegangan",
+		"pilihanC" : "alat pemutus dan penyambung arus",
+		"pilihanD" : "alat pencegah kebakaran"
+		},{
+		"isi_soal" : "Jalan di pegunungan dibuat berkelok – kelok. Hal ini sesuai dengan prinsip?",
+		"jawaban" : "D",
+		"pilihanA" : "pengungkit",
+		"pilihanB" : "roda berputar",
+		"pilihanC" : "katrol",
+		"pilihanD" : "bidang miring"
+		},{
+		"isi_soal" : "Air yang berada di dalam gelas yang dimiringkan akan terlihat..",
+		"jawaban" : "B",
+		"pilihanA" : "miring",
+		"pilihanB" : "datar",
+		"pilihanC" : "tegak",
+		"pilihanD" : "gas tetap"
+		},{
+		"isi_soal" : "Disebut apakah simpangan terjauh dari titik seimbang?",
+		"jawaban" : "B",
+		"pilihanA" : "Simpangan",
+		"pilihanB" : "Amplitudo",
+		"pilihanC" : "Frekuensi",
+		"pilihanD" : "Periode"
+		},{
+		"isi_soal" : "Bunyi termasuk ke dalam jenis gelombang? ",
+		"jawaban" : "D",
+		"pilihanA" : "horizontal",
+		"pilihanB" : "vertikal",
+		"pilihanC" : "transversal",
+		"pilihanD" : "longitudinal"
+		},{
+		"isi_soal" : "Cermin yang bersifat mengumpulkan sinar adalah..",
+		"jawaban" : "B",
+		"pilihanA" : "cermin datar",
+		"pilihanB" : "cermin cekung",
+		"pilihanC" : "cermin cembung",
+		"pilihanD" : "cermin pembesar"
+		},{
+		"isi_soal" : "Cacat mata dimana bayangan benda jatuh di depan retina disebut?",
+		"jawaban" : "A",
+		"pilihanA" : "Miopi",
+		"pilihanB" : "Hipermetropi",
+		"pilihanC" : "Prebiopi",
+		"pilihanD" : "Astigmatisme"
+		},{
+		"isi_soal" : "Bagian mata yang berfungsi mengatur banyaknya intensitas cahaya yang masuk mata adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "retina",
+		"pilihanB" : "kornea",
+		"pilihanC" : "lensa",
+		"pilihanD" : "pupil"
+		},{
+		"isi_soal" : "Perubahan energy yang terjadi pada baterai yang menyalakan senter adalah? ",
+		"jawaban" : "C",
+		"pilihanA" : "listrik-mekanik-cahaya",
+		"pilihanB" : "kimia-mekanik-cahaya",
+		"pilihanC" : "kimia-listrik-cahaya",
+		"pilihanD" : "mekanik-listrik-cahaya"
+		},{
+		"isi_soal" : "Berikut ini yang termasuk hewan yang dapat menghasilkan arus listrik yaitu..",
+		"jawaban" : "C",
+		"pilihanA" : "landak",
+		"pilihanB" : "gurita",
+		"pilihanC" : "echidna",
+		"pilihanD" : "laba - laba"
+	}
+	
+	], "level_3":[{
+		"isi_soal" : "Energi kinetik rata-rata molekul gas monoatomik dipengaruhi oleh faktor ….?",
+		"jawaban" : "D",
+		"pilihanA" : "volume gas ",
+		"pilihanB" : "jumlah molekul gas ",
+		"pilihanC" : "massa molekul gas",
+		"pilihanD" : "suhu mutlak gas"
+		},{
+		"isi_soal" : "Keadaan panas atau dinginnya suatu benda disebut ....",
+		"jawaban" : "B",
+		"pilihanA" : "kalor",
+		"pilihanB" : "suhu",
+		"pilihanC" : "gaya",
+		"pilihanD" : "panas"
+		},{
+		"isi_soal" : "Satuan Internasional untuk suhu adalah ....... ",
+		"jawaban" : "A",
+		"pilihanA" : "Kelvin",
+		"pilihanB" : "Celcius",
+		"pilihanC" : "Fahrenheit",
+		"pilihanD" : "Reamur"
+		},{
+		"isi_soal" : "Suhu 1000C senilai dengan .....",
+		"jawaban" : "D",
+		"pilihanA" : "273 Kelvin",
+		"pilihanB" : "2120 R",
+		"pilihanC" : "800 F",
+		"pilihanD" : "373 Kelvin"
+		},{
+		"isi_soal" : "Ciri-ciri yang mengindikasikan adanya perubahan kimia, kecuali.......  ",
+		"jawaban" : "D",
+		"pilihanA" : "perubahan warna",
+		"pilihanB" : "perubahan bau",
+		"pilihanC" : "perubahan gas",
+		"pilihanD" : "perubahan jumlah"
+		},{
+		"isi_soal" : "Gaya yang mempengaruhi arah pergerakan angin adalah…. ",
+		"jawaban" : "C",
+		"pilihanA" : "gaya newton ",
+		"pilihanB" : "gaya Lorentz ",
+		"pilihanC" : "gaya coriolis ",
+		"pilihanD" : "gaya gravitasi"
+		},{
+		"isi_soal" : "Pada peristiwa perubahan pisang mentah menjadi matang selama diperam terjadi ...... ",
+		"jawaban" : "B",
+		"pilihanA" : "perubahan fisika",
+		"pilihanB" : "perubahan kimia",
+		"pilihanC" : "perubahan warna",
+		"pilihanD" : "perubahan kekerasan"
+		},{
+		"isi_soal" : "Dibawah ini yang merupakan satuan besaran pokok adalah … ",
+		"jawaban" : "C",
+		"pilihanA" : "Newton ,Meter, Sekon ",
+		"pilihanB" : "Meter, Sekon, Watt ",
+		"pilihanC" : "Kilogram, Kelvin, Meter ",
+		"pilihanD" : "Kelvin, Joule, Watt"
+		},{
+		"isi_soal" : "Kelompok besaran di bawah ini merupakan kelompok besaran turunan, kecuali …",
+		"jawaban" : "D",
+		"pilihanA" : "kecepatan",
+		"pilihanB" : "percepatan",
+		"pilihanC" : "gaya",
+		"pilihanD" : "kuat arus"
+		},{
+		"isi_soal" : "Besaran pokok panjang dapat diturunkan menjadi …",
+		"jawaban" : "C",
+		"pilihanA" : "volume dan daya",
+		"pilihanB" : "volume dan kuat arus listrik",
+		"pilihanC" : "luas dan volume",
+		"pilihanD" : "luas dan tegangan"
+		},{
+		"isi_soal" : "Alat yang tepat untuk mengukur  silinder berongga dengan diameter dalam  1,6  mm dan diameter luar 2,1 mm adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "mistar",
+		"pilihanB" : "altimeter",
+		"pilihanC" : "mikrometer",
+		"pilihanD" : "jangka sorong"
+		},{
+		"isi_soal" : "Satuan dari beberapa besaran-besarn dibawah ini yang benar adalah…",
+		"jawaban" : "D",
+		"pilihanA" : "Massa  -> Newton",
+		"pilihanB" : "Berat  -> Kilogram",
+		"pilihanC" : "usaha -> joule/sekon",
+		"pilihanD" : "Tekanan  -> Paskal"
+		},{
+		"isi_soal" : "Dimensi ML-1T-2 menyatakan dimensi : …..",
+		"jawaban" : "D",
+		"pilihanA" : "Gaya",
+		"pilihanB" : "Energi",
+		"pilihanC" : "Daya",
+		"pilihanD" : "Tekanan"
+		},{
+		"isi_soal" : "Rumus dimensi momentum adalah ……",
+		"jawaban" : "C",
+		"pilihanA" : "MLT-3",
+		"pilihanB" : "ML -1T-2",
+		"pilihanC" : "MLT-1",
+		"pilihanD" : "ML -2T2"
+		},{
+		"isi_soal" : "Rumus dimensi daya adalah … ",
+		"jawaban" : "D",
+		"pilihanA" : "ML 2T-2",
+		"pilihanB" : "ML 3T-2",
+		"pilihanC" : "MLT¯²",
+		"pilihanD" : "ML²T-3"
+		},{
+		"isi_soal" : "Besaran di bawah merupakan besaran skalar , kecuali….",
+		"jawaban" : "C",
+		"pilihanA" : "jarak",
+		"pilihanB" : "waktu",
+		"pilihanC" : "gaya",
+		"pilihanD" : "luas"
+		},{
+		"isi_soal" : " Dari hasil pengukuran di bawah ini termasuk vector, kecuali …",
+		"jawaban" : "A",
+		"pilihanA" : "daya",
+		"pilihanB" : "kecepatan",
+		"pilihanC" : "momentum",
+		"pilihanD" : "berat"
+		},{
+		"isi_soal" : "Dua buah gaya bernilai 3 N dan 4 N. Resultan gaya tersebut tidak mungkin bernilai ….",
+		"jawaban" : "D",
+		"pilihanA" : "-1 N",
+		"pilihanB" : "2 N",
+		"pilihanC" : "5 N",
+		"pilihanD" : "8 N"
+		},{
+		"isi_soal" : "Diantara kelompok besaran berikut, termasuk kelompok besaran pokok dalam   system Internasional, kecuali ….",
+		"jawaban" : "A",
+		"pilihanA" : "massa jenis",
+		"pilihanB" : "kuat arus",
+		"pilihanC" : "intensitas cahaya",
+		"pilihanD" : "waktu"
+		},{
+		"isi_soal" : "Satuan internasional untuk intensitas cahaya adalah..",
+		"jawaban" : "C",
+		"pilihanA" : "radian",
+		"pilihanB" : "mole",
+		"pilihanC" : "candela",
+		"pilihanD" : "ampere"
+	}
+	], "level_4":[{
+		"isi_soal" : "Teori kinetik gas ideal menyatakan partikel-partikel gas selalu bergerak hingga memiliki …. ?",
+		"jawaban" : "D",
+		"pilihanA" : "volume air",
+		"pilihanB" : "kecepatan",
+		"pilihanC" : "energy potensial",
+		"pilihanD" : "energy kinetik"
+		},{
+		"isi_soal" : "Energi yang terdapat pada gas ideal adalah energi kinetik atau disebut dengan energi ….",
+		"jawaban" : "B",
+		"pilihanA" : "utama",
+		"pilihanB" : "dalam",
+		"pilihanC" : "bebas",
+		"pilihanD" : "luar"
+		},{
+		"isi_soal" : "Bila suhu gas makin tinggi, maka kecepatan partikel gas akan makin ….",
+		"jawaban" : "C",
+		"pilihanA" : "kecil",
+		"pilihanB" : "rendah",
+		"pilihanC" : "besar",
+		"pilihanD" : "sedang"
+		},{
+		"isi_soal" : "Alat yang diperlukan untuk mengukur tekanan atmosfer (udara) adalah ….",
+		"jawaban" : "C",
+		"pilihanA" : "termometer",
+		"pilihanB" : "altometer",
+		"pilihanC" : "barometer",
+		"pilihanD" : "higrometer"
+		},{
+		"isi_soal" : "Tekanan yang diberikan pada zat cair di dalam ruang tertutup diteruskan sama besar ke segala arah, adalah hukum …. ",
+		"jawaban" : "A",
+		"pilihanA" : "Pascal",
+		"pilihanB" : "Gay - Lussac",
+		"pilihanC" : "Archimedes",
+		"pilihanD" : "Boyle"
+		},{
+		"isi_soal" : "Suatu besaran yang didefinisikan sebagai gaya bekerja tegak lurus pada suatu bidang persatuan luas bidang itu disebut ….",
+		"jawaban" : "A",
+		"pilihanA" : "tekanan",
+		"pilihanB" : "usaha",
+		"pilihanC" : "gaya",
+		"pilihanD" : "fluida"
+		},{
+		"isi_soal" : "Hukum pokok hidrostatika menyatakan bahwa semua titik yang terletak pada bidang datar, di dalam satu jenis zat cair, memiliki ….",
+		"jawaban" : "D",
+		"pilihanA" : "energy yang sama",
+		"pilihanB" : "fluida",
+		"pilihanC" : "usaha yang sama",
+		"pilihanD" : "tekanan yang sama"
+		},{
+		"isi_soal" : "Zat yang dapat mengalir dan memberikan sedikit hambatan terhadap perubahan bentuk saat ditekan adalah ….",
+		"jawaban" : "B",
+		"pilihanA" : "zat padat",
+		"pilihanB" : "fluida",
+		"pilihanC" : "tekanan",
+		"pilihanD" : "daya"
+		},{
+		"isi_soal" : "Perpaduan gerak lurus beraturan dan gerak lurus berubah beraturan dapat menghasilkan sebuah....",
+		"jawaban" : "C",
+		"pilihanA" : "gerak lurus beraturan",
+		"pilihanB" : "gerak lurus berubah beraturan",
+		"pilihanC" : "gerak parabola",
+		"pilihanD" : "gerak melingkar"
+		},{
+		"isi_soal" : "Gerak bolak-balik suatu benda melewati titik keseimbangan disebut….",
+		"jawaban" : "C",
+		"pilihanA" : "gerak lurus beraturan",
+		"pilihanB" : "gerak melingkar",
+		"pilihanC" : "gerak harmonik",
+		"pilihanD" : "gerak parabola"
+		},{
+		"isi_soal" : ". Beberapa benda ingin di uji gaya tariknya. Agar nilai gaya gravitasi besar maka posisi dari dua benda tersebut adalah... ?",
+		"jawaban" : "A",
+		"pilihanA" : "di ubah jaraknya",
+		"pilihanB" : "diperbesar jaraknya",
+		"pilihanC" : "diperkecil jaraknya",
+		"pilihanD" : " diubah massanya"
+		},{
+		"isi_soal" : "Sebuah pegas panjang awalnya L0, luas penampangnya A dan modulus youngnya adalah E . besarnya konstanta (k). adalah...",
+		"jawaban" : "A",
+		"pilihanA" : "EA/L",
+		"pilihanB" : "AL/E",
+		"pilihanC" : "EL/A",
+		"pilihanD" : "E/AL"
+		},{
+		"isi_soal" : "dimensi konstanta pegas adalah...",
+		"jawaban" : "C",
+		"pilihanA" : "M . T",
+		"pilihanB" : "M . T2",
+		"pilihanC" : ".M . T-2",
+		"pilihanD" : "M . L . T-2"
+		},{
+		"isi_soal" : "berikut ini besaran yang tidak memiliki satuan sama ...",
+		"jawaban" : "E",
+		"pilihanA" : "usaha-energi",
+		"pilihanB" : "usaha-energi kinetik",
+		"pilihanC" : ".tenaga-usaha",
+		"pilihanD" : "gaya-usaha"
+		},{
+		"isi_soal" : "penyusun utama besaran usaha adalah... ",
+		"jawaban" : "C",
+		"pilihanA" : "perpindahan",
+		"pilihanB" : "gaya",
+		"pilihanC" : "gaya dan perpindahan",
+		"pilihanD" : "energi"
+		},{
+		"isi_soal" : "dimensi impuls adalah...",
+		"jawaban" : "A",
+		"pilihanA" : "M L T-1",
+		"pilihanB" : "M L T-2",
+		"pilihanC" : "M L-1 T-1",
+		"pilihanD" : "M L-2 T"
+		},{
+		"isi_soal" : "pada tumbukan lenting sempurna ,berlaku hukum kekekalan...",
+		"jawaban" : "D",
+		"pilihanA" : "momentum",
+		"pilihanB" : "energy kinetik",
+		"pilihanC" : "energy potensial",
+		"pilihanD" : "momentum dan energy kinetik"
+		},{
+		"isi_soal" : "jumlah momentum kedua benda yang bertumbukan yaitu...",
+		"jawaban" : "B",
+		"pilihanA" : "berubah",
+		"pilihanB" : "tetap",
+		"pilihanC" : "berubah lalu tetap",
+		"pilihanD" : "tetap lalu berubah"
+		},{
+		"isi_soal" : "Besaran yang memiliki nilai dan arah adalah….",
+		"jawaban" : "D",
+		"pilihanA" : "Besaran Pokok  ",
+		"pilihanB" : "Besaran turunan",
+		"pilihanC" : "Besaran skalar",
+		"pilihanD" : "Besaran vektor"
+		},{
+		"isi_soal" : "Vektor dikatakan sama apabila….",
+		"jawaban" : "C",
+		"pilihanA" : "arahnya sama",
+		"pilihanB" : "besarnya sama  ",
+		"pilihanC" : "arah dan besarnya sama",
+		"pilihanD" : "arah berlawanan dan besarnya sama"
+	}
+	], "level_5":[{
+		"isi_soal" : "Dari suatu tempat ke tempat lainya, yang di pindahkan oleh gelombang adalah…. ?",
+		"jawaban" : "C",
+		"pilihanA" : "amplituda",
+		"pilihanB" : "panjang gelombang",
+		"pilihanC" : "energi",
+		"pilihanD" : "fase"
+		},{
+		"isi_soal" : "Perbedaan dasar antara gelombang transversal dengan gelombang longitudinal adalah…. ",
+		"jawaban" : "C",
+		"pilihanA" : "Amplitude  ",
+		"pilihanB" : "Frekuensi ",
+		"pilihanC" : "Arah getar",
+		"pilihanD" : "Arah rambat gelombang"
+		},{
+		"isi_soal" : "Bila gelombang melalui celah sempit, maka terjadi … . ",
+		"jawaban" : "C",
+		"pilihanA" : "refleksi",
+		"pilihanB" : "refraksi",
+		"pilihanC" : "difraksi",
+		"pilihanD" : "interferensi"
+		},{
+		"isi_soal" : "Pada pembiasan gelombang dari daerah dangkal ke daerah dalam, makin kecil sudut datang, maka … ",
+		"jawaban" : "A",
+		"pilihanA" : "sudut bias membesar",
+		"pilihanB" : "sudut bias tetap",
+		"pilihanC" : "sudut bias mengecil",
+		"pilihanD" : "sudut bias menyusut"
+		},{
+		"isi_soal" : "Bagian mata yang berfungsi sebagai layar yang menerima bayangan yang terbentuk adalah … ",
+		"jawaban" : "C",
+		"pilihanA" : "iris",
+		"pilihanB" : "lensa",
+		"pilihanC" : "retina",
+		"pilihanD" : "kornea"
+		},{
+		"isi_soal" : "Kemampuan mata untuk menyesuaikan diri terhadap objek yang dilihat disebut …. ",
+		"jawaban" : "D",
+		"pilihanA" : "daya cembung",
+		"pilihanB" : "daya cekung",
+		"pilihanC" : "titik dekat",
+		"pilihanD" : "daya akomodasi"
+		},{
+		"isi_soal" : "Mata normal  mempunyai titik dekat mata atau PP pada jarak ….  cm ",
+		"jawaban" : "A",
+		"pilihanA" : "25",
+		"pilihanB" : "30",
+		"pilihanC" : ">25",
+		"pilihanD" : "<25"
+		},{
+		"isi_soal" : "Cacat mata yang menggunakan lensa silindris adalah .... ",
+		"jawaban" : "D",
+		"pilihanA" : "miopi",
+		"pilihanB" : "katarak",
+		"pilihanC" : "presbiopi",
+		"pilihanD" : "astigmatisma"
+		},{
+		"isi_soal" : "Penderita cacat mata presbiopi dapat di tolong  dengan lensa …. ",
+		"jawaban" : "C",
+		"pilihanA" : "positif",
+		"pilihanB" : "negatif",
+		"pilihanC" : "rangkap",
+		"pilihanD" : "silindris"
+		},{
+		"isi_soal" : "berikut ini adalah sifat bayangan yang dibentuk oleh lensa objektif pada mikroskop, kecuali..",
+		"jawaban" : "C",
+		"pilihanA" : "nyata",
+		"pilihanB" : "terbalik",
+		"pilihanC" : "diperkecil",
+		"pilihanD" : "diperbesar"
+		},{
+		"isi_soal" : "Penunjukkan skala termometer Celcius sama dengan skala termometer Fahrenheit terjadi pada suhu ....?",
+		"jawaban" : "C",
+		"pilihanA" : "-500 C",
+		"pilihanB" : "-400 C",
+		"pilihanC" : "320 C",
+		"pilihanD" : "400 C"
+		},{
+		"isi_soal" : "Skala termometer Fahrenheit = 2 kali skala termometer Celcius pada angka …. °F ",
+		"jawaban" : "D",
+		"pilihanA" : "40",
+		"pilihanB" : "80",
+		"pilihanC" : "160",
+		"pilihanD" : "320"
+		},{
+		"isi_soal" : "Peristiwa perpaduan dua gelombang yang memiliki beda fase dan frekuensi sama adalah.... ",
+		"jawaban" : "C",
+		"pilihanA" : "refraksi",
+		"pilihanB" : "difraksi",
+		"pilihanC" : "interferensi",
+		"pilihanD" : "polarisasi"
+		},{
+		"isi_soal" : "peristiwa berubahnya frekwensi gelombang akibat gerak relative antara sumber gelombang dengan pengamat disebut?",
+		"jawaban" : "C",
+		"pilihanA" : "efek doulb",
+		"pilihanB" : "efek dolby",
+		"pilihanC" : "efek dopler",
+		"pilihanD" : "efek dobber"
+		},{
+		"isi_soal" : "Disebut apakah titik pada gelombang dimana amplitudonya selalu nol?",
+		"jawaban" : "D",
+		"pilihanA" : "titik dekat",
+		"pilihanB" : "titik stasioner",
+		"pilihanC" : "titik puncak",
+		"pilihanD" : "titik simpul"
+		},{
+		"isi_soal" : "Gelombang longitudinal tidak dapat mengalami ... ",
+		"jawaban" : "A",
+		"pilihanA" : "polarisasi",
+		"pilihanB" : "refleksi",
+		"pilihanC" : "refraksi",
+		"pilihanD" : "difraksi"
+		},{
+		"isi_soal" : "Peristiwa pembelokan gelombang penghalang berupa celah disebut ?",
+		"jawaban" : "D",
+		"pilihanA" : "Superposisi",
+		"pilihanB" : "Refraksi",
+		"pilihanC" : "Polaroidisasi",
+		"pilihanD" : "Difraksi"
+		},{
+		"isi_soal" : "Alat untuk menentukan cepat rambat gelombang transversal dalam dawai disebut ...",
+		"jawaban" : "B",
+		"pilihanA" : "anenometer",
+		"pilihanB" : "sonometer",
+		"pilihanC" : "audiometer",
+		"pilihanD" : "soundmeter"
+		},{
+		"isi_soal" : "Superposisi adalah penggabungan dua atau lebih gelombang tunggal. Superposisi dikatakan sefase bila ...",
+		"jawaban" : "C",
+		"pilihanA" : "A sama, simpangan ½A",
+		"pilihanB" : "A sama, simpangan 1A ",
+		"pilihanC" : "A sama, simpangan 2A ",
+		"pilihanD" : "A sama, simpangan 4A "
+		},{
+		"isi_soal" : "Kuat medan listrik tegak lurus di antara keping sejajar dituliskan dengan persamaan ...",
+		"jawaban" : "A",
+		"pilihanA" : "E = σ/εo",
+		"pilihanB" : "E = µo/εo",
+		"pilihanC" : "E = εoA/d",
+		"pilihanD" : "E = σ/σεo"
+	}]
+}
+

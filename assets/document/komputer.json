@@ -1,0 +1,712 @@
+
+
+
+	
+{ "level_1":[{
+		"isi_soal" : "Apakah yang dimaksud dengan computer?",
+		"jawaban" : "A",
+		"pilihanA" : "alat hitung",
+		"pilihanB" : "alat memasak",
+		"pilihanC" : "alat bernyanyi",
+		"pilihanD" : "alat makan"
+		},{
+		"isi_soal" : "Perangkat lunak yang digunakan untuk menulis surat adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "Paint",
+		"pilihanB" : "Microsot Excel",
+		"pilihanC" : "Microsoft Word",
+		"pilihanD" : "Microsoft Powerpoint"
+		},{
+		"isi_soal" : "Paint dapat digunakan untuk?",
+		"jawaban" : "B",
+		"pilihanA" : "menulis",
+		"pilihanB" : "menggambar",
+		"pilihanC" : "menghitung",
+		"pilihanD" : "menyanyi"
+		},{
+		"isi_soal" : "Perangkat lunak yang dapat digunakan untuk menggambar adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "Paint",
+		"pilihanB" : "Word",
+		"pilihanC" : "Excel",
+		"pilihanD" : "Notepad"
+		},{
+		"isi_soal" : "Menu yang digunakan untuk mengatur jenis dan ukuran kertas adalah?",
+		"jawaban" : "B",
+		"pilihanA" : "Spacing",
+		"pilihanB" : "Page setup",
+		"pilihanC" : "View",
+		"pilihanD" : "Format"
+		},{
+		"isi_soal" : "Tools yang digunakan untuk menebalkan huruf pada ms. Word adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "Bold",
+		"pilihanB" : "Italic",
+		"pilihanC" : "Underline",
+		"pilihanD" : "Hanging"
+		},{
+		"isi_soal" : "Hiasan tepi pada dokumen disebut juga dengan?",
+		"jawaban" : "B",
+		"pilihanA" : "page number",
+		"pilihanB" : "page border",
+		"pilihanC" : "numberring",
+		"pilihanD" : "bullet"
+		},{
+		"isi_soal" : "Tools yang digunakan untuk menyimpan dokumen adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "Open",
+		"pilihanB" : "Copy",
+		"pilihanC" : "Paste",
+		"pilihanD" : "Save"
+		},{
+		"isi_soal" : "Tools yang digunakan untuk perataan tengah pada ms. Word adalah?",
+		"jawaban" : "B",
+		"pilihanA" : "Left",
+		"pilihanB" : "Center",
+		"pilihanC" : "Right",
+		"pilihanD" : "Justify"
+		},{
+		"isi_soal" : "Untuk memberi nomor pada teks yang telah kita ketik menggunakan?",
+		"jawaban" : "A",
+		"pilihanA" : "numbering",
+		"pilihanB" : "word art",
+		"pilihanC" : "clip art",
+		"pilihanD" : "picture"
+		},{
+		"isi_soal" : "Tombol backspace pada keyboard digunakan untuk?",
+		"jawaban" : "A",
+		"pilihanA" : "menghapus tulisan",
+		"pilihanB" : "mengganti huruf",
+		"pilihanC" : "menyelipkan tulisan",
+		"pilihanD" : "mengeblok huruf"
+		},{
+		"isi_soal" : "Kegunaan ms. Word adalah sebagai berikut, kecuali..?",
+		"jawaban" : "D",
+		"pilihanA" : "membuat cerita",
+		"pilihanB" : "membuat surat",
+		"pilihanC" : "membuat undangan",
+		"pilihanD" : "merekam suara"
+		},{
+		"isi_soal" : "Untuk mengatur paragraph agar rata kanan dan kiri menggunakan?",
+		"jawaban" : "D",
+		"pilihanA" : "left",
+		"pilihanB" : "center",
+		"pilihanC" : "right",
+		"pilihanD" : "justify"
+		},{
+		"isi_soal" : "Perangkat keras pada computer disebut dengan ?",
+		"jawaban" : "B",
+		"pilihanA" : "software",
+		"pilihanB" : "hardware",
+		"pilihanC" : "windows",
+		"pilihanD" : "linux"
+		},{
+		"isi_soal" : "Untuk mencetak dokumen, dapat dilakukan dengan menekan tombol CTRL dan huruf..?",
+		"jawaban" : "D",
+		"pilihanA" : "M",
+		"pilihanB" : "N",
+		"pilihanC" : "O",
+		"pilihanD" : "P"
+		},{
+		"isi_soal" : "Untuk menggaris bawahi tulisan dapat dilakukan dengan menekan CTRL dan huruf?",
+		"jawaban" : "C",
+		"pilihanA" : "A",
+		"pilihanB" : "I",
+		"pilihanC" : "U",
+		"pilihanD" : "E"
+		},{
+		"isi_soal" : "Perangkat lunak disebut dengan?",
+		"jawaban" : "B",
+		"pilihanA" : "hardware ",
+		"pilihanB" : "software",
+		"pilihanC" : "brainware",
+		"pilihanD" : "internet"
+		},{
+		"isi_soal" : "Berikut ini termasuk perangkatkeras, kecuali..?",
+		"jawaban" : "A",
+		"pilihanA" : "Microsoft word",
+		"pilihanB" : "Mouse",
+		"pilihanC" : "Keyboard",
+		"pilihanD" : "CPU"
+		},{
+		"isi_soal" : "Perangkat lunak yang digunakan untuk membuat presentasi adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "Ms. word",
+		"pilihanB" : "Ms. excel",
+		"pilihanC" : "Ms. powerpoint",
+		"pilihanD" : "Ms. outlook"
+		},{
+		"isi_soal" : "Pengguna computer disebut dengan?",
+		"jawaban" : "C",
+		"pilihanA" : "hardware",
+		"pilihanB" : "software",
+		"pilihanC" : "brainware",
+		"pilihanD" : "internet"
+	}
+	
+	], "level_2":[{
+		"isi_soal" : "Untuk menampilkan data berupa gambar, video dan dokumen lainnya adalah fungsi dari?",
+		"jawaban" : "D",
+		"pilihanA" : "speaker",
+		"pilihanB" : "keyboard",
+		"pilihanC" : "printer",
+		"pilihanD" : "monitor"
+		},{
+		"isi_soal" : "Tombol – tombol yang digunakan untuk mengetik adalah?",
+		"jawaban" : "B",
+		"pilihanA" : "monitor",
+		"pilihanB" : "keyboard",
+		"pilihanC" : "CPU",
+		"pilihanD" : "Mouse"
+		},{
+		"isi_soal" : "Untuk mencetak dokumen menggunakan?",
+		"jawaban" : "C",
+		"pilihanA" : "keyboard",
+		"pilihanB" : "mouse",
+		"pilihanC" : "printer",
+		"pilihanD" : "speaker"
+		},{
+		"isi_soal" : "Wadah/cangkang yang digunakan untuk melindungi komponen computer yaitu?",
+		"jawaban" : "A",
+		"pilihanA" : "casing",
+		"pilihanB" : "hardisk",
+		"pilihanC" : "monitor",
+		"pilihanD" : "printer"
+		},{
+		"isi_soal" : "Di bawah ini yang tidak digunakan untuk menyimpan data adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "hardisk",
+		"pilihanB" : "CD/DVD",
+		"pilihanC" : "flashdisk",
+		"pilihanD" : "mouse"
+		},{
+		"isi_soal" : "Yang disebut otak computer adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "mouse",
+		"pilihanB" : "keyboard",
+		"pilihanC" : "CPU",
+		"pilihanD" : "monitor"
+		},{
+		"isi_soal" : "Hardware yang digunakan untuk menyimpan daya listrik adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "UBS",
+		"pilihanB" : "Disket",
+		"pilihanC" : "DVD Rom",
+		"pilihanD" : "Keyboard"
+		},{
+		"isi_soal" : "Hardware yang digunakan untuk mengeluarkan bunyi adalah?",
+		"jawaban" : "B",
+		"pilihanA" : "CPU",
+		"pilihanB" : "Speaker",
+		"pilihanC" : "Mouse",
+		"pilihanD" : "Printer"
+		},{
+		"isi_soal" : "Istilah yang digunakan pada mouse adalah sebagai berikut, kecuali?",
+		"jawaban" : "C",
+		"pilihanA" : "point",
+		"pilihanB" : "klik",
+		"pilihanC" : "geser",
+		"pilihanD" : "drag"
+		},{
+		"isi_soal" : "Sistem operasi produk Microsoft sebelum windows adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "DOS",
+		"pilihanB" : "Linux",
+		"pilihanC" : "Safari",
+		"pilihanD" : "Opera"
+		},{
+		"isi_soal" : "Kata “computer” berasal dari bahasa latin “computare” yang berarti?",
+		"jawaban" : "A",
+		"pilihanA" : "menghitung",
+		"pilihanB" : "menggambar",
+		"pilihanC" : "menulis",
+		"pilihanD" : "mengkopi"
+		},{
+		"isi_soal" : "Lembar kerja elektronik pada ms. Excel yang merupakan bagian dari workbook yaitu?",
+		"jawaban" : "A",
+		"pilihanA" : "worksheet",
+		"pilihanB" : "cell",
+		"pilihanC" : "range",
+		"pilihanD" : "workplace"
+		},{
+		"isi_soal" : "Kumpulan dari cell pada ms. Excel disebut?",
+		"jawaban" : "C",
+		"pilihanA" : "worksheet",
+		"pilihanB" : "cell",
+		"pilihanC" : "range",
+		"pilihanD" : "workbook"
+		},{
+		"isi_soal" : "Fungsi apa yang digunakan untuk menjumlahkan bilangan pada ms. Excel?",
+		"jawaban" : "D",
+		"pilihanA" : "MAX",
+		"pilihanB" : "MIN",
+		"pilihanC" : "IF",
+		"pilihanD" : "SUM"
+		},{
+		"isi_soal" : "Untuk mencari bilangan tertinggi pada Ms. Excel, menggunakan fungsi?",
+		"jawaban" : "A",
+		"pilihanA" : "MAX",
+		"pilihanB" : "MIN",
+		"pilihanC" : "IF",
+		"pilihanD" : "SUM"
+		},{
+		"isi_soal" : "Fungsi untuk menambah jumlah digit decimal pada ms. Excel adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "decrease decimal",
+		"pilihanB" : "comma style",
+		"pilihanC" : "increase decimal",
+		"pilihanD" : "percent style"
+		},{
+		"isi_soal" : "Untuk menambahkan mata uang pada angka di ms. Excel menggunakan ?",
+		"jawaban" : "C",
+		"pilihanA" : "date",
+		"pilihanB" : "general",
+		"pilihanC" : "currency",
+		"pilihanD" : "fraction"
+		},{
+		"isi_soal" : "Penulisan rumus jumlah sel B2 sampai B4 yang benar adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "=SUM(B2:B4)",
+		"pilihanB" : "=SUM(B2+B4)",
+		"pilihanC" : "=SUM(B2..B4)",
+		"pilihanD" : "B2+B4"
+		},{
+		"isi_soal" : "Pada saat kita melakukan drag and drop, perangkat yang diperlukan adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "keyboard",
+		"pilihanB" : "printer",
+		"pilihanC" : "mouse",
+		"pilihanD" : "monitor"
+		},{
+		"isi_soal" : "Sebelum dicetak, dokumen dapat kita lihat terlebih dahulu dengan tools?",
+		"jawaban" : "B",
+		"pilihanA" : "save as",
+		"pilihanB" : "print preview",
+		"pilihanC" : "page setup",
+		"pilihanD" : "open"
+	}
+	], "level_3":[{
+		"isi_soal" : "Yang merupakan Sistem Operasi adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "MS. DOS",
+		"pilihanB" : "MS. Word",
+		"pilihanC" : "Ms. Excel",
+		"pilihanD" : "Norton Utility"
+		},{
+		"isi_soal" : "Perusahaan yang menyediakan jasa internet adalah?",
+		"jawaban" : "B",
+		"pilihanA" : "website",
+		"pilihanB" : "ISP",
+		"pilihanC" : "homepage",
+		"pilihanD" : "hacker"
+		},{
+		"isi_soal" : "Kumpulan dari email yang digabungkan disebut?",
+		"jawaban" : "B",
+		"pilihanA" : "e-mail",
+		"pilihanB" : "mailing list",
+		"pilihanC" : "chatting",
+		"pilihanD" : "download"
+		},{
+		"isi_soal" : "Jaringan yang memiliki jangkauan hingga sebuah Negara atau benua adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "SAN",
+		"pilihanB" : "MAN",
+		"pilihanC" : "WAN",
+		"pilihanD" : "LAN"
+		},{
+		"isi_soal" : "Pesan tertulis yang dikirim melalui internet disebut?",
+		"jawaban" : "A",
+		"pilihanA" : "e-mail",
+		"pilihanB" : "mailing list",
+		"pilihanC" : "chatting",
+		"pilihanD" : "upload"
+		},{
+		"isi_soal" : "Berikut ini adalah layanan penyedia e-mail, kecuali?",
+		"jawaban" : "D",
+		"pilihanA" : "ymail",
+		"pilihanB" : "gmail",
+		"pilihanC" : "hotmail",
+		"pilihanD" : "ms. outlook"
+		},{
+		"isi_soal" : "Jaringan computer yang jangkauannya seluas area kecil seperti pada perkantoran disebut?",
+		"jawaban" : "D",
+		"pilihanA" : "SAN",
+		"pilihanB" : "MAN",
+		"pilihanC" : "WAN",
+		"pilihanD" : "LAN"
+		},{
+		"isi_soal" : "Tools untuk melampirkan file pada email yang akan kita kirim yaitu?",
+		"jawaban" : "D",
+		"pilihanA" : "inbox",
+		"pilihanB" : "outbox",
+		"pilihanC" : "reply",
+		"pilihanD" : "attachment"
+		},{
+		"isi_soal" : "untuk membalas email dapat dilakukan dengan memilih menu?",
+		"jawaban" : "B",
+		"pilihanA" : "compose",
+		"pilihanB" : "reply",
+		"pilihanC" : "outbox",
+		"pilihanD" : "draft"
+		},{
+		"isi_soal" : "Software aplikasi yang digunakan untuk menampilkan halaman web disebut?",
+		"jawaban" : "C",
+		"pilihanA" : "paint",
+		"pilihanB" : "smadav",
+		"pilihanC" : "browser",
+		"pilihanD" : "winamp"
+		},{
+		"isi_soal" : "Berikut ini yang tidak termasuk browser adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "Chrome",
+		"pilihanB" : "Mozilla firefox",
+		"pilihanC" : "KMP Player",
+		"pilihanD" : "Opera mini"
+		},{
+		"isi_soal" : "Tools yang digunakan untuk mengulangi proses loading sebuah halaman web adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "forward",
+		"pilihanB" : "back",
+		"pilihanC" : "refresh",
+		"pilihanD" : "stop"
+		},{
+		"isi_soal" : "Suatu website yang digunakan untuk mencari informasi pada internet disebut?",
+		"jawaban" : "B",
+		"pilihanA" : "downloader",
+		"pilihanB" : "social media",
+		"pilihanC" : "search engine",
+		"pilihanD" : "blog"
+		},{
+		"isi_soal" : "Halaman pertama dalam sebuah situs web disebut?",
+		"jawaban" : "C",
+		"pilihanA" : "browser",
+		"pilihanB" : "protocol",
+		"pilihanC" : "home page",
+		"pilihanD" : "hyperlink"
+		},{
+		"isi_soal" : "Situs –situs pemerintahan menggunakan domain…",
+		"jawaban" : "C",
+		"pilihanA" : ".ac",
+		"pilihanB" : ".edu",
+		"pilihanC" : ".gov ",
+		"pilihanD" : ".com"
+		},{
+		"isi_soal" : "Berikut ini yang bukan termasuk search engine adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "google",
+		"pilihanB" : "yahoo",
+		"pilihanC" : "altavista",
+		"pilihanD" : "indowebster"
+		},{
+		"isi_soal" : "Suatu layanan internet yang berfungsi sebagai media informasi dan menjalin pertemanan yaitu?",
+		"jawaban" : "D",
+		"pilihanA" : "blog",
+		"pilihanB" : "search engine",
+		"pilihanC" : "e-mail",
+		"pilihanD" : "social media"
+		},{
+		"isi_soal" : "Berikut ini yang tidak termasuk social media adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "facebook",
+		"pilihanB" : "twitter",
+		"pilihanC" : "plurk ",
+		"pilihanD" : "skype"
+		},{
+		"isi_soal" : "Gambaran bentuk fisik pada jaringan computer beserta aturannya disebut?",
+		"jawaban" : "B",
+		"pilihanA" : "networking",
+		"pilihanB" : "topologi",
+		"pilihanC" : "koneksi",
+		"pilihanD" : "internet"
+		},{
+		"isi_soal" : "Yang diperlukan untuk membuat akun pada sosial media adalah?",
+		"jawaban" : "B",
+		"pilihanA" : "No. rekening",
+		"pilihanB" : "alamat email",
+		"pilihanC" : "alamat rumah",
+		"pilihanD" : "nomor ATM"
+	}
+	], "level_4":[{
+		"isi_soal" : "Teknologi Nirkabel yang dapat digunakan untuk transfer data adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "kabel data",
+		"pilihanB" : "card reader",
+		"pilihanC" : "bluetooth",
+		"pilihanD" : "head set"
+		},{
+		"isi_soal" : "Komputer yang hanya dapat mengakses informasi atau layanan di komputer induk disebut?",
+		"jawaban" : "C",
+		"pilihanA" : "Personal computer",
+		"pilihanB" : "Server",
+		"pilihanC" : "Client",
+		"pilihanD" : "Notebook"
+		},{
+		"isi_soal" : "Topologi jaringan yang berbentuk lingkaran adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "Bus",
+		"pilihanB" : "Star",
+		"pilihanC" : "Line",
+		"pilihanD" : "Ring"
+		},{
+		"isi_soal" : "Dalam bidang jaringan komunikasi dikenal istilah Disconnect yaitu istilah untuk…",
+		"jawaban" : "A",
+		"pilihanA" : "memutuskan jaringan",	
+		"pilihanB" : "menyambungkan ke jaringan",
+		"pilihanC" : "mengambil data",
+		"pilihanD" : "mengirim data"
+		},{
+		"isi_soal" : "Kejahatan dengan menggunakan internet disebut?",
+		"jawaban" : "A",
+		"pilihanA" : "cybercrime",
+		"pilihanB" : "chatting",
+		"pilihanC" : "browsing",
+		"pilihanD" : "surfing"
+		},{
+		"isi_soal" : "Jasa penyedia layanan internet dikenal juga dengan istilah...",
+		"jawaban" : "D",
+		"pilihanA" : "chatting",
+		"pilihanB" : "download",
+		"pilihanC" : "upload",
+		"pilihanD" : "ISP"
+		},{
+		"isi_soal" : "Daerah yang bisa mengakses sinyal Wifi di sekitar Base Station nya disebut?",
+		"jawaban" : "D",
+		"pilihanA" : "radius",
+		"pilihanB" : "kawasan konservasi",
+		"pilihanC" : "LAN",
+		"pilihanD" : "hotspot"
+		},{
+		"isi_soal" : "Dalam suatu jaringan, komputer yang memberikan layanan kepada Client disebut?",
+		"jawaban" : "D",
+		"pilihanA" : "guest",
+		"pilihanB" : "laptop",
+		"pilihanC" : "personal computer",
+		"pilihanD" : "server"
+		},{
+		"isi_soal" : "Yang tidak termasuk kedalam peralatan dan syarat akses internet adalah…",
+		"jawaban" : "C",
+		"pilihanA" : "computer dan modem ",
+		"pilihanB" : "software internet",
+		"pilihanC" : "card reader",
+		"pilihanD" : "ISP"
+		},{
+		"isi_soal" : "Kegiatan mengambil data dari internet disebut?",
+		"jawaban" : "B",
+		"pilihanA" : "upload",
+		"pilihanB" : "download",
+		"pilihanC" : "chatting",
+		"pilihanD" : "browsing"
+		},{
+		"isi_soal" : "Akses Dial Up adalah akses internet yang menggunakan? ",
+		"jawaban" : "B",
+		"pilihanA" : "TV Kabel",
+		"pilihanB" : "Modem dan Telepon",
+		"pilihanC" : "Satelit",
+		"pilihanD" : "Kabel listrik"
+		},{
+		"isi_soal" : "Kepanjangan Wifi adalah…",
+		"jawaban" : "A",
+		"pilihanA" : "Wireless Fidelity",
+		"pilihanB" : "Wide Fide",
+		"pilihanC" : "Windows Fiesta",
+		"pilihanD" : "Wireless Film"
+		},{
+		"isi_soal" : "DSL kepanjangan dari?",
+		"jawaban" : "C",
+		"pilihanA" : "Diesel",
+		"pilihanB" : "Data Short Line",
+		"pilihanC" : "Digital Subscriber Line",
+		"pilihanD" : "Data Short Link"
+		},{
+		"isi_soal" : "Aplikasi yang digunakan untuk bercakap-cakap di internet dengan menggunakan teks adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "Microsoft word",
+		"pilihanB" : "Photoshop",
+		"pilihanC" : "File Transfer Protocol",
+		"pilihanD" : "mIRC"
+		},{
+		"isi_soal" : "bps kepanjangan dari?",
+		"jawaban" : "C",
+		"pilihanA" : "bit per speed",
+		"pilihanB" : "byte per speed",
+		"pilihanC" : "bit per second",
+		"pilihanD" : "byte per second"
+		},{
+		"isi_soal" : "Topologi yang berbentuk seperti cabang pohon adalah ciri dari topologi…",
+		"jawaban" : "C",
+		"pilihanA" : "ring",
+		"pilihanB" : "star",
+		"pilihanC" : "tree",
+		"pilihanD" : "line"
+		},{
+		"isi_soal" : "LAN singkatan dari?",
+		"jawaban" : "D",
+		"pilihanA" : "Long Area Network",
+		"pilihanB" : "Local Area Netlink",
+		"pilihanC" : "Long Area Netlink",
+		"pilihanD" : "Local Area Network"
+		},{
+		"isi_soal" : "Kepanjangan TCP adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "Transmission Control Protocol",
+		"pilihanB" : "Transfer Control Protocol",
+		"pilihanC" : "Total Control Protocol",
+		"pilihanD" : "Terra Control Protocol"
+		},{
+		"isi_soal" : "Saluran untuk melewatkan data dalam sebuah jaringan komputer dikenal dengan istilah...",
+		"jawaban" : "B",
+		"pilihanA" : "ISP",
+		"pilihanB" : "Bandwidth",
+		"pilihanC" : "Http",
+		"pilihanD" : "Html"
+		},{
+		"isi_soal" : "Ciri DNS (Domain Name Server) negara Indonesia adalah..",
+		"jawaban" : "B",
+		"pilihanA" : ".ind",
+		"pilihanB" : ".id",
+		"pilihanC" : ".indo",
+		"pilihanD" : ".ri"
+	}
+	], "level_5":[{
+		"isi_soal" : "Internet pada awalnya disebut dengan?",
+		"jawaban" : "D",
+		"pilihanA" : "intranet",
+		"pilihanB" : "network",
+		"pilihanC" : "computer network",
+		"pilihanD" : "ARPAnet"
+		},{
+		"isi_soal" : "Aplikasi internet yang memungkinkan pengambilan file dengan cepat adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "WWW",
+		"pilihanB" : "Milis",
+		"pilihanC" : "Newsgroup",
+		"pilihanD" : "FTP"
+		},{
+		"isi_soal" : "Sinyal Wifi masih dapat ditangkap dengan radius ….. dari titik akses",
+		"jawaban" : "A",
+		"pilihanA" : "100 m",
+		"pilihanB" : "150 m",
+		"pilihanC" : "1 km",
+		"pilihanD" : "5 km"
+		},{
+		"isi_soal" : "Perangkat berikut terdapat pada sebuah hotspot Wifi, kecuali?",
+		"jawaban" : "D",
+		"pilihanA" : "WiFicard ",
+		"pilihanB" : "Access point ",
+		"pilihanC" : "Access controller ",
+		"pilihanD" : "Internet link "
+		},{
+		"isi_soal" : "Jaringan yang dapat mencakup sebuah negara disebut…..",
+		"jawaban" : "C",
+		"pilihanA" : "LAN",
+		"pilihanB" : "MAN",
+		"pilihanC" : "WAN",
+		"pilihanD" : "Internet"
+		},{
+		"isi_soal" : "Port yang digunakan untuk menghubungkan komputer dengan modem eksternal adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "COM1",
+		"pilihanB" : "COM3",
+		"pilihanC" : "USB",
+		"pilihanD" : "Dipasang di mainboard"
+		},{
+		"isi_soal" : "Berikut ini yang kita masukkan opada saat mensetting koneksi ke ISP, kecuali?",
+		"jawaban" : "A",
+		"pilihanA" : "Nomor ISP komputer",
+		"pilihanB" : "user name",
+		"pilihanC" : "password",
+		"pilihanD" : "nomor akses ISP"
+		},{
+		"isi_soal" : "Kode yang digunakan untuk membuat sebuah halaman web disebut?",
+		"jawaban" : "A",
+		"pilihanA" : "HTML",
+		"pilihanB" : "HTTP",
+		"pilihanC" : "WWW",
+		"pilihanD" : "URL"
+		},{
+		"isi_soal" : "Toolbar yang digunakan untuk menampilkan multimedia pada website adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "Media",
+		"pilihanB" : "History",
+		"pilihanC" : "Favorites",
+		"pilihanD" : "Home"
+		},{
+		"isi_soal" : "Munculnya internet di awal tahun 60-an melalui proyek yang disebut?",
+		"jawaban" : "C",
+		"pilihanA" : "TCP/IP",
+		"pilihanB" : "NSFNET",
+		"pilihanC" : "ARPANET",
+		"pilihanD" : "BITNET"
+		},{
+		"isi_soal" : "Nama domain yang digunakan untuk organisasi militer adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "Gov",
+		"pilihanB" : "Net",
+		"pilihanC" : "Mil",
+		"pilihanD" : "Org"
+		},{
+		"isi_soal" : "Nomor telepon akses TELKOMnet Instan adalah?",
+		"jawaban" : "B",
+		"pilihanA" : "0809 9 8888",
+		"pilihanB" : "0809 8 9999",
+		"pilihanC" : "0809 9 9999",
+		"pilihanD" : "0809 9 8888"
+		},{
+		"isi_soal" : "Alat untuk menukar data dari digital ke analog dan sebaliknya dalam akses internet disebut?",
+		"jawaban" : "A",
+		"pilihanA" : "modem",
+		"pilihanB" : "monitor",
+		"pilihanC" : "USB",
+		"pilihanD" : "CPU"
+		},{
+		"isi_soal" : "Data yang keluar masuk / upload – download ke account kita disebut?",
+		"jawaban" : "A",
+		"pilihanA" : "Bandwidth",
+		"pilihanB" : "Backbone",
+		"pilihanC" : "Telepon",
+		"pilihanD" : "Byte"
+		},{
+		"isi_soal" : "Jaringan dasar yang menghubungkan sarana telekomunikasi untuk ketersediaan koneksi adalah?",
+		"jawaban" : "B",
+		"pilihanA" : "Bandwidth",
+		"pilihanB" : "Backbone",
+		"pilihanC" : "Telepon",
+		"pilihanD" : "Byte"
+		},{
+		"isi_soal" : "Penemu World Wide Web adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "Timothy Berners-Lee ",
+		"pilihanB" : "Mark Zuckerberg ",
+		"pilihanC" : "Samuel Hahn",
+		"pilihanD" : "Karl D Errnest"
+		},{
+		"isi_soal" : "Negara pengguna Internet terbesar di dunia adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "China ",
+		"pilihanB" : "Jepang ",
+		"pilihanC" : "India ",
+		"pilihanD" : "Amerika Serikat "
+		},{
+		"isi_soal" : "Negara yang pertama kali mengembangkan internet adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "China",
+		"pilihanB" : "Jepang",
+		"pilihanC" : "India",
+		"pilihanD" : "Amerika Serikat"
+		},{
+		"isi_soal" : "Perangkat jaringan yang berfungsi untuk membagi sinyal pada komputer client disebut?",
+		"jawaban" : "D",
+		"pilihanA" : "modem",
+		"pilihanB" : "projector",
+		"pilihanC" : "terminator",
+		"pilihanD" : "switch/HUB"
+		},{
+		"isi_soal" : "kepanjangan dari modem adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "Moderator Demodulator",
+		"pilihanB" : "Moderator Demodulasi",
+		"pilihanC" : "Modulasi Demodulasi",
+		"pilihanD" : "Modulasi Demode"
+	}]
+}
+

@@ -1,0 +1,712 @@
+
+
+
+	
+{ "level_1":[{
+		"isi_soal" : "Kerak bumi dibagi menjadi dua, yaitu ....",
+		"jawaban" : "A",
+		"pilihanA" : "Kerak samudera dan kerak benua",
+		"pilihanB" : "Kerak kulit bumi dan kerak samudera",
+		"pilihanC" : "Kerak benua dan kerak lapisan",
+		"pilihanD" : "Kerak lapisan dan kerak samudra"
+		},{
+		"isi_soal" : "Batuan sediment yang susunan kimianya sama dengan batuan asli disebut ....",
+		"jawaban" : "D",
+		"pilihanA" : "Batuan sedimen organik",
+		"pilihanB" : "Batuan sediment malihan",
+		"pilihanC" : "Batuan sedimen fisik",
+		"pilihanD" : "Batuan sedimen klastis"
+		},{
+		"isi_soal" : "Bentuk muka bumi dipengaruhi tenaga endogen yang meliputi  ....",
+		"jawaban" : "A",
+		"pilihanA" : "Tektonisme, seisme, vulkanisme",
+		"pilihanB" : "Pelapukan, erosi, tektonisme",
+		"pilihanC" : "Tektonisme, vulkanisme, erosi",
+		"pilihanD" : "Sedimentasi, gempa bumi, erosi"
+		},{
+		"isi_soal" : "Pusat timbulnya gempa dinamakan...",
+		"jawaban" : "D",
+		"pilihanA" : "Tsunami",
+		"pilihanB" : "Seismogram",
+		"pilihanC" : "Episentrum",
+		"pilihanD" : "Hiposentrum"
+		},{
+		"isi_soal" : "Tenaga yang berasal dari dalam bumi, di antaranya adalah ...",
+		"jawaban" : "A",
+		"pilihanA" : "Aktivitas magma",
+		"pilihanB" : "Cuaca",
+		"pilihanC" : "Angin",
+		"pilihanD" : "Air mengalir"
+		},{
+		"isi_soal" : "Gejala gerakan kerak bumi dinamakan...",
+		"jawaban" : "A",
+		"pilihanA" : "Tektonisme",
+		"pilihanB" : "Diastropisme",
+		"pilihanC" : "Vulkanisme",
+		"pilihanD" : "Seisme"
+		},{
+		"isi_soal" : "Proses penghancuran batuan dengan bantuan makhluk hidup disebut ...",
+		"jawaban" : "A",
+		"pilihanA" : "Pelapukan biologis",
+		"pilihanB" : "Pelapukan mekanis",
+		"pilihanC" : "Pelapukan kimia",
+		"pilihanD" : "Pelapukan fisika"
+		},{
+		"isi_soal" : "Pusat timbulnya gempa di permukaan bumi dinamakan ...",
+		"jawaban" : "A",
+		"pilihanA" : "Episentrum",
+		"pilihanB" : "Seismogram",
+		"pilihanC" : "Hiposentrum",
+		"pilihanD" : "Tsunami"
+		},{
+		"isi_soal" : "Gejala alam vulkanisme yang termasuk ke dalam gejala alam pascavulkanik di antaranya adalah ...",
+		"jawaban" : "B",
+		"pilihanA" : "Terjadinya gempa-gempa kecil",
+		"pilihanB" : "Adanya sumber mata air panas",
+		"pilihanC" : "Peningkatan bau belerang",
+		"pilihanD" : "Suhu udara di sekitar gunungapi meningkat"
+		},{
+		"isi_soal" : "Lereng terjal memiliki derajat ketinggian sekitar ...",
+		"jawaban" : "D",
+		"pilihanA" : "5*",
+		"pilihanB" : "4*",
+		"pilihanC" : "90*",
+		"pilihanD" : "70*"
+		},{
+		"isi_soal" : "Jenis gas yang keluar dari gunung berapi yang berupa uap air dinamakan ...",
+		"jawaban" : "A",
+		"pilihanA" : "Geyser",
+		"pilihanB" : "Mofet",
+		"pilihanC" : "Solfatar",
+		"pilihanD" : "Fumarol"
+		},{
+		"isi_soal" : "Kota ini rawan bencana tsunami, kecuali ...",
+		"jawaban" : "C",
+		"pilihanA" : "Calang",
+		"pilihanB" : "Padang",
+		"pilihanC" : "Bukittinggi",
+		"pilihanD" : "Meulaboh"
+		},{
+		"isi_soal" : "Alat yang digunakan untuk mengukur kekuatan gempa disebut ...",
+		"jawaban" : "D",
+		"pilihanA" : "Vulkanologi",
+		"pilihanB" : "Seismograf",
+		"pilihanC" : "Seismologi",
+		"pilihanD" : "Kartograf"
+		},{
+		"isi_soal" : "Pembatasan wilayah berdasarkan ketinggian di atas permukaan air laut disebut ...",
+		"jawaban" : "C",
+		"pilihanA" : "Garis Weber",
+		"pilihanB" : "Garis Wallacea",
+		"pilihanC" : "Zonasi",
+		"pilihanD" : "Demarkasi"
+		},{
+		"isi_soal" : "Dasar laut yang menonjol yang memisahkan dua bagian yang lebih dalam disebut ...",
+		"jawaban" : "C",
+		"pilihanA" : "Palung laut",
+		"pilihanB" : "Gunung laut",
+		"pilihanC" : "Ambang laut",
+		"pilihanD" : "Paparan"
+		},{
+		"isi_soal" : "Letak astronomis merupakan posisi suatu wilayah berdasarkan ...",
+		"jawaban" : "D",
+		"pilihanA" : "garis wallace",
+		"pilihanB" : "garis lintang dan garis bujur",
+		"pilihanC" : "",
+		"pilihanD" : ""
+		},{
+		"isi_soal" : "Selisih waktu antara Kota Padang dengan Kota Manado adalah ...",
+		"jawaban" : "B",
+		"pilihanA" : "1/2 jam",
+		"pilihanB" : "1 jam",
+		"pilihanC" : "2 jam",
+		"pilihanD" : "1 1/2 jam"
+		},{
+		"isi_soal" : "Berikut ini yang termasuk pengaruh letak astronomis Indonesia adalah ..",
+		"jawaban" : "C",
+		"pilihanA" : "Memiliki tipe iklim kutub",
+		"pilihanB" : "Terbagi menjadi dua daerah kutub",
+		"pilihanC" : "Termasuk zona iklim tropis",
+		"pilihanD" : "Termasuk zona iklim nontropis"
+		},{
+		"isi_soal" : "Suku Asmat dan Dani merupakan suku bangsa yang menetap di Pulau ...",
+		"jawaban" : "A",
+		"pilihanA" : "Papua",
+		"pilihanB" : "Kalimanta",
+		"pilihanC" : "Jawa",
+		"pilihanD" : "Sumatera"
+		},{
+		"isi_soal" : "Dibawah ini yang bukan merupakan ciri negara maju adalah...",
+		"jawaban" : "C",
+		"pilihanA" : "GNP besar",
+		"pilihanB" : "SDM berkualitas",
+		"pilihanC" : "Pertumbuhan penduduknya tinggi",
+		"pilihanD" : "Konsentrasi penduduknya berada di perkotaan"
+
+	}
+
+	], "level_2":[{
+		"isi_soal" : "Sumber mata air daerah gurun di negara Arab adalah...",
+		"jawaban" : "C",
+		"pilihanA" : "Samun",
+		"pilihanB" : "Wadi",
+		"pilihanC" : "Oase",
+		"pilihanD" : "Dahna"
+		},{
+		"isi_soal" : "Ibu kota negara Brasil adalah...",
+		"jawaban" : "D",
+		"pilihanA" : "Brasilia",
+		"pilihanB" : "Kinshasa",
+		"pilihanC" : "Recife",
+		"pilihanD" : "Mogadishu"
+		},{
+		"isi_soal" : "Tiga usaha negara berkembang untuk menjadi negara maju adalah, kecuali...",
+		"jawaban" : "D",
+		"pilihanA" : "Memperluas lapangan kerja sector industri dan jasa",
+		"pilihanB" : "Meningkatkan iptek",
+		"pilihanC" : "Meningkatkan semangat kerja",
+		"pilihanD" : "Memperkecil lapangan pekerjaan"
+		},{
+		"isi_soal" : "Penduduk Negara maju mampu mengolah sumber daya alam yang ada secara optimal karena  ...",
+		"jawaban" : "C",
+		"pilihanA" : "Besarnya kandungan sumber daya alam yang ada",
+		"pilihanB" : "Pesatnya perkembangan perekonomian mereka",
+		"pilihanC" : "Tingginya tingkat pendidikan mereka",
+		"pilihanD" : "Tingginya pendapatan perkapita mereka"
+		},{
+		"isi_soal" : "Pengaruh dari banyaknya gunung berapi di Jepang mengakibatkan sering terjadinya...",
+		"jawaban" : "B",
+		"pilihanA" : "Tsunami",
+		"pilihanB" : "Gempa bumi",
+		"pilihanC" : "Gunung meletus",
+		"pilihanD" : "Banjir"
+		},{
+		"isi_soal" : "Sistem ekonomi yang mendominasi masyarakan tradisional adalah...",
+		"jawaban" : "A",
+		"pilihanA" : "Sistem Pertanian",
+		"pilihanB" : "Sistem Perindustrian",
+		"pilihanC" : "Sistem Peternakan",
+		"pilihanD" : "Sistem ekspor impor"
+		},{
+		"isi_soal" : "Semakin rapat suatu kontur maka kenampakan lereng semakin ...",
+		"jawaban" : "A",
+		"pilihanA" : "Curam",
+		"pilihanB" : "Landai",
+		"pilihanC" : "Datar",
+		"pilihanD" : "Lebar"
+		},{
+		"isi_soal" : "Pola permukiman penduduk di dataran tinggi adalah...",
+		"jawaban" : "B",
+		"pilihanA" : "Memanjang",
+		"pilihanB" : "Tersebar",
+		"pilihanC" : "Menggerombol",
+		"pilihanD" : "Mengikuti alur"
+		},{
+		"isi_soal" : "Wilayah laut yang menjorok ke daratan disebut ...",
+		"jawaban" : "B",
+		"pilihanA" : "Tanjung",
+		"pilihanB" : "Teluk",
+		"pilihanC" : "Selat",
+		"pilihanD" : "Pantai"
+		},{
+		"isi_soal" : "Gunung Semeru yang ketinggiannya 3.676 meter pada peta umum disimbolkan dengan warna ...",
+		"jawaban" : "D",
+		"pilihanA" : "Putih",
+		"pilihanB" : "Kuning",
+		"pilihanC" : "Hijau",
+		"pilihanD" : "Merah"
+		},{
+		"isi_soal" : "Tidak semua warna digunakan sebagai symbol pada peta umum, salah satunya yaitu...",
+		"jawaban" : "A",
+		"pilihanA" : "Warna orange",
+		"pilihanB" : "Warna cokelat",
+		"pilihanC" : "Warna merah",
+		"pilihanD" : "Warna hitam"
+		},{
+		"isi_soal" : "Berdasarkan bentuknya, symbol yang digunakan pada peta kontur termasuk symbol ...",
+		"jawaban" : "C",
+		"pilihanA" : "Titik",
+		"pilihanB" : "Warna",
+		"pilihanC" : "Garis",
+		"pilihanD" : "Area"
+		},{
+		"isi_soal" : "Lapisan batuan atau kulit bumi yang bulat adalah ...",
+		"jawaban" : "A",
+		"pilihanA" : "Litosfer",
+		"pilihanB" : "Biosfer",
+		"pilihanC" : "Atmosfer",
+		"pilihanD" : "Barisfer"
+		},{
+		"isi_soal" : "Kumpulan peta yang sudah dibagi-bagi berdasarkan benua, negara, provinsi, dan seterusnya disatukan menjadi sebuah buku disebut ...",
+		"jawaban" : "A",
+		"pilihanA" : "Atlas",
+		"pilihanB" : "Globe",
+		"pilihanC" : "Peta",
+		"pilihanD" : "Peta Buta"
+		},{
+		"isi_soal" : "Semakin ke atas tekanan udara ...",
+		"jawaban" : "D",
+		"pilihanA" : "Semakin naik",
+		"pilihanB" : "Tetap",
+		"pilihanC" : "Tidak teratur",
+		"pilihanD" : "Semakin turun"
+		},{
+		"isi_soal" : "Yang bukan merupakan ciri khas dari sebuah benua adalah ...",
+		"jawaban" : "C",
+		"pilihanA" : "Wilayah daratan luas",
+		"pilihanB" : "Di bagian tengah memiliki tipe iklim tersendiri",
+		"pilihanC" : "Terdiri atas banyak negara",
+		"pilihanD" : "Pengaruh iklim laut tidak mendominasi"
+		},{
+		"isi_soal" : "Batas wilayah Brasil di sebelah timur adalah...",
+		"jawaban" : "A",
+		"pilihanA" : "Samudera Atlantik",
+		"pilihanB" : "Samudera Pasifik",
+		"pilihanC" : "Laut Keribia",
+		"pilihanD" : "Teluk Meksiko"
+		},{
+		"isi_soal" : "Simbol area berwarna hijau di peta dengan garis putus-putus di dalamnya menunjukkan kawasan ...",
+		"jawaban" : "A",
+		"pilihanA" : "Rawa-rawa",
+		"pilihanB" : "Persawahan",
+		"pilihanC" : "Permukiman",
+		"pilihanD" : "Hutan"
+		},{
+		"isi_soal" : "Indonesia sering dilanda gempa karena ...",
+		"jawaban" : "B",
+		"pilihanA" : "Berupa negara kepulauan",
+		"pilihanB" : "Berada dijalur lempeng tektonik",
+		"pilihanC" : "Sebagian besar wilayahnya adalah perairan",
+		"pilihanD" : "Banyak gunung berapi yang masih aktif"
+		},{
+		"isi_soal" : "Penampang melintang yang digambarkan peta topografi dapat menerangkan keadaan ...",
+		"jawaban" : "A",
+		"pilihanA" : "Bentuk/ ketinggian suatu tempat",
+		"pilihanB" : "Jenis tanah di suatu tempat",
+		"pilihanC" : "Persebaran fauna flora suatu tempat",
+		"pilihanD" : "Persebaran penduduk di suatu tempat"
+	}
+
+	], "level_3":[{
+		"isi_soal" : "Negara di kawasan Asia Tenggara yang memiliki garis pantai terpanjang adalah ...",
+		"jawaban" : "D",
+		"pilihanA" : "Malaysia",
+		"pilihanB" : "Vietnam",
+		"pilihanC" : "Thailand",
+		"pilihanD" : "Indonesia"
+		},{
+		"isi_soal" : "Pegunungan disimbolkan dengan warna ...",
+		"jawaban" : "C",
+		"pilihanA" : "Hijau",
+		"pilihanB" : "Biru",
+		"pilihanC" : "Cokelat",
+		"pilihanD" : "Ungu"
+		},{
+		"isi_soal" : "Kenampakan alam yang terdapat di daratan berikut adalah ...",
+		"jawaban" : "C",
+		"pilihanA" : "Ambang",
+		"pilihanB" : "Palung",
+		"pilihanC" : "Bukit",
+		"pilihanD" : "Lubuk"
+		},{
+		"isi_soal" : "Pola pemukiman penduduk di wilayah pantai adalah ...",
+		"jawaban" : "A",
+		"pilihanA" : "Memanjang sejajar pantai",
+		"pilihanB" : "Mengelompok",
+		"pilihanC" : "Menggerombol",
+		"pilihanD" : "Tersebar"
+		},{
+		"isi_soal" : "Dibawah ini yang bukan merupakan contoh tenaga endogen adalah...",
+		"jawaban" : "C",
+		"pilihanA" : "Vulkanisme",
+		"pilihanB" : "Tektonisme",
+		"pilihanC" : "Erosi",
+		"pilihanD" : "Seisme"
+		},{
+		"isi_soal" : "Masalah kronologik dalam teori Tata Surya yang paling misteri adalah ...",
+		"jawaban" : "A",
+		"pilihanA" : "Luas Jagat Raya",
+		"pilihanB" : "Isi Jagat Raya",
+		"pilihanC" : "Benda langit dalam Jagat Raya",
+		"pilihanD" : "Proses terbentuknya Jagat Raya"
+		},{
+		"isi_soal" : "Teori yang intensitasnya paling kuat dalam pembentukan jagat raya adalah ...",
+		"jawaban" : "B",
+		"pilihanA" : "Teori Kondensasi",
+		"pilihanB" : "Teori Big Bang",
+		"pilihanC" : "Teori Gas Extrude",
+		"pilihanD" : "Teori Penciptaan"
+		},{
+		"isi_soal" : "Berikut ini yang bukan pandangan manusia tentang jagat raya, yaitu ...",
+		"jawaban" : "C",
+		"pilihanA" : "Pandangan Antroposentris",
+		"pilihanB" : "Pandangan Galaktosentris",
+		"pilihanC" : "Pandangan Biosentris",
+		"pilihanD" : "Pandangan Heliosentris"
+		},{
+		"isi_soal" : "Tokoh Yunani yang mendukung Pandangan Geosentris bahwa Bumi adalah pusat Jagat Raya adalah ...",
+		"jawaban" : "D",
+		"pilihanA" : "Erasthothenes",
+		"pilihanB" : "Aristoteles",
+		"pilihanC" : "Nicolaus Copernicus",
+		"pilihanD" : "Thales"
+		},{
+		"isi_soal" : "1 Satuan Astronomi (SA) adalah ...",
+		"jawaban" : "A",
+		"pilihanA" : "Jarak dari Bumi ke Matahari",
+		"pilihanB" : "Jarak dari Bumi ke Bulan",
+		"pilihanC" : "Jarak dari Bulan ke Matahari",
+		"pilihanD" : "Jarak lintasan revolusi Bumi"
+		},{
+		"isi_soal" : "Pengertian atau konsep geografi menurut pendapat I Made Sandy adalah ...",
+		"jawaban" : "B",
+		"pilihanA" : "Uraian tentang bumi dengan segenap isinya, manusia, binatang dan tumbuh - tumbuhan",
+		"pilihanB" : "Ilmu yang mempelajari persamaan dan perbedaan yang ada dalam ruang muka bumi",
+		"pilihanC" : "Ilmu yang menggambarkan tentang bumi beserta isinya",
+		"pilihanD" : "Ilmu yang menceritakan sifat bumi, menganalisis gejala alam dan penduduk"
+		},{
+		"isi_soal" : "Bebagai aspek fisik dan aspekmanusia dalam relasi ruang suatu wilayah yang meliputi variasi penyebaran dalam ruang dipelari dalam ...",
+		"jawaban" : "D",
+		"pilihanA" : "Geografi fisik",
+		"pilihanB" : "Geografi manusia",
+		"pilihanC" : "Geografi alam",
+		"pilihanD" : "Geografi regional"
+		},{
+		"isi_soal" : "Letak suatu daerah berdasarkan kenyataan di bumi disebut letak...",
+		"jawaban" : "C",
+		"pilihanA" : "Astronomis",
+		"pilihanB" : "Geologis",
+		"pilihanC" : "Geografis",
+		"pilihanD" : "Sosial ekonomi"
+		},{
+		"isi_soal" : "Pengaruh letak lintang terhadap wilayah Indonesia adalah ...",
+		"jawaban" : "C",
+		"pilihanA" : "Suhu rata – rata berkisar 200",
+		"pilihanB" : "Banyak angin topan",
+		"pilihanC" : "Banyak terjadi pelapukan di Indonesia",
+		"pilihanD" : "Perbedaan suhu siang – malam kecil"
+		},{
+		"isi_soal" : "Ilmu yang mempelajari tentang tubuh bumi disebut ...",
+		"jawaban" : "A",
+		"pilihanA" : "Geomorfologi",
+		"pilihanB" : "Oceanografi",
+		"pilihanC" : "Geologi",
+		"pilihanD" : "Fitogeografi"
+		},{
+		"isi_soal" : "Yang termasuk Sahul plate adalah laut ...",
+		"jawaban" : "C",
+		"pilihanA" : "Flores",
+		"pilihanB" : "Sulawesi",
+		"pilihanC" : "Maluku",
+		"pilihanD" : "Jawa"
+		},{
+		"isi_soal" : "Barisfer merupakan bagian bumi yang juga disebut dengan...",
+		"jawaban" : "A",
+		"pilihanA" : "Inti bumi",
+		"pilihanB" : "Payung bumi",
+		"pilihanC" : "Selimut bumi",
+		"pilihanD" : "Kerak bumi"
+		},{
+		"isi_soal" : "Sebuah peta diperbesar 4 kali, bila skala semula 1: 200.000, maka skala peta setelah diperbesar berubah menjadi...",
+		"jawaban" : "D",
+		"pilihanA" : "1 : 800.000",
+		"pilihanB" : "1 : 100.000",
+		"pilihanC" : "1 : 600.000",
+		"pilihanD" : "1 : 50.000"
+		},{
+		"isi_soal" : "Peristiwa gempa yang mengakibatkan tsunami di aceh dan sumatra Utara adalah gempa ...",
+		"jawaban" : "C",
+		"pilihanA" : "Gempa tektonik",
+		"pilihanB" : "Gempa vulkanik",
+		"pilihanC" : "Gempa laut",
+		"pilihanD" : "Gempa dangkal"
+		},{
+		"isi_soal" : "Tanaman yang menghasilkan getah banyak tumbuh di...",
+		"jawaban" : "D",
+		"pilihanA" : "Hutan bakau",
+		"pilihanB" : "Gurun",
+		"pilihanC" : "Mangrove",
+		"pilihanD" : "Hutan hujan tropis"}
+
+	], "level_4":[{
+		"isi_soal" : "Danau tektonik terjadi karena...",
+		"jawaban" : "D",
+		"pilihanA" : "Letusan gunung berapi",
+		"pilihanB" : "Kawah gunung api tergenang air",
+		"pilihanC" : "Lembah sungai terbendung larva",
+		"pilihanD" : "Sebuah slenk tergenang air"
+		},{
+		"isi_soal" : "Peristiwa gempa yang mengakibatkan tsunami di aceh dan sumatra Utara adalah gempa ...",
+		"jawaban" : "C",
+		"pilihanA" : "Gempa tektonik",
+		"pilihanB" : "Gempa vulkanik",
+		"pilihanC" : "Gempa laut",
+		"pilihanD" : "Gempa dangkal"
+		},{
+		"isi_soal" : "Yang termasuk dalam biochore adalah...",
+		"jawaban" : "D",
+		"pilihanA" : "Sabana",
+		"pilihanB" : "Pegunungan",
+		"pilihanC" : "Atmosfer bumi",
+		"pilihanD" : "Laut dalam"
+		},{
+		"isi_soal" : "Tanaman yang menghasilkan getah banyak tumbuh di...",
+		"jawaban" : "D",
+		"pilihanA" : "Hutan bakau",
+		"pilihanB" : "Gurun",
+		"pilihanC" : "Mangrove",
+		"pilihanD" : "Hutan hujan tropis"
+		},{
+		"isi_soal" : "Alat untuk mencatat gempa adalah ...",
+		"jawaban" : "B",
+		"pilihanA" : "Termograf",
+		"pilihanB" : "Seismograf",
+		"pilihanC" : "Altimeter",
+		"pilihanD" : "Bossograf"
+		},{
+		"isi_soal" : "Gejala post vulkanik pada gunung berapi antara lain...",
+		"jawaban" : "D",
+		"pilihanA" : "Sering mengeluarkan asap tebal",
+		"pilihanB" : "Terdengar suara gemuruh",
+		"pilihanC" : "Tumbuhan disekitar gunung layu/mati",
+		"pilihanD" : "Terdapat sumber gas"
+		},{
+		"isi_soal" : "Laut dalam yang terjadi karena penurunan dasar laut disebut sebagai...",
+		"jawaban" : "A",
+		"pilihanA" : "Laut ingresi",
+		"pilihanB" : "Laut regresi",
+		"pilihanC" : "Laut degradasi",
+		"pilihanD" : "Laut agregasi"
+		},{
+		"isi_soal" : "Garis khayal dalam peta yang menghubungkan daerah yang mengalami gempa yang sama disebut...",
+		"jawaban" : "D",
+		"pilihanA" : "Isoseista",
+		"pilihanB" : "Makroseisme",
+		"pilihanC" : "Mikroseisme",
+		"pilihanD" : "Pleistoseista"
+		},{
+		"isi_soal" : "Pegunungan sirkum pasifik yang membentang di Amerika Selatan disebut dengan Pegunungan...",
+		"jawaban" : "A",
+		"pilihanA" : "Cordeleras de Los Andes",
+		"pilihanB" : "Kamchatka",
+		"pilihanC" : "Rocky mountain",
+		"pilihanD" : "Arakan Yoma"
+		},{
+		"isi_soal" : "Berdasarkan tenaga yang mengangkut, tenaga air sebagi penggerak disebut juga dengan sedimen ...",
+		"jawaban" : "B",
+		"pilihanA" : "Aelis",
+		"pilihanB" : "Aquatis",
+		"pilihanC" : "Glasial",
+		"pilihanD" : "Aeris"
+		},{
+		"isi_soal" : "Pelapukan organik adalah pelapukan yang disebabkan oleh...",
+		"jawaban" : "A",
+		"pilihanA" : "Tumbuhan, hewan dan manusia",
+		"pilihanB" : "Air, angin dan panas matahari",
+		"pilihanC" : "Tumbuhan, hewan dan panas matahari",
+		"pilihanD" : "Air, hewan dan angin"
+		},{
+		"isi_soal" : "Yang dimaksud tanah podzolik adalah tanah yang...",
+		"jawaban" : "B",
+		"pilihanA" : "Bahan induk yang mengandung organik dengan sistem air jelek",
+		"pilihanB" : "Mengandung kwarsa, pengaruh suhu rendah, curah hujan tinggi",
+		"pilihanC" : "Suhu tinggi, hujan banyak mengandung kwarsa",
+		"pilihanD" : "Bahan organik yang mengalami pelapukan"
+		},{
+		"isi_soal" : "Tanah yang terbentuk dari hasil pelapukan batuan beku dan tidak berstruktur termasuk kedalam jenis...",
+		"jawaban" : "C",
+		"pilihanA" : "Tanah laterit",
+		"pilihanB" : "Tanah podzolik",
+		"pilihanC" : "Tanah pasir",
+		"pilihanD" : "Tanah padas"
+		},{
+		"isi_soal" : "Danau tektonik terjadi karena...",
+		"jawaban" : "D",
+		"pilihanA" : "Letusan gunung berapi",
+		"pilihanB" : "Kawah gunung apitergenang air",
+		"pilihanC" : "Lembah sungai terbendung larva",
+		"pilihanD" : "Sebuah slenk tergenang air"
+		},{
+		"isi_soal" : "Daerah laut yang kaya ikan dan tumbuhan laut adalah ...",
+		"jawaban" : "A",
+		"pilihanA" : "Zona neritis",
+		"pilihanB" : "Zona litoral",
+		"pilihanC" : "Zona bathyal",
+		"pilihanD" : "Zona absyal"
+		},{
+		"isi_soal" : "Yang dapat membuat sungai meluap dan banjir adalah ...",
+		"jawaban" : "D",
+		"pilihanA" : "Banyak sampah ynag tertimbun dan menghambat aliran air",
+		"pilihanB" : "Debit air yang naik secara drastis",
+		"pilihanC" : "Proses sedimentasi di lembah – lembah sungai",
+		"pilihanD" : "Semua benar"
+		},{
+		"isi_soal" : "Cara menghitung air hujan yang jatuh ke DAS dengan cara Thiessen dilakukan apabila ...",
+		"jawaban" : "A",
+		"pilihanA" : "Bentuk DAS tidak memanjang dan sempit",
+		"pilihanB" : "Bentuk DAS tidak menyempit dan panjang",
+		"pilihanC" : "Bentuk DAS memanjang dan meluas",
+		"pilihanD" : "Bentuk DAS tidak beraturan"
+		},{
+		"isi_soal" : "Berdasarkan tenaga yang mengangkut maka tenaga air sebagai penggerak disebut juga dengan sedimen...",
+		"jawaban" : "B",
+		"pilihanA" : "Aelis",
+		"pilihanB" : "Aquatis",
+		"pilihanC" : "Glasial",
+		"pilihanD" : "Aeris"
+		},{
+		"isi_soal" : "Tanah yang kurus harus dipupuk, tujuan pemupukan adalah...",
+		"jawaban" : "D",
+		"pilihanA" : "Mengurangi penguapan tanah",
+		"pilihanB" : "Menjaga agar tidak mudah tererosi",
+		"pilihanC" : "Mempermudah irigasi",
+		"pilihanD" : "Memberi bahan makanan pada tumbuhan"
+		},{
+		"isi_soal" : "Yang dimaksud tanah padzolik adalah tanah yang...",
+		"jawaban" : "B",
+		"pilihanA" : "Terbentuk karena tenaga alam, suhu tinggi, hujan banyak dan tanaman yang jelek",
+		"pilihanB" : "Mengandung kuarsa, pengaruh suhu rendah, dan curah hujan tinggi",
+		"pilihanC" : "Dari bahan induk organik yang mengalami pelapukan",
+		"pilihanD" : "Dari endapan bahan yang diangkut oleh air, baik batuan maupun oranismenya"}
+
+	], "level_5":[{
+		"isi_soal" : "Sistem terasering dibuat dengan tujuan...",
+		"jawaban" : "A",
+		"pilihanA" : "Agar tanah tidak tererosi",
+		"pilihanB" : "Agar kesuburan tanah tetap terjaga",
+		"pilihanC" : "Agar tanah tidak kehilangan salah satu unsur haranya",
+		"pilihanD" : "Agar tanaman dapat tumbuh dnegan baik"
+		},{
+		"isi_soal" : "Warna air laut merah di laut tangah terjadi karena...",
+		"jawaban" : "B",
+		"pilihanA" : "Lumpur merah",
+		"pilihanB" : "Alga merah",
+		"pilihanC" : "Plankton merah",
+		"pilihanD" : "Cahaya matahari"
+		},{
+		"isi_soal" : "Pengukuran kedalaman laut dngna batu duga diistilahkan dengan ...",
+		"jawaban" : "C",
+		"pilihanA" : "Strenghten",
+		"pilihanB" : "Trandgresi",
+		"pilihanC" : "Draadlouding",
+		"pilihanD" : "Compress"
+		},{
+		"isi_soal" : "Laut yang terjadi akibat tergenangnya suatu dataran rendah karena es mencair di daerah kutub disebut...",
+		"jawaban" : "C",
+		"pilihanA" : "Laut tegresi",
+		"pilihanB" : "Laut ingresi",
+		"pilihanC" : "Laut trasgresi",
+		"pilihanD" : "Echocyte"
+		},{
+		"isi_soal" : "Kemampuan sensor untuk menyajika gambar objek terkecil disebut...",
+		"jawaban" : "B",
+		"pilihanA" : "Resolusi platform",
+		"pilihanB" : "Resolusi spasial",
+		"pilihanC" : "Resolusi artikal",
+		"pilihanD" : "Resolusi parsial"
+		},{
+		"isi_soal" : "Peta adalah gambaran konvensional permukaan bumi yang...",
+		"jawaban" : "C",
+		"pilihanA" : "Diperindah",
+		"pilihanB" : "Diperjelas",
+		"pilihanC" : "Diperkecil",
+		"pilihanD" : "Diperluas"
+		},{
+		"isi_soal" : "Peta topografi adalah peta yang menggambarkan...",
+		"jawaban" : "B",
+		"pilihanA" : "Jenis – jenis tanah",
+		"pilihanB" : "Bentuk /relief muka bumi",
+		"pilihanC" : "Persebaran flora dan fauna",
+		"pilihanD" : "Pola persebaran pemukiman"
+		},{
+		"isi_soal" : "Beberapa persamaan peta dan media citra, kecuali...",
+		"jawaban" : "D",
+		"pilihanA" : "Bentuk",
+		"pilihanB" : "Luas",
+		"pilihanC" : "Ukuran",
+		"pilihanD" : "Penggambaran dua dimensi"
+		},{
+		"isi_soal" : "Skala adalah...",
+		"jawaban" : "B",
+		"pilihanA" : "Perbandingan antara peta yang satu dengan peta yang lain",
+		"pilihanB" : "Perbandingan jarak di peta dengan jarak sebenarnya dilapangan",
+		"pilihanC" : "Perbandingan jarak satu kota dengan kota lain",
+		"pilihanD" : "Perbandingan jarak satu kota dengan kota lain di peta"
+		},{
+		"isi_soal" : "Ilmu penunjang geografi yang mengkaji struktur bebatuan adalah",
+		"jawaban" : "D",
+		"pilihanA" : "Geomorfologi",
+		"pilihanB" : "Demografi",
+		"pilihanC" : "Vulkanologi",
+		"pilihanD" : "Geologi"
+		},{
+		"isi_soal" : "Tenaga yang berasal dari dalam bumi bersifat membangun permukaan bumi disebut...",
+		"jawaban" : "B",
+		"pilihanA" : "Tenaga geologi",
+		"pilihanB" : "Tenaga endogen",
+		"pilihanC" : "Tenaga eksogen",
+		"pilihanD" : "Tenaga instusi"
+		},{
+		"isi_soal" : "Kajian utama Geografi meliputi dua aspek, yaitu..",
+		"jawaban" : "D",
+		"pilihanA" : "Formal dan Ekonomi",
+		"pilihanB" : "Fisik dan Ekonomi",
+		"pilihanC" : "Sosial dan Material",
+		"pilihanD" : "Fisik dan Sosial"
+		},{
+		"isi_soal" : "Salah satu konsep Geografi yang berkaitan erat dengan lokasi dan upaya pemenuhan kebutuhan pokok kehidupan adalah...",
+		"jawaban" : "A",
+		"pilihanA" : "Konsep Jarak",
+		"pilihanB" : "Konsep Lokasi",
+		"pilihanC" : "Konsep Interaksi",
+		"pilihanD" : "Konsep Pola"
+		},{
+		"isi_soal" : "Pandangan yang menyatakan semua benda langit beredar mengelilingi bumi dikenal dengan istilah...",
+		"jawaban" : "B",
+		"pilihanA" : "Galaktosentris",
+		"pilihanB" : "Geosentris",
+		"pilihanC" : "Heliosentris",
+		"pilihanD" : "Egosentris"
+		},{
+		"isi_soal" : "Benda langit yang mengelilingi matahari dengan orbit yang sangat lonjong, serta memiliki kepala dan ekor disebut..",
+		"jawaban" : "B",
+		"pilihanA" : "Meteor",
+		"pilihanB" : "Komet",
+		"pilihanC" : "Planet",
+		"pilihanD" : "Asteroid"
+		},{
+		"isi_soal" : "Pedologi ialah ilmu yang mempelajari",
+		"jawaban" : "A",
+		"pilihanA" : "Tanah",
+		"pilihanB" : "Iklim",
+		"pilihanC" : "Bentuk muka bumi",
+		"pilihanD" : "Cuaca"
+		},{
+		"isi_soal" : "Nelayan-nelayan mancanegara memanfaatkan data-data cuaca,suhu dan aliran air laut melalui satelit, ilmunya dinamakan...",
+		"jawaban" : "A",
+		"pilihanA" : "Penginderaan jauh",
+		"pilihanB" : "Kartografi",
+		"pilihanC" : "Ocenologi",
+		"pilihanD" : "Hidrologi"
+		},{
+		"isi_soal" : "Manfaat geografi di bidang perhubungan yaitu...",
+		"jawaban" : "C",
+		"pilihanA" : "Memprediksi jalan raya yang rusak",
+		"pilihanB" : "Memprediksi rusaknya jalan",
+		"pilihanC" : "Memprediksi tinggi gelombang air laut",
+		"pilihanD" : "Merencanakan daerah tujuan wisata"
+		},{
+		"isi_soal" : "Ilmu yang mempelajari lautan, antara lain tentang sifat air laut dan gerakan air laut disebut...",
+		"jawaban" : "A",
+		"pilihanA" : "Hidrologi",
+		"pilihanB" : "Klimatologi",
+		"pilihanC" : "Meteorology",
+		"pilihanD" : "Oseanografi"
+		},{
+		"isi_soal" : "Keberadaan suatu mata air panas, sumber-sumber gas dan danau-danau vulkanik aktif, pasti berhubungan dengan aktivitas vulkanik di kawasan tersebut. Fenomena tersebut sesuai dengan konsep geografi, yaitu",
+		"jawaban" : "C",
+		"pilihanA" : "Konsep interdependensi",
+		"pilihanB" : "Konsep pola",
+		"pilihanC" : "Konsep morfologi",
+		"pilihanD" : "Konsep keterkaitan keruangan"}]
+}

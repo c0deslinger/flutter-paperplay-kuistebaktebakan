@@ -1,0 +1,712 @@
+
+
+
+	
+{ "level_1":[{
+		"isi_soal" : "Lingkungan buatan yang dapat dijadikan tempat rekreasi adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "laut",
+		"pilihanB" : "gunung",
+		"pilihanC" : "pantai",
+		"pilihanD" : "taman"
+		},{
+		"isi_soal" : "Sungai di pesedaan pada umumnya digunakan untuk mengairi?",
+		"jawaban" : "A",
+		"pilihanA" : "sawah",
+		"pilihanB" : "kolam",
+		"pilihanC" : "danau",
+		"pilihanD" : "selokan"
+		},{
+		"isi_soal" : "Lingkungan alam yang memiliki udara segar terdapat di daerah?",
+		"jawaban" : "D",
+		"pilihanA" : "pemukiman",
+		"pilihanB" : "perkotaan",
+		"pilihanC" : "perumahan",
+		"pilihanD" : "pegunungan"
+		},{
+		"isi_soal" : "Menjaga dan memelihara kelestarian lingkungan menjadi tanggung jawab?",
+		"jawaban" : "B",
+		"pilihanA" : "keluarga",
+		"pilihanB" : "bersama",
+		"pilihanC" : "individu",
+		"pilihanD" : "pemerintah"
+		},{
+		"isi_soal" : "Air sungai di kota – kota besar pada umumnya kotor karena tercemar oleh?",
+		"jawaban" : "C",
+		"pilihanA" : "kotoran sampah",
+		"pilihanB" : "kotoran hewan",
+		"pilihanC" : "limbah pabrik",
+		"pilihanD" : "limbah rumah tangga"
+		},{
+		"isi_soal" : "Kegiatan berkebun di rumah atau di sekolah merupakan wujud kepedulian terhadap?",
+		"jawaban" : "D",
+		"pilihanA" : "penghijauan",
+		"pilihanB" : "lingkungan",
+		"pilihanC" : "kebersihan",
+		"pilihanD" : "keindahan"
+		},{
+		"isi_soal" : "Di bawah ini termasuk lingkungan alam kecuali..",
+		"jawaban" : "C",
+		"pilihanA" : "laut",
+		"pilihanB" : "gunung",
+		"pilihanC" : "taman",
+		"pilihanD" : "danau"
+		},{
+		"isi_soal" : "Tempat nelayan menangkap ikan di..",
+		"jawaban" : "D",
+		"pilihanA" : "sungai",
+		"pilihanB" : "kolam",
+		"pilihanC" : "danau",
+		"pilihanD" : "laut"
+		},{
+		"isi_soal" : "Taman, kolam di rumah termasuk lingkungan?",
+		"jawaban" : "B",
+		"pilihanA" : "alam",
+		"pilihanB" : "buatan",
+		"pilihanC" : "asri",
+		"pilihanD" : "penghijauan"
+		},{
+		"isi_soal" : "Di bawah ini merupakan manfaat dari pegunungan, kecuali?",
+		"jawaban" : "A",
+		"pilihanA" : "Industri",
+		"pilihanB" : "Pertanian",
+		"pilihanC" : "Perkebunan",
+		"pilihanD" : "Wisata"
+		},{
+		"isi_soal" : "Kemacetan lalu lintas sering terjadi di lingkungan?",
+		"jawaban" : "B",
+		"pilihanA" : "pedesaan",
+		"pilihanB" : "perkotaan",
+		"pilihanC" : "perkantoran",
+		"pilihanD" : "sekolah"
+		},{
+		"isi_soal" : "Berikut ini pemanfaatan dataran rendah, kecuali?",
+		"jawaban" : "C",
+		"pilihanA" : "perumahan",
+		"pilihanB" : "pertokoan",
+		"pilihanC" : "industri",
+		"pilihanD" : "peristirahatan"
+		},{
+		"isi_soal" : "Genangan air yang luas dan dikelilingi daratan disebut?",
+		"jawaban" : "D",
+		"pilihanA" : "selat",
+		"pilihanB" : "tanjung",
+		"pilihanC" : "teluk",
+		"pilihanD" : "danau"
+		},{
+		"isi_soal" : "Dua buah desa dipisahkan oleh sungai besar. Untuk memudahkan transportasi sebaiknya dibangun?",
+		"jawaban" : "A",
+		"pilihanA" : "jembatan",
+		"pilihanB" : "jalan protokol",
+		"pilihanC" : "jalan layang",
+		"pilihanD" : "jalan tol"
+		},{
+		"isi_soal" : "Contoh kegiatan yang dilakukan oleh karang taruna?",
+		"jawaban" : "A",
+		"pilihanA" : "gotong royong",
+		"pilihanB" : "berdagang",
+		"pilihanC" : "membuat pabrik",
+		"pilihanD" : "berkelahi"
+		},{
+		"isi_soal" : "Peternak sapi perah menghasilkan?",
+		"jawaban" : "B",
+		"pilihanA" : "daging",
+		"pilihanB" : "susu",
+		"pilihanC" : "kulit",
+		"pilihanD" : "telur"
+		},{
+		"isi_soal" : "Jasa yang diberikan oleh seorang guru adalah bekerja di bidang?",
+		"jawaban" : "B",
+		"pilihanA" : "kesehatan",
+		"pilihanB" : "pendidikan",
+		"pilihanC" : "pertanian",
+		"pilihanD" : "industri"
+		},{
+		"isi_soal" : "Orang bekerja untuk mendapatkan?",
+		"jawaban" : "B",
+		"pilihanA" : "Penghargaan",
+		"pilihanB" : "Penghasilan",
+		"pilihanC" : "Kesenangan",
+		"pilihanD" : "Piala"
+		},{
+		"isi_soal" : "Ibu membeli barang kebutuhan sehari – hari di? ",
+		"jawaban" : "A",
+		"pilihanA" : "Toko",
+		"pilihanB" : "Kantor Pos",
+		"pilihanC" : "Apotek",
+		"pilihanD" : "Restoran"
+		},{
+		"isi_soal" : "Contoh pekerjaan yang menghasilkan barang adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "Petani",
+		"pilihanB" : "Guru",
+		"pilihanC" : "Polisi",
+		"pilihanD" : "Tukang Pos"
+	}
+	
+	], "level_2":[{
+		"isi_soal" : "Yang bukan merupakan kenampakan alam adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "sungai",
+		"pilihanB" : "pulau",
+		"pilihanC" : "sekolah",
+		"pilihanD" : "danau"
+		},{
+		"isi_soal" : "Bagian yang menjorok ke darat dan sering dibangun pelabuhan disebut?",
+		"jawaban" : "A",
+		"pilihanA" : "tanjung",
+		"pilihanB" : "selat",
+		"pilihanC" : "pantai",
+		"pilihanD" : "teluk"
+		},{
+		"isi_soal" : "Dataran yang terbentuk dari endapan lumpur sungai di muara disebut?",
+		"jawaban" : "A",
+		"pilihanA" : "delta",
+		"pilihanB" : "dataran banjir",
+		"pilihanC" : "pantai",
+		"pilihanD" : "teluk"
+		},{
+		"isi_soal" : "Pengambilan sumber daya ikan bisa merusak habitatnya bila dilakukan dengan cara?",
+		"jawaban" : "C",
+		"pilihanA" : "memancing",
+		"pilihanB" : "menggunakan jaring",
+		"pilihanC" : "meledakkan bom",
+		"pilihanD" : "menggunakan tombak"
+		},{
+		"isi_soal" : "Gunung Agung termasuk gunung api yang terdapat di pulau?",
+		"jawaban" : "A",
+		"pilihanA" : "Bali",
+		"pilihanB" : "Lombok",
+		"pilihanC" : "Sumbawa",
+		"pilihanD" : "Flores"
+		},{
+		"isi_soal" : "Kegiatan perkebunan yang dilakukan di daerah dataran rendah adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "perkebunan kopi",
+		"pilihanB" : "perkebunan teh",
+		"pilihanC" : "perkebunan tebu",
+		"pilihanD" : "perkebunan kelapa sawit"
+		},{
+		"isi_soal" : "Sumber daya alam yang diperbaharui melalui siklusnya adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "air",
+		"pilihanB" : "minyak bumi",
+		"pilihanC" : "tumbuhan",
+		"pilihanD" : "hewan"
+		},{
+		"isi_soal" : "Contoh sumber daya alam yang dapat diperbaharui adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "hasil tambang",
+		"pilihanB" : "barang galian",
+		"pilihanC" : "hasil perkebunan",
+		"pilihanD" : "mineral bumi"
+		},{
+		"isi_soal" : "Daerah penghasil tembakau di Sumatera Utara adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "Tebing Tinggi",
+		"pilihanB" : "Asahan",
+		"pilihanC" : "Brastagi",
+		"pilihanD" : "Deli Serdang "
+		},{
+		"isi_soal" : "Daerah yang terkenal sebagai penghasil gas alam adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "Aceh",
+		"pilihanB" : "Maluku",
+		"pilihanC" : "NTB",
+		"pilihanD" : "Madura"
+		},{
+		"isi_soal" : "Alat music tanjidor berasal dari provinsi?",
+		"jawaban" : "B",
+		"pilihanA" : "DI Yogyakarta",
+		"pilihanB" : "DKI Jakarta",
+		"pilihanC" : "Banten",
+		"pilihanD" : "Jawa Barat"
+		},{
+		"isi_soal" : "Tari Saman berasal dari provinsi?",
+		"jawaban" : "D",
+		"pilihanA" : "Bali",
+		"pilihanB" : "NTT",
+		"pilihanC" : "NTB",
+		"pilihanD" : "Aceh"
+		},{
+		"isi_soal" : "Prasasti Tugu terletak di daerah?",
+		"jawaban" : "B",
+		"pilihanA" : "Semarang",
+		"pilihanB" : "Jakarta",
+		"pilihanC" : "Bogor",
+		"pilihanD" : "Yogyakarta"
+		},{
+		"isi_soal" : "Kerajaan Mulawarman terletak di daerah?",
+		"jawaban" : "A",
+		"pilihanA" : "Kalimantan Timur",
+		"pilihanB" : "Jawa Barat",
+		"pilihanC" : "Jawa Tengah",
+		"pilihanD" : "Jawa Timur"
+		},{
+		"isi_soal" : "Peninggalan kerjaaan Demak, Jawa Tengah berupa?",
+		"jawaban" : "D",
+		"pilihanA" : "candi",
+		"pilihanB" : "pura",
+		"pilihanC" : "menara",
+		"pilihanD" : "masjid"
+		},{
+		"isi_soal" : "Bentuk peninggalan sejarah Kerajaan Buleleng Bali berupa?",
+		"jawaban" : "A",
+		"pilihanA" : "Pura Besakih",
+		"pilihanB" : "Bedugul",
+		"pilihanC" : "Nusa Dua",
+		"pilihanD" : "Pantai Kuta"
+		},{
+		"isi_soal" : "Koperasi yang mrnyediakan kebutuhan pokok para anggotanya disebut koperasi?",
+		"jawaban" : "C",
+		"pilihanA" : "simpan pinjam",
+		"pilihanB" : "produksi",
+		"pilihanC" : "konsumsi",
+		"pilihanD" : "serba usaha"
+		},{
+		"isi_soal" : "Koperasi yang didirikan atas dasar keanggotaannya adalah koperasi…",
+		"jawaban" : "B",
+		"pilihanA" : "simpan pinjam",
+		"pilihanB" : "sekolah",
+		"pilihanC" : "serba usaha",
+		"pilihanD" : "jasa"
+		},{
+		"isi_soal" : "Teknologi dibagai dua yaitu teknologi produksi sederhana dan teknologi produksi..",
+		"jawaban" : "A",
+		"pilihanA" : "modern",
+		"pilihanB" : "kuno",
+		"pilihanC" : "lama",
+		"pilihanD" : "zaman"
+		},{
+		"isi_soal" : "Contoh alat komunikasi pada zaman dahulu adalah?",
+		"jawaban" : "B",
+		"pilihanA" : "email",
+		"pilihanB" : "kentungan",
+		"pilihanC" : "satelit",
+		"pilihanD" : "pesawat"
+	}
+	], "level_3":[{
+		"isi_soal" : "Penemu radio pertama kali adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "Ernest",
+		"pilihanB" : "Jhon Logie Baird",
+		"pilihanC" : "Alexander Graham Bell",
+		"pilihanD" : "Guglielmo Marconi"
+		},{
+		"isi_soal" : "Media komunikasi yang mengandalkan jasa pos adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "surat",
+		"pilihanB" : "telegraf",
+		"pilihanC" : "telepon",
+		"pilihanD" : "internet"
+		},{
+		"isi_soal" : "Segala sesuatu yang digunakan sebagai alat angkutan disebut sarana?",
+		"jawaban" : "B",
+		"pilihanA" : "komunikasi",
+		"pilihanB" : "transportasi",
+		"pilihanC" : "produksi",
+		"pilihanD" : "konsumsi"
+		},{
+		"isi_soal" : "Alat komunikasi yang menghasilkan gambar dan suara adalah..",
+		"jawaban" : "D",
+		"pilihanA" : "radio",
+		"pilihanB" : "telepon",
+		"pilihanC" : "ponsel",
+		"pilihanD" : "televisi"
+		},{
+		"isi_soal" : "Alat komunikasi secara langsung dengan jarak yang jauh dapat dilakukan melalui?",
+		"jawaban" : "B",
+		"pilihanA" : "koran",
+		"pilihanB" : "telepon",
+		"pilihanC" : "radio",
+		"pilihanD" : "kentungan"
+		},{
+		"isi_soal" : "Perusahaan jasa penerbangan milik pemerintah adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "lion air",
+		"pilihanB" : "air asia",
+		"pilihanC" : "garuda indonesia",
+		"pilihanD" : "bouroq air"
+		},{
+		"isi_soal" : "Alat angkut yang ditarik hewan untuk mengangkut penumpang atau barang disebut?",
+		"jawaban" : "D",
+		"pilihanA" : "becak",
+		"pilihanB" : "sepeda",
+		"pilihanC" : "gerobak",
+		"pilihanD" : "pedati"
+		},{
+		"isi_soal" : "Tempat untuk tinggal landas dan mendaratnya pesawat terbang adalah?",
+		"jawaban" : "B",
+		"pilihanA" : "pelabuhan",
+		"pilihanB" : "bandara",
+		"pilihanC" : "stasiun",
+		"pilihanD" : "terminal"
+		},{
+		"isi_soal" : "Bandar udara Juwata terdapat di kota?",
+		"jawaban" : "D",
+		"pilihanA" : "Balikpapan",
+		"pilihanB" : "Samarinda",
+		"pilihanC" : "Banjarmasin",
+		"pilihanD" : "Tarakan"
+		},{
+		"isi_soal" : "Pada zaman dahulu petani membajak sawah dengan menggunakan?",
+		"jawaban" : "B",
+		"pilihanA" : "traktor",
+		"pilihanB" : "kerbau",
+		"pilihanC" : "mesin",
+		"pilihanD" : "kuda"
+		},{
+		"isi_soal" : "Bahan bakar untuk lokomotif bermesin uap adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "bensin",
+		"pilihanB" : "air",
+		"pilihanC" : "solar",
+		"pilihanD" : "batu bara"
+		},{
+		"isi_soal" : "Permasalahan yang terjadi di masyarakat baik di pedesaan maupun perkotaan disebut?",
+		"jawaban" : "A",
+		"pilihanA" : "masalah sosial",
+		"pilihanB" : "masalah politik",
+		"pilihanC" : "masalah umum",
+		"pilihanD" : "masalah ekonomi"
+		},{
+		"isi_soal" : "Yang termasuk masalah pribadi adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "malas belajar",
+		"pilihanB" : "tawuran",
+		"pilihanC" : "pencurian",
+		"pilihanD" : "penipuan"
+		},{
+		"isi_soal" : "Gelandangan dan pengemis menjadi tanggung jawab pemerintah khususnya?",
+		"jawaban" : "A",
+		"pilihanA" : "dinas sosial",
+		"pilihanB" : "dinas perekonomian",
+		"pilihanC" : "dinas tenaga kerja",
+		"pilihanD" : "dinas pekerjaan umum"
+		},{
+		"isi_soal" : "Yang tidak termasuk fasilitas umum di bawah ini adalah..",
+		"jawaban" : "D",
+		"pilihanA" : "puskesmas",
+		"pilihanB" : "pasar",
+		"pilihanC" : "sekolah",
+		"pilihanD" : "rumah penduduk"
+		},{
+		"isi_soal" : "Perbuatan kejahatan yang sering dilakukan oleh remaja disebut?",
+		"jawaban" : "A",
+		"pilihanA" : "kenakalan remaja",
+		"pilihanB" : "penjarahan remaja",
+		"pilihanC" : "keusilan remaja",
+		"pilihanD" : "pubertas"
+		},{
+		"isi_soal" : "Pemberian modal usaha kepada masyarakat  bertujuan untuk mengurangi angka?",
+		"jawaban" : "B",
+		"pilihanA" : "kriminalitas",
+		"pilihanB" : "pengangguran",
+		"pilihanC" : "pencemaran",
+		"pilihanD" : "kebodohan"
+		},{
+		"isi_soal" : "Usaha yang dilakukan pemerintah untuk mengatasi laju pertumbuhan penduduk yang pesat adalah?",
+		"jawaban" : "B",
+		"pilihanA" : "transmigrasi",
+		"pilihanB" : "keluarga berencana",
+		"pilihanC" : "urbanisasi",
+		"pilihanD" : "penundaan perkawinan"
+		},{
+		"isi_soal" : "Manusia tidak bisa hidup sendiri dan memerlukan orang lain. Maka manusia disebut sebagai makhluk..",
+		"jawaban" : "B",
+		"pilihanA" : "ekonomi",
+		"pilihanB" : "sosial",
+		"pilihanC" : "budaya",
+		"pilihanD" : "individu"
+		},{
+		"isi_soal" : "Masalah sosial dapat diselesaikan secara..",
+		"jawaban" : "D",
+		"pilihanA" : "sendiri - sendiri",
+		"pilihanB" : "kepentingan golongan",
+		"pilihanC" : "kemauan pimpinan",
+		"pilihanD" : "bersama - sama"
+	}
+	], "level_4":[{
+		"isi_soal" : "Tarumanegara adalah kerajaan Hindu yang pertama di..",
+		"jawaban" : "B",
+		"pilihanA" : "Indonesia",
+		"pilihanB" : "Jawa",
+		"pilihanC" : "Sulawesi",
+		"pilihanD" : "Sumatera"
+		},{
+		"isi_soal" : "Raja Majapahit yang terkenal adalah..",
+		"jawaban" : "A",
+		"pilihanA" : "Hayam Wuruk",
+		"pilihanB" : "Raden Wijaya",
+		"pilihanC" : "Gajah Mada",
+		"pilihanD" : "Kertajasa"
+		},{
+		"isi_soal" : "Kerajaan Islam yang pertama di Indonesia adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "Demak",
+		"pilihanB" : "Banten",
+		"pilihanC" : "Samudera Pasai",
+		"pilihanD" : "Aceh"
+		},{
+		"isi_soal" : "Walisongo yang menyebarkan agama islam di Cirebon adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "Sunan Gunung Jati",
+		"pilihanB" : "Sunan Giri",
+		"pilihanC" : "Sunan Kalijogo",
+		"pilihanD" : "Sunan Drajat"
+		},{
+		"isi_soal" : "Berikut ini adalah daerah asal para pedagang yang membawa agama islam ke Indonesia, kecuali?",
+		"jawaban" : "C",
+		"pilihanA" : "Arab",
+		"pilihanB" : "Gujarat",
+		"pilihanC" : "Iran",
+		"pilihanD" : "Persia"
+		},{
+		"isi_soal" : "Kitab yang memuat istilah Bhineka Tunggal Ika adalah karangan?",
+		"jawaban" : "D",
+		"pilihanA" : "Mpu Prapanca",
+		"pilihanB" : "Mpu Kanwa",
+		"pilihanC" : "Mpu Darmaja",
+		"pilihanD" : "Mpu Tantular"
+		},{
+		"isi_soal" : "Raja Kerajaan Kutai yang terkenal adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "Mulawarman",
+		"pilihanB" : "Kudungga",
+		"pilihanC" : "Kertanegara",
+		"pilihanD" : "Sanjaya"
+		},{
+		"isi_soal" : "Kerajaan Gowa dan Tallo merupakan kerajaan kembar. Raja Tallo yaitu?",
+		"jawaban" : "C",
+		"pilihanA" : "Hasanudin",
+		"pilihanB" : "Daeng Manrabia",
+		"pilihanC" : "Karaeng Matoaya",
+		"pilihanD" : "Zainal Abidin"
+		},{
+		"isi_soal" : "Pendeta Budha dari Cina yang tinggal di Sriwijaya adalah..",
+		"jawaban" : "B",
+		"pilihanA" : "Sakhyakirti",
+		"pilihanB" : "I-Tsing",
+		"pilihanC" : "Balaputra Dewa",
+		"pilihanD" : "Samaratungga"
+		},{
+		"isi_soal" : "sultan Demak yang mendapat julukan pangeran sabrang lor adalah..",
+		"jawaban" : "B",
+		"pilihanA" : "Sultan Trenggono",
+		"pilihanB" : "Pangeran Unus",
+		"pilihanC" : "Raden Patah",
+		"pilihanD" : "Pangeran Hasanudin"
+		},{
+		"isi_soal" : "Perputaran bumi pada porosnya disebut?",
+		"jawaban" : "B",
+		"pilihanA" : "Revolusi",
+		"pilihanB" : "Rotasi",
+		"pilihanC" : "Polusi",
+		"pilihanD" : "Evolusi"
+		},{
+		"isi_soal" : "Rata2 keadaan suatu daerah dalam rentang waktu relatif singkat disebut? ",
+		"jawaban" : "D",
+		"pilihanA" : "angin muson barat",
+		"pilihanB" : "angin muson timur",
+		"pilihanC" : "iklim",
+		"pilihanD" : "cuaca"
+		},{
+		"isi_soal" : "Kota yang memiliki beda waktu lebih dari 7 jam dari waktu Greenwich adalah?",
+		"jawaban" : "B",
+		"pilihanA" : "Samarinda",
+		"pilihanB" : "Pontianak",
+		"pilihanC" : "Makassar",
+		"pilihanD" : "Ambon"
+		},{
+		"isi_soal" : "Provinsi yang termasuk wilayah waktu Indonesia Tengah adalah..",
+		"jawaban" : "B",
+		"pilihanA" : "Jawa Timur",
+		"pilihanB" : "Bali",
+		"pilihanC" : "Pontianak",
+		"pilihanD" : "Papua"
+		},{
+		"isi_soal" : "Berikut ini adalah hewan peralihan kecuali?",
+		"jawaban" : "B",
+		"pilihanA" : "Anoa",
+		"pilihanB" : "Cenderawasih",
+		"pilihanC" : "Tapir",
+		"pilihanD" : "Babirusa"
+		},{
+		"isi_soal" : "Bunga yang ditetapkan sebagai bunga puspa bangsa adalah?",
+		"jawaban" : "B",
+		"pilihanA" : "Bunga Anggrek",
+		"pilihanB" : "Bunga Melati",
+		"pilihanC" : "Bunga Mawar",
+		"pilihanD" : "Bunga Matahari"
+		},{
+		"isi_soal" : "Perusahaan berikut ini yang tidak termasuk BUMN adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "PT Kereta Api",
+		"pilihanB" : "Perum Pegadaian",
+		"pilihanC" : "PT Timbang Timah",
+		"pilihanD" : "PT Semen Gresik"
+		},{
+		"isi_soal" : "Kegiatan penyebarluasan hasil produksi untuk dijual kepada pemakai disebut?",
+		"jawaban" : "C",
+		"pilihanA" : "Konsumsi",
+		"pilihanB" : "Produksi",
+		"pilihanC" : "Distribusi",
+		"pilihanD" : "Konsumen"
+		},{
+		"isi_soal" : "Landasan Idiil Koperasi adalah..",
+		"jawaban" : "B",
+		"pilihanA" : "UUD 1945",
+		"pilihanB" : "Pancasila",
+		"pilihanC" : "GBHN",
+		"pilihanD" : "Undang - undang"
+		},{
+		"isi_soal" : "Kegiatan menghasilkan suatu barang atau jasa disebut?",
+		"jawaban" : "B",
+		"pilihanA" : "Konsumsi",
+		"pilihanB" : "Produksi",
+		"pilihanC" : "Distribusi",
+		"pilihanD" : "Transmigrasi"
+	}
+	], "level_5":[{
+		"isi_soal" : "Patih yang berhasil mempersatukan Nusantara di bawah kerajaan Majapahit adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "Gajah Mada",
+		"pilihanB" : "Mapala",
+		"pilihanC" : "Narubi",
+		"pilihanD" : "Nola"
+		},{
+		"isi_soal" : "Pendiri Kerajaan Majapahit adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "Ken Arok",
+		"pilihanB" : "Hayam Wuruk",
+		"pilihanC" : "Gajah Mada",
+		"pilihanD" : "Raden Wijaya"
+		},{
+		"isi_soal" : "Raja yang terkenal dari Kerajaan Tarumanegara adalah?",
+		"jawaban" : "B",
+		"pilihanA" : "Mulawarman",
+		"pilihanB" : "Punawarman",
+		"pilihanC" : "Rajasanagara",
+		"pilihanD" : "Kudungga"
+		},{
+		"isi_soal" : "Kerajaan Sriwijaya mencapai puncak keemasaan saat diperintah oleh?",
+		"jawaban" : "C",
+		"pilihanA" : "Purnawarman",
+		"pilihanB" : "Hayam Wuruk",
+		"pilihanC" : "Balaputradewa",
+		"pilihanD" : "Sultan Badarudin"
+		},{
+		"isi_soal" : "Selat yang menghubungkan Pulau Jawa dan Sumatera adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "Sunda",
+		"pilihanB" : "Karimata",
+		"pilihanC" : "Madura",
+		"pilihanD" : "Bali"
+		},{
+		"isi_soal" : "Angin Musim Barat terjadi pada Bulan?",
+		"jawaban" : "B",
+		"pilihanA" : "April-Oktober",
+		"pilihanB" : "September - Maret",
+		"pilihanC" : "Oktober - April",
+		"pilihanD" : "Maret - September"
+		},{
+		"isi_soal" : "Jenis angin di bawah ini yang bertiup pada waktu malam hari adalah angin?",
+		"jawaban" : "C",
+		"pilihanA" : "darat dan laut",
+		"pilihanB" : "laut dan lembah",
+		"pilihanC" : "darat dan gunung",
+		"pilihanD" : "laut dan gunung"
+		},{
+		"isi_soal" : " Provinsi yang belum pernah mengalami pemekaran adalah ....",
+		"jawaban" : "C",
+		"pilihanA" : "Jawa Tengah",
+		"pilihanB" : "Jawa Barat",
+		"pilihanC" : "Jawa Timur",
+		"pilihanD" : "Sulawesi"
+		},{
+		"isi_soal" : " Pada tahun 2000 provinsi Jawa Barat dimekarkan menjadi provinsi ....",
+		"jawaban" : "C",
+		"pilihanA" : "Bangka Belitung",
+		"pilihanB" : "Aceh",
+		"pilihanC" : "Banten",
+		"pilihanD" : "DKI Jakarta"
+		},{
+		"isi_soal" : " Pemerintah Indonesia menetapkan wilayah perairan laut dengan Deklarasi Juanda pada tanggal ....",
+		"jawaban" : "B",
+		"pilihanA" : "12 Oktober 1957",
+		"pilihanB" : "13 Nopember 1957",
+		"pilihanC" : "13 Desember 1957",
+		"pilihanD" : "13 Desember 1967"
+		},{
+		"isi_soal" : " Wilayah perairan Indonesia ditetapkan selebar ....",
+		"jawaban" : "A",
+		"pilihanA" : "12 mil",
+		"pilihanB" : "200 mil",
+		"pilihanC" : "3 mil",
+		"pilihanD" : "13 mil"
+		},{
+		"isi_soal" : " Gunung Pagon merupakan gunung tertinggi di negara ....",
+		"jawaban" : "D",
+		"pilihanA" : "Malaysia",
+		"pilihanB" : "Brunai Darusalam",
+		"pilihanC" : "Vietnam",
+		"pilihanD" : "Laos"
+		},{
+		"isi_soal" : " Sungai terpanjang di Brunei Darussalam adalah ....",
+		"jawaban" : "D",
+		"pilihanA" : "Sungai Irawadi",
+		"pilihanB" : "Sungai Mekong",
+		"pilihanC" : "Sungai Chau Praya",
+		"pilihanD" : "Sungai Belait"
+		},{
+		"isi_soal" : " Tanah Genting Kra terdapat di ....",
+		"jawaban" : "C",
+		"pilihanA" : "Malaysia",
+		"pilihanB" : "Singapura",
+		"pilihanC" : "Thailand",
+		"pilihanD" : "Philipina"
+		},{
+		"isi_soal" : " Pada saat pesta rakyat Vietnam mengenakan pakaian tradisional ....",
+		"jawaban" : "A",
+		"pilihanA" : "Ao Dai",
+		"pilihanB" : "Kebaya",
+		"pilihanC" : "Long Dress",
+		"pilihanD" : "Kimono"
+		},{
+		"isi_soal" : " Sungai terpanjang di dunia adalah sungai ....",
+		"jawaban" : "A",
+		"pilihanA" : "Nil",
+		"pilihanB" : "Melelong",
+		"pilihanC" : "Missisipi",
+		"pilihanD" : "Ohio"
+		},{
+		"isi_soal" : " Berikut adalah salah satu negara yang berada di Asia Selatan yaitu ....",
+		"jawaban" : "C",
+		"pilihanA" : "Kuwait",
+		"pilihanB" : "Kazakhstan",
+		"pilihanC" : "Bangladesh",
+		"pilihanD" : "Uzbekhistan"
+		},{
+		"isi_soal" : " Benua terkecil di dunia adalah ....",
+		"jawaban" : "C",
+		"pilihanA" : "Asia",
+		"pilihanB" : "Eropa",
+		"pilihanC" : "Australia",
+		"pilihanD" : "Afrika"
+		},{
+		"isi_soal" : " Di Asia Tenggara negara yang tidak mempunyai wilayah perairan adalah ....",
+		"jawaban" : "A",
+		"pilihanA" : "Myanmar",
+		"pilihanB" : "Vietnam",
+		"pilihanC" : "Thailand",
+		"pilihanD" : "Malaysia"
+		},{
+		"isi_soal" : " Gunung tertinggi di Malaysia adalah ....",
+		"jawaban" : "C",
+		"pilihanA" : "Pagon",
+		"pilihanB" : "Puncak Jaya",
+		"pilihanC" : "Kinabalu",
+		"pilihanD" : "Do’I Inthanon"
+	}]
+}
+

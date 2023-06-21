@@ -1,0 +1,712 @@
+
+
+
+	
+{ "level_1":[{
+		"isi_soal" : "Kerajaan tertua di wilayah Nusantara adalah . . . .?",
+		"jawaban" : "C",
+		"pilihanA" : "Tarumanegara",
+		"pilihanB" : "Majapahit",
+		"pilihanC" : "Kutai",
+		"pilihanD" : "Singasari"
+		},{
+		"isi_soal" : "Prasasti Ciaruteun adalah salah satu peninggalan Kerajaan . . . .?",
+		"jawaban" : "B",
+		"pilihanA" : "Kutai",
+		"pilihanB" : "Tarumanegara",
+		"pilihanC" : "Sriwijaya",
+		"pilihanD" : "Kalingga"
+		},{
+		"isi_soal" : "Letak Kerajaan Majapahit adalah di . . . .",
+		"jawaban" : "B",
+		"pilihanA" : "Hilir Sungai Musi",
+		"pilihanB" : "Hilir Sungai Brantas",
+		"pilihanC" : "Hilir Sungai Bengawan Solo",
+		"pilihanD" : "Hilir Sungai Citarum"
+		},{
+		"isi_soal" : "Kerajaan Islam pertama di Nusantara adalah..?",
+		"jawaban" : "C",
+		"pilihanA" : "Mataram",
+		"pilihanB" : "Demak",
+		"pilihanC" : "Samudra Pasai",
+		"pilihanD" : "Aceh"
+		},{
+		"isi_soal" : "Kerajaan Islam pertama di Pulau Jawa adalah . . . .",
+		"jawaban" : "C",
+		"pilihanA" : "Samudra Pasai ",
+		"pilihanB" : "Banten",
+		"pilihanC" : "Demak",
+		"pilihanD" : "Ternate"
+		},{
+		"isi_soal" : "Ciri-ciri mesjid adalah sebagai berikut, kecuali . . . .",
+		"jawaban" : "B",
+		"pilihanA" : "beratap tumpang",
+		"pilihanB" : "terdapat garasi",
+		"pilihanC" : "terdapat menara",
+		"pilihanD" : "terdapat tempat berwudhu"
+		},{
+		"isi_soal" : "Bangunan khas untuk kediaman para raja dan keluarganya disebut. . . .",
+		"jawaban" : "C",
+		"pilihanA" : "makam",
+		"pilihanB" : "mesjid",
+		"pilihanC" : "keraton",
+		"pilihanD" : "pesantren"
+		},{
+		"isi_soal" : "Kaligrafi adalah tulisan yang menggunakan huruf . . . .",
+		"jawaban" : "D",
+		"pilihanA" : "Jawa",
+		"pilihanB" : "Latin",
+		"pilihanC" : "Kawi",
+		"pilihanD" : "Arab"
+		},{
+		"isi_soal" : "Pendiri Kerajaan Kutai adalah . . . .",
+		"jawaban" : "D",
+		"pilihanA" : "Kundungga",
+		"pilihanB" : "Aswawarman",
+		"pilihanC" : "Tunggul Ametung",
+		"pilihanD" : "Purnawarman"
+		},{
+		"isi_soal" : "Pemimpin wanita dari Kerajaan Kalingga adalah . . . .",
+		"jawaban" : "B",
+		"pilihanA" : "Ken Dedes",
+		"pilihanB" : "Ratu Sima",
+		"pilihanC" : "Gayatri",
+		"pilihanD" : "Dewi Rambi"
+		},{
+		"isi_soal" : "Raja Hayam Wuruk membawa Majapahit pada puncak kejayaannya atas bantuan . . . .",
+		"jawaban" : "A",
+		"pilihanA" : "Mahapatih Gajah Mada",
+		"pilihanB" : "Ranggalawe",
+		"pilihanC" : "Raden Wijaya",
+		"pilihanD" : "Jayanegara"
+		},{
+		"isi_soal" : "Sultan Aceh yang terkenal adalah . . . .",
+		"jawaban" : "B",
+		"pilihanA" : "Sultan Ibrahim",
+		"pilihanB" : "Sultan Iskandar Muda",
+		"pilihanC" : "Sultan Husain ",
+		"pilihanD" : "Sultan Iskandar Syah"
+		},{
+		"isi_soal" : "Karena keberaniannya, Sultan Hasanudin dari Makassar mendapat gelar . . .  ",
+		"jawaban" : "D",
+		"pilihanA" : "Kuda Jantan dari Timur ",
+		"pilihanB" : "Kuda Jantan dari Barat",
+		"pilihanC" : "Ayam Jantan dari Utara ",
+		"pilihanD" : "Ayam Jantan dari Timur"
+		},{
+		"isi_soal" : "Daerah dataran tinggi yang terkenal di Jawa Tengah adalah . . . .",
+		"jawaban" : "A",
+		"pilihanA" : "Dieng",
+		"pilihanB" : "Madi",
+		"pilihanC" : "Puncak",
+		"pilihanD" : "Ijen"
+		},{
+		"isi_soal" : "Berikut ini adalah manfaat waduk atau bendungan, kecuali . . . . ",
+		"jawaban" : "D",
+		"pilihanA" : "pembangkit listrik ",
+		"pilihanB" : "objek wisata",
+		"pilihanC" : "pengairan sawah ",
+		"pilihanD" : "pengendali gempa"
+		},{
+		"isi_soal" : "Rumah adat dari Papua disebut . . . .",
+		"jawaban" : "A",
+		"pilihanA" : "honai",
+		"pilihanB" : "joglo",
+		"pilihanC" : "kebaya",
+		"pilihanD" : "gadang"
+		},{
+		"isi_soal" : "Tari seudati dan saman berasal dari Provinsi . . . .",
+		"jawaban" : "C",	
+		"pilihanA" : "Riau",
+		"pilihanB" : "Bali",
+		"pilihanC" : "Nanggroe Aceh Darussalam",
+		"pilihanD" : "NTB"
+		},{
+		"isi_soal" : "Suatu kegiatan usaha yang memperoleh pendapatan dari kegiatan memperjual belikan barang disebut . . . .",
+		"jawaban" : "C",
+		"pilihanA" : "usaha jasa ",
+		"pilihanB" : "usaha dagang",
+		"pilihanC" : "usaha produksi ",
+		"pilihanD" : "usaha jasa dan produksi"
+		},{
+		"isi_soal" : "Berikut ini adalah badan-badan usaha milik swasta, kecuali . . . . ",
+		"jawaban" : "B",
+		"pilihanA" : "Perum",
+		"pilihanB" : "Koperasi",
+		"pilihanC" : "PT",
+		"pilihanD" : "CV"
+		},{
+		"isi_soal" : "Kegiatan yang bertujuan menyalurkan barang dari produsen kepada konsumen  disebut . . . .",
+		"jawaban" : "C",
+		"pilihanA" : "produksi",
+		"pilihanB" : "konsumsi",
+		"pilihanC" : "distribusi",
+		"pilihanD" : "distributor"
+	}
+	
+	], "level_2":[{
+		"isi_soal" : "Jerman harus membayar kerugian perang  kepada sekutu adalah salah satu hasil keputusan…",
+		"jawaban" : "B",
+		"pilihanA" : "Konferensi Meja Bundar ",
+		"pilihanB" : "Konferensi Postdam ",
+		"pilihanC" : "Perjanjian Linggarjati ",
+		"pilihanD" : "Konferensi Meja Hijau "
+		},{
+		"isi_soal" : "Pada zaman penjajahan, dalam susunan pemerintah daerah di Jawa Ken setara dengan…",
+		"jawaban" : "D",
+		"pilihanA" : "Kotamadya",
+		"pilihanB" : "Desa",
+		"pilihanC" : "Kecamatan",
+		"pilihanD" : "Kabupaten"
+		},{
+		"isi_soal" : "Organisasi semi militer yang dibentuk secara resmi tanggal 29 April 1943 dan anggotanya terdiri atas pemuda adalah…",
+		"jawaban" : "D",
+		"pilihanA" : "Fujinkai ",
+		"pilihanB" : "Heiho ",
+		"pilihanC" : "Jawa Hokokai ",
+		"pilihanD" : "Seinendan "
+		},{
+		"isi_soal" : "Pembela Tanah Air di Sumatera dikenal dengan nama…",
+		"jawaban" : "B",
+		"pilihanA" : "Heiho",
+		"pilihanB" : "Gyugun",
+		"pilihanC" : "PETA",
+		"pilihanD" : "Si"
+		},{
+		"isi_soal" : "Memberi nasihat atau pertimbangan kepada Seiko Shikikan adalah tugas dari organisasi…",
+		"jawaban" : "C",
+		"pilihanA" : "Fujinkai",
+		"pilihanB" : "PUTERA",
+		"pilihanC" : "Chuo Sangi In",
+		"pilihanD" : "PETA"
+		},{
+		"isi_soal" : "Kelompok Sukarni adalah salah satu perlawanan Indonesia terhadap Jepang melalui…",
+		"jawaban" : "A",
+		"pilihanA" : "Gerakan bawah tanah",
+		"pilihanB" : "Pembombardiran",
+		"pilihanC" : "Organisasi bikinan jepang",
+		"pilihanD" : "Perlawanan bersenjata"
+		},{
+		"isi_soal" : "Tokoh-tokoh yang terkenal di Kelompok Pemuda Menteng 31 adalah…",
+		"jawaban" : "C",
+		"pilihanA" : "Soekarno dan Sukarni ",
+		"pilihanB" : "Naruto dan Hanafi ",
+		"pilihanC" : "Adam Malik dan Sukarni ",
+		"pilihanD" : "Hatta dan Supeno "
+		},{
+		"isi_soal" : "Perlawanan yang dipimpin oleh Tengku Abdul Jalil adalah perlawanan rakyat di…",
+		"jawaban" : "C",
+		"pilihanA" : "Pontianak ",
+		"pilihanB" : "Makassar ",
+		"pilihanC" : "Cot Pleing",
+		"pilihanD" : "Madura"
+		},{
+		"isi_soal" : "Upacara penyembahan terhadap Tenno Heika Kaisar Jepang disebut juga…",
+		"jawaban" : "A",
+		"pilihanA" : "Seikeirei ",
+		"pilihanB" : "Romusha ",
+		"pilihanC" : "Rodi ",
+		"pilihanD" : "Harakiri "
+		},{
+		"isi_soal" : "Perlawanan bersenjata yang dilakukan PETA terjadi di berbagai daerah di bawah ini, kecuali…",
+		"jawaban" : "A",
+		"pilihanA" : "Padang ",
+		"pilihanB" : "Cilacap ",
+		"pilihanC" : "Blitar",
+		"pilihanD" : "Aceh"
+		},{
+		"isi_soal" : "Menghimpun keterangan dan menuntut penjahat perang adalah salah satu tugas dari…",
+		"jawaban" : "B",
+		"pilihanA" : "PETA",
+		"pilihanB" : "AFNEI",
+		"pilihanC" : "Fujinkai",
+		"pilihanD" : "MPR"
+		},{
+		"isi_soal" : "Dibawah ini yang merupakan anggota negara KTN…",
+		"jawaban" : "C",
+		"pilihanA" : "Perancis",
+		"pilihanB" : "Mesir",
+		"pilihanC" : "Australia",
+		"pilihanD" : "Singapura"
+		},{
+		"isi_soal" : "Nama kapal perang Amerika yang berlabuh di teluk Jakarta adalah…",
+		"jawaban" : "B",
+		"pilihanA" : "Doa Ibu",
+		"pilihanB" : "Renville",
+		"pilihanC" : "VT-CLA",
+		"pilihanD" : "Titanic"
+		},{
+		"isi_soal" : "Indonesia menyumbangkan padi sebanyak…kepada India.",
+		"jawaban" : "A",
+		"pilihanA" : "500.000 ton ",
+		"pilihanB" : "5.000.000 ton ",
+		"pilihanC" : "50.000 kg",
+		"pilihanD" : "500.000 kg"
+		},{
+		"isi_soal" : "Salah satu pimpinan RI yang ditawan oleh Belanda ke Bangka adalah…",
+		"jawaban" : "D",
+		"pilihanA" : "Soekarno",
+		"pilihanB" : "Sukarni",
+		"pilihanC" : "Chaerul Anwar",
+		"pilihanD" : "Moh. Hatta"
+		},{
+		"isi_soal" : "Menteri Kemakmuran yang berkunjung ke Sumatera untuk mendirikan Pemerintah Darurat RI adalah…",
+		"jawaban" : "A",
+		"pilihanA" : "Syafruddin Prawiranegara ",
+		"pilihanB" : "Agus Salim ",
+		"pilihanC" : "L.N. Palar ",
+		"pilihanD" : "Sutan Syahrir "
+		},{
+		"isi_soal" : "Salah satu wakil pemerintah RI di Perundingan Hooge Veluwe adalah…",
+		"jawaban" : "B",
+		"pilihanA" : "Chaerul Anwar ",
+		"pilihanB" : "dr. Sudarsono ",
+		"pilihanC" : "Van Mook ",
+		"pilihanD" : "Radjiman "
+		},{
+		"isi_soal" : "RIS dan Belanda akan membentuk Uni Indonesia-Belanda dengan Ratu Belanda sebagai ketuanya adalah hasil dari perundingan…",
+		"jawaban" : "B",
+		"pilihanA" : "Hooge Veluwe ",
+		"pilihanB" : "Linggarjati ",
+		"pilihanC" : "Renville ",
+		"pilihanD" : "Sjahrir-Van Mook "
+		},{
+		"isi_soal" : "Serangan umum dipimpin oleh…",
+		"jawaban" : "C",
+		"pilihanA" : "Letnan Amir",
+		"pilihanB" : "Letnan Masduki",
+		"pilihanC" : "Letkol Soeharto",
+		"pilihanD" : "Letkol Suparman"
+		},{
+		"isi_soal" : "Penyempurnaan konstitusi RIS, dengan memasukkan bagian-bagian penting dari UUD RI tahun 1945 adalah salah satu isi dari…",
+		"jawaban" : "B",
+		"pilihanA" : "Perjanjian Linggarjati",
+		"pilihanB" : "Piagam Persetujuan",
+		"pilihanC" : "KMB",
+		"pilihanD" : "Piagam Jakarta"
+	}
+	], "level_3":[{
+		"isi_soal" : "Pemilihan Umum pada masa pemerintahan Kabinet Burhanuddin Harahap gelombang II digunakan untuk memilih anggota?",
+		"jawaban" : "B",
+		"pilihanA" : "MPR ",
+		"pilihanB" : "Konstituante ",
+		"pilihanC" : "BPR",
+		"pilihanD" : "DPRS"
+		},{
+		"isi_soal" : "Kabinet yang dipimpin oleh 4 partai besar PNI, Masyumi, NU dan PKI adalah kabinet…",
+		"jawaban" : "D",
+		"pilihanA" : "Indonesia Bersatu ",
+		"pilihanB" : "Natsir",
+		"pilihanC" : "Sukiman",
+		"pilihanD" : "Gotong Royong "
+		},{
+		"isi_soal" : "Dewan Gajah yang berdiri di Medan, Sumatera Utara dipimpin oleh…",
+		"jawaban" : "A",
+		"pilihanA" : "Kolonel Simbolon ",
+		"pilihanB" : "Kolonel Achmad Husein ",
+		"pilihanC" : "Kolonel Barlian ",
+		"pilihanD" : "Letkol Soeharto "
+		},{
+		"isi_soal" : "Kelima inti Manifesto Politik RI disingkat menjadi…",
+		"jawaban" : "B",
+		"pilihanA" : "USPEK ",
+		"pilihanB" : "USDEK ",
+		"pilihanC" : "OSPEK ",
+		"pilihanD" : "USDOK "
+		},{
+		"isi_soal" : "Kabinet pertama yang berdiri di Indonesia adalah kabinet…",
+		"jawaban" : "C",
+		"pilihanA" : "Sukiman",
+		"pilihanB" : "Wilopo",
+		"pilihanC" : "Natsir",
+		"pilihanD" : "Juanda"
+		},{
+		"isi_soal" : "Kabinet yang berhasil menyelenggarakan Konferensi Asia-Afrika di Bandung pada tanggal 18-24 April 1955 adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "Ali Sastroamidjoyo I ",
+		"pilihanB" : "Natsir",
+		"pilihanC" : "Sukiman",
+		"pilihanD" : "Wilopo"
+		},{
+		"isi_soal" : "Pemberontakan Andi Azis terjadi di…",
+		"jawaban" : "B",
+		"pilihanA" : "Bogor",
+		"pilihanB" : "Makassar",
+		"pilihanC" : "Pontianak",
+		"pilihanD" : "Bandung"
+		},{
+		"isi_soal" : "Salah satu tokoh PRRI dan Permesta ialah pemimpin Dewan Banteng, yaitu…",
+		"jawaban" : "A",
+		"pilihanA" : "Kolonel Achmad Husein ",
+		"pilihanB" : "Kolonel Simbolon ",
+		"pilihanC" : "Kolonel Barlian ",
+		"pilihanD" : "Kolonel Sumual "
+		},{
+		"isi_soal" : "Wilayah Irian Barat yang dikuasai Belanda akan dibicarakan setahun setelah pengakuan kedaulatan sesuai dengan ….",
+		"jawaban" : "A",
+		"pilihanA" : "persetujuan KMB ",
+		"pilihanB" : "perundingan Linggarjati ",
+		"pilihanC" : "perundingan Renville ",
+		"pilihanD" : "persetujuan Roem Royen "
+		},{
+		"isi_soal" : "Tempat terjadinya pemberontakan PRRI dan Permesta adalah di …",
+		"jawaban" : "B",
+		"pilihanA" : "Sumatera, Jawa ",
+		"pilihanB" : "Sumatera, Sulawesi ",
+		"pilihanC" : "Jawa, Sulawesi ",
+		"pilihanD" : "Kalimantan, Sumatera "
+		},{
+		"isi_soal" : "Pemberontakan yang diawali dengan keadaan politik luar negeri yang cenderung nge-blok ke negara sosial komunis adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "APRA ",
+		"pilihanB" : "DI/TII ",
+		"pilihanC" : "Andi Aziz ",
+		"pilihanD" : "G30S/PKI "
+		},{
+		"isi_soal" : "5 negara (Indonesia, Malaysia, Filipina, Singapura, Thailand) pada 8 Agustus 1967 mendirikan  …",
+		"jawaban" : "A",
+		"pilihanA" : "ASEAN ",
+		"pilihanB" : "APEC",
+		"pilihanC" : "OPEC",
+		"pilihanD" : "PBB"
+		},{
+		"isi_soal" : "Setelah  Dekrit Presiden 5 Juli 1959 bangsa Indonesia memasuki masa Demokrasi ..",
+		"jawaban" : "C",
+		"pilihanA" : "Liberal ",
+		"pilihanB" : "Pancasila ",
+		"pilihanC" : "Terpimpin ",
+		"pilihanD" : "politik "
+		},{
+		"isi_soal" : "Pemimpin fasisme Jerman adalah ….",
+		"jawaban" : "B",
+		"pilihanA" : "Mussolini ",
+		"pilihanB" : "Hitler ",
+		"pilihanC" : "Himmler ",
+		"pilihanD" : "Badoglio "
+		},{
+		"isi_soal" : "Yang bukan merupakan semboyan Gerakan 3A adalah …",
+		"jawaban" : "D",
+		"pilihanA" : "Nippon Cahaya Asia ",
+		"pilihanB" : "Nippon Pelindung Asia ",
+		"pilihanC" : "Nippon Pemimpin Asia ",
+		"pilihanD" : "Nippon Pembimbing Asia "
+		},{
+		"isi_soal" : "Jepang menyerah kepada Sekutu pada tanggal …",
+		"jawaban" : "D",
+		"pilihanA" : "9-8-1945",
+		"pilihanB" : "10-8-1945",
+		"pilihanC" : "12-8-1945",
+		"pilihanD" : "14-8-1945"
+		},{
+		"isi_soal" : "Yang bukan anggota Komisi Tiga Negara (KTN) adalah …",
+		"jawaban" : "D",
+		"pilihanA" : "Australia ",
+		"pilihanB" : "Amerika Serikat ",
+		"pilihanC" : "Belgia ",
+		"pilihanD" : "Inggris "
+		},{
+		"isi_soal" : "Pemerintah Darurat Republik Indonesia (PDRI) didirikan di Sumatera Barat tepatnya terletak di kota ….",
+		"jawaban" : "B",
+		"pilihanA" : "Padang",
+		"pilihanB" : "Bukit Tinggi",
+		"pilihanC" : "Bengkulu",
+		"pilihanD" : "Aceh"
+		},{
+		"isi_soal" : "Nama UUD yang dipakai RI setelah peristiwa Kembali ke NKRI adalah …",
+		"jawaban" : "A",
+		"pilihanA" : "UUD 1945",
+		"pilihanB" : "UUD RIS 1950",
+		"pilihanC" : "UUDS 1950",
+		"pilihanD" : "UUD 1945 (amandemen)"
+		},{
+		"isi_soal" : "Partai yang tidak termasuk pemenang pemilu 1955 adalah …",
+		"jawaban" : "D",
+		"pilihanA" : "PNI",
+		"pilihanB" : "PKI",
+		"pilihanC" : "NU",
+		"pilihanD" : "PARTINDO"
+	}
+	], "level_4":[{
+		"isi_soal" : "Istilah sejarah berasal dari bahasa Arab, yaitu syajaratun yang artinya ….",
+		"jawaban" : "C",
+		"pilihanA" : "tumbuhan ",
+		"pilihanB" : "bunga ",
+		"pilihanC" : "pohon ",
+		"pilihanD" : "rantai "
+		},{
+		"isi_soal" : "Filsuf  Romawi mengatakan bahwa “Sejarah adalah guru kehidupan” ialah ...",
+		"jawaban" : "C",
+		"pilihanA" : "Aristoteles ",
+		"pilihanB" : "Hipocrates ",
+		"pilihanC" : "Cicero ",
+		"pilihanD" : "Thales "
+		},{
+		"isi_soal" : "Seorang guru yang sedang menjelaskan peristiwa perang Padri di kelas bisa digolongkan dalam proses sejarah sebagai..",
+		"jawaban" : "D",
+		"pilihanA" : "ilmu ",
+		"pilihanB" : "peristiwa ",
+		"pilihanC" : "seni ",
+		"pilihanD" : "kisah "
+		},{
+		"isi_soal" : "Ilmu yang mempelajari benda-benda peninggalan sejarah disebut ….",
+		"jawaban" : "A",
+		"pilihanA" : "arkeologi ",
+		"pilihanB" : "geologi ",
+		"pilihanC" : "tipologi ",
+		"pilihanD" : "epigrafi "
+		},{
+		"isi_soal" : "Cerita prosa rakyat yang dianggap benar-benar terjadi serta dianggap suci oleh yang empunya cerita disebut …",
+		"jawaban" : "A",
+		"pilihanA" : "mite ",
+		"pilihanB" : "dongeng ",
+		"pilihanC" : "legenda ",
+		"pilihanD" : "babad "
+		},{
+		"isi_soal" : "Legenda diantaranya meliputi, kecuali…",
+		"jawaban" : "D",
+		"pilihanA" : "legenda keagamaan",
+		"pilihanB" : "legenda perorangan",
+		"pilihanC" : "legenda alam gaib",
+		"pilihanD" : "legenda pemerintahan"
+		},{
+		"isi_soal" : "Cerita yang termasuk legenda setempat/lokal adalah?",
+		"jawaban" : "A",
+		"pilihanA" : "Sangkuriang ",
+		"pilihanB" : "Si  Pitung ",
+		"pilihanC" : "Sunan Kalijaga ",
+		"pilihanD" : "Lutung Kasarung "
+		},{
+		"isi_soal" : "Cerita Si Pitung dari Betawi atau Lutung Kasarung dari Jawa Barat termasuk kedalam jenis.. ",
+		"jawaban" : "B",
+		"pilihanA" : "keagamaan ",
+		"pilihanB" : "perseorangan ",
+		"pilihanC" : "setempat",
+		"pilihanD" : "sosial"
+		},{
+		"isi_soal" : "Penulisan sejarah yang menampilkan peran orang-orang besar adalah termasuk jenis sejarah ....",
+		"jawaban" : "B",
+		"pilihanA" : "sosial ",
+		"pilihanB" : "politik",
+		"pilihanC" : "militer",
+		"pilihanD" : "keluarga"
+		},{
+		"isi_soal" : "Dongeng binatang yang mengandung ajaran moral bagi manusia disebut …",
+		"jawaban" : "A",
+		"pilihanA" : "Fabel ",
+		"pilihanB" : "Wawangsalan ",
+		"pilihanC" : "Tambo ",
+		"pilihanD" : "Wawacan "
+		},{
+		"isi_soal" : "Antropolog yang digolongkan folklor kedalam tiga kelompok besar berdasarkan tipenya yaitu lisan, sebagaian lisan dan bukan lisan adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "Selo Sumarjan ",
+		"pilihanB" : "Taufik Abdullah ",
+		"pilihanC" : "J. Harold Brunvard ",
+		"pilihanD" : "Koentjaraningrat "
+		},{
+		"isi_soal" : "Tradisi sejarah tertua masyarakat Indonesia yang sudah mengenal tulisan dapat diketahui dari prasasti ...",
+		"jawaban" : "D",
+		"pilihanA" : "Tugu ",
+		"pilihanB" : "Canggal ",
+		"pilihanC" : "Tuk Mas ",
+		"pilihanD" : "Kutai "
+		},{
+		"isi_soal" : "Perlawanan terhadap penguasa asing dianggap sebagai pemberontakan. Hal ini terjadi pada penulisan sejarah masa?",
+		"jawaban" : "C",
+		"pilihanA" : "Hindu-Budha ",
+		"pilihanB" : "Prasejarah ",
+		"pilihanC" : "Kolonial ",
+		"pilihanD" : "Kemerdekaan "
+		},{
+		"isi_soal" : "Seorang pakar yang mendapat gelar Mpu Sejarawan Indonesia ialah ….",
+		"jawaban" : "C",
+		"pilihanA" : "Soekmono ",
+		"pilihanB" : "Kuntjaraningrat ",
+		"pilihanC" : "Sartono Kartodirdjo ",
+		"pilihanD" : "Husein Djayadiningrat "
+		},{
+		"isi_soal" : "Cara penentuan usia suatu  benda peninggalan budaya berdasarkan lapisan tanah disebut ….",
+		"jawaban" : "C",
+		"pilihanA" : "tipologi ",
+		"pilihanB" : "geologi",
+		"pilihanC" : "stratigrafi",
+		"pilihanD" : "pateografi"
+		},{
+		"isi_soal" : "Epigrafi adalah ilmu yang mempelajari tentang?",
+		"jawaban" : "D",
+		"pilihanA" : "peninggalan purbakala ",
+		"pilihanB" : "prasasti",
+		"pilihanC" : "fosil",
+		"pilihanD" : "aksara kuno"
+		},{
+		"isi_soal" : "Keterangan lisan yang langsung didapat dari pelaku ataupun saksi peristiwa yang terjadi dimasa lalu merupakan?",
+		"jawaban" : "C",
+		"pilihanA" : "sumber lisan ",
+		"pilihanB" : "artefak",
+		"pilihanC" : "sumber primer",
+		"pilihanD" : "sumber sekunder"
+		},{
+		"isi_soal" : "Siapakah yang merupakan pencetus teori arus balik dan brahmana?",
+		"jawaban" : "D",
+		"pilihanA" : "Dr. N.J Krom ",
+		"pilihanB" : "Prof. Dr. Ir. J.L Moens ",
+		"pilihanC" : "Von Van Feber ",
+		"pilihanD" : "FDK Bosch "
+		},{
+		"isi_soal" : "Tokoh yang mengemukakan pendapat tentang kebudayaan dan ajaran Islam di Indonesia adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "Mahatma Ghandi ",
+		"pilihanB" : "Kahlil Gibran ",
+		"pilihanC" : "Christopher Colombus ",
+		"pilihanD" : "Diego Lopez de Sequiera "
+		},{
+		"isi_soal" : "Kerajaan-kerajaan dibawah ini merupakan kerajaan yang bercorak Hindu-Budha,kecuali?",
+		"jawaban" : "C",
+		"pilihanA" : "Kerajaan Sriwijaya ",
+		"pilihanB" : "Kerajaan Majapahit ",
+		"pilihanC" : "Kerajaan Ternate - Tidore",
+		"pilihanD" : "Kerajaan Tarumanegara "
+	}
+	], "level_5":[{
+		"isi_soal" : "Cortez menduduki Mexico pada tahun 1519 dengan menaklukan suku Indian yaitu…",
+		"jawaban" : "A",
+		"pilihanA" : "Suku Aztec dan Maya ",
+		"pilihanB" : "Suku Indian dan Inca ",
+		"pilihanC" : "Suku Aborigin dan Arya ",
+		"pilihanD" : "Suku Dravida dan Aztec "
+		},{
+		"isi_soal" : "Pada tahun 1596, bangsa Belanda memulai pelayarannya untuk mencari rempah - rempah di dunia timur, dibawah pimpinan?",
+		"jawaban" : "D",
+		"pilihanA" : "Alfonso d’Albuquerque ",
+		"pilihanB" : "Christopher Columbus ",
+		"pilihanC" : "Ferdinand Magelhaens ",
+		"pilihanD" : "Cornelis de Houtman "
+		},{
+		"isi_soal" : "Tokoh yang memerintahkan system tanam (Cultuurstelsel) paksa di Indonesia adalah…",
+		"jawaban" : "C",
+		"pilihanA" : "Douwes Dekker ",
+		"pilihanB" : "Adolf Hittler ",
+		"pilihanC" : "Van Den Bosch ",
+		"pilihanD" : "Thomas Stamford Raffles "
+		},{
+		"isi_soal" : "Secara kronologis serangan Jepang di Indonesia terjadi di Tarakan, yaitu pada tanggal….",
+		"jawaban" : "A",
+		"pilihanA" : "10 Januari 1942",
+		"pilihanB" : "15 Februari 1941",
+		"pilihanC" : "5 Maret 1942",
+		"pilihanD" : "8 Desember 1941"
+		},{
+		"isi_soal" : "Trilogi apakah yang diusulkan kepada Belanda untuk membantu kehidupan rakyat Indonesia?",
+		"jawaban" : "A",
+		"pilihanA" : "Trilogi Van Deventer ",
+		"pilihanB" : "Trilogi Wishes ",
+		"pilihanC" : "Trilogi Demand ",
+		"pilihanD" : "Trilogi Intention "
+		},{
+		"isi_soal" : "Tokoh keturunan Indo-Belanda yang turut berjuang dan menjadi penentang system tanam paksa adalah? ",
+		"jawaban" : "C",
+		"pilihanA" : "Cipto Mangungkusumo ",
+		"pilihanB" : "Suwardi Suryaningrat ",
+		"pilihanC" : "Douwes Dekker ",
+		"pilihanD" : "Gunawan Mangungkusumo "
+		},{
+		"isi_soal" : "Penduduk Indonesia memiliki potensi yang sangat besar dalam perdagangan hasil industrinya adalah pendapat dari? ",
+		"jawaban" : "C",
+		"pilihanA" : "J.R. Logan ",
+		"pilihanB" : "Adolf Bastian ",
+		"pilihanC" : "Earl G. Windsor ",
+		"pilihanD" : "Van volenhoven "
+		},{
+		"isi_soal" : "Di bawah ini adalah tokoh yang turut serta merumuskan dasar Negara Indonesia, kecuali? ",
+		"jawaban" : "C",
+		"pilihanA" : "Mr. Moh Yamin ",
+		"pilihanB" : "Prof Dr. Supomo ",
+		"pilihanC" : "Mr. Ahmad Subardjo ",
+		"pilihanD" : "Ir. Soekarno "
+		},{
+		"isi_soal" : "Jendral Kumachiki Harada mengumumkan dibentuknya BPUPKI, yaitu pada tanggal?",
+		"jawaban" : "B",
+		"pilihanA" : "1 Juni 1945",
+		"pilihanB" : "1 Maret 1945",
+		"pilihanC" : "29 Mei 1945",
+		"pilihanD" : "7 Agustus 1945"
+		},{
+		"isi_soal" : "pada saat meletus pemberontakan gerakan 30 september 1965, PKI dipimpin oleh...",
+		"jawaban" : "B",
+		"pilihanA" : "Ir. Surachman ",
+		"pilihanB" : "D.N. Aidit ",
+		"pilihanC" : "Kamaruzaman ",
+		"pilihanD" : "Kolonel Katamso "
+		},{
+		"isi_soal" : "Presiden soekarno memberikan tanggung jawab setelah peristiwa G 30 S/PKI di depan MPRS dalam pidato yang berjudul?",
+		"jawaban" : "C",
+		"pilihanA" : "Revolusi kita ",
+		"pilihanB" : "Indonesia menggugat ",
+		"pilihanC" : "Nawaksara ",
+		"pilihanD" : "Membangun dunia kembali "
+		},{
+		"isi_soal" : "Prinsip kerja dari Kabinet Ampera adalah...",
+		"jawaban" : "B",
+		"pilihanA" : "Eka dharma ",
+		"pilihanB" : "Dwi Dharma ",
+		"pilihanC" : "Tri Dharma ",
+		"pilihanD" : "Catur Dharma "
+		},{
+		"isi_soal" : "Dua partai hasil penyederhanaan partai pada masa orde baru adalah..",
+		"jawaban" : "B",
+		"pilihanA" : "PPP dan PNI ",
+		"pilihanB" : "PPP dan PDI ",
+		"pilihanC" : "PDI dan Masyumi ",
+		"pilihanD" : "Golkar dan PPP "
+		},{
+		"isi_soal" : "Pada tanggal 12 Maret 1966, PKI dan ormas ormasnya dibubarkan dengan alasan...",
+		"jawaban" : "D",
+		"pilihanA" : "Berideologi komunis ",
+		"pilihanB" : "Meresahkan masyarakat ",
+		"pilihanC" : "Melakukan pemberontakan ",
+		"pilihanD" : "Memfitnah ABRI "
+		},{
+		"isi_soal" : "Penyebab utama dari aksi gerakan demo mahasiswa pada tahun 1998 adalah",
+		"jawaban" : "B",
+		"pilihanA" : "Krisis moralitas ",
+		"pilihanB" : "Krisis ekonomi ",
+		"pilihanC" : "Krisis kepercayaan ",
+		"pilihanD" : "Sistem ekonomi disfungsi"
+		},{
+		"isi_soal" : "Nama program kabinet ampera adalah…",
+		"jawaban" : "D",
+		"pilihanA" : "Eka karya ",
+		"pilihanB" : "Dwi karya ",
+		"pilihanC" : "Tri karya ",
+		"pilihanD" : "Catur karya "
+		},{
+		"isi_soal" : "Kelompok yang terdiri dari berbagai organisasi profesi adalah…",
+		"jawaban" : "C",
+		"pilihanA" : "Persatuan Pembangunan ",
+		"pilihanB" : "Demokrasi Pembangunan ",
+		"pilihanC" : "Golongan Karya ",
+		"pilihanD" : "Nahdlatul Ulama "
+		},{
+		"isi_soal" : "Pembuat teks pidato pengunduran diri Presiden Soeharto adalah…",
+		"jawaban" : "C",
+		"pilihanA" : "Amien Rais ",
+		"pilihanB" : "Adnan Buyung Nasution ",
+		"pilihanC" : "Yusril Ihza Mahendra ",
+		"pilihanD" : "Emil Salim "
+		},{
+		"isi_soal" : "Kabinet yang dibentuk oleh Presiden B.J. Habibie pada tanggal 22 Mei 1998 adalah? ",
+		"jawaban" : "C",
+		"pilihanA" : "Reformasi ",
+		"pilihanB" : "Revolusi ",
+		"pilihanC" : "Reformasi Pembangunan ",
+		"pilihanD" : "Revolusi Pembangunan "
+		},{
+		"isi_soal" : "Peristiwa Malari terjadi pada tanggal?",
+		"jawaban" : "C",
+		"pilihanA" : "13 Januari 1974",
+		"pilihanB" : "14 Januari 1974",
+		"pilihanC" : "15 Januari 1974",
+		"pilihanD" : "16 Januari 1974"
+	}]
+}
+

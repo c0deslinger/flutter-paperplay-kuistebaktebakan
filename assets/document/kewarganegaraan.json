@@ -1,0 +1,712 @@
+
+
+
+
+	
+{ "level_1":[{
+		"isi_soal" : "Mendengar teman sakit segera ...",
+		"jawaban" : "C",
+		"pilihanA" : "Mengobati",
+		"pilihanB" : "Menanyakan",
+		"pilihanC" : "Menjenguk",
+		"pilihanD" : "Mencari"
+		},{
+		"isi_soal" : "Bila terlanjur berbuat salah cepat minta ...",
+		"jawaban" : "A",
+		"pilihanA" : "Maaf",
+		"pilihanB" : "Denda",
+		"pilihanC" : "Dimarahi",
+		"pilihanD" : "Uang"
+		},{
+		"isi_soal" : "Walau beda agama harus hidup ...",
+		"jawaban" : "C",
+		"pilihanA" : "Bermusuhan",
+		"pilihanB" : "Berjauhan",
+		"pilihanC" : "Rukun",
+		"pilihanD" : "Aman"
+		},{
+		"isi_soal" : "Anak perempuan menyukai mainan ...",
+		"jawaban" : "B",
+		"pilihanA" : "Bola",
+		"pilihanB" : "Boneka",
+		"pilihanC" : "Mobil mobilan",
+		"pilihanD" : "Robot"
+		},{
+		"isi_soal" : "Teman yang susah perlu di ...",
+		"jawaban" : "C",
+		"pilihanA" : "Tertawakan",
+		"pilihanB" : "Ejek",
+		"pilihanC" : "Hibur",
+		"pilihanD" : "Copet"
+		},{
+		"isi_soal" :  "Agar tidak terlambat ani berangkat ke sekolah ...",
+		"jawaban" : "B",
+		"pilihanA" : "Tepat waktu",
+		"pilihanB" : "Lebih pagi",
+		"pilihanC" : "Sesukanya",
+		"pilihanD" : "Lebih siang"
+		},{
+		"isi_soal":"Setiap hari senin kita mengikuti ...",
+		"jawaban" : "B",
+		"pilihanA" : "Makan pagi",
+		"pilihanB" : "Upacara",
+		"pilihanC" : "Senam pagi",
+		"pilihanD" : "Lomba"
+		},{
+		"isi_soal" : "Sikap yang baik bila guru mengajar ...",
+		"jawaban" : "A",
+		"pilihanA" : "Mendengarkan",
+		"pilihanB" : "Bermain",
+		"pilihanC" : "Tidur",
+		"pilihanD" : "Mengobrol"
+		},{
+		"isi_soal" : "Sampah harus dibuang ke ...",
+		"jawaban" : "A",
+		"pilihanA" : "Tong sampah",
+		"pilihanB" : "Halaman",
+		"pilihanC" : "Sembarang",
+		"pilihanD" : "Tempat tidur"
+		},{
+		"isi_soal" : "Budi sebelum berangkat sekolah minta izin dahulu pada ...",
+		"jawaban" : "C",
+		"pilihanA" : "Kakak",
+		"pilihanB" : "Pembantu",
+		"pilihanC" : "Orang tua",
+		"pilihanD" : "Orang muda"
+		},{
+		"isi_soal" : "Hak kita tidak boleh ...",
+		"jawaban" : "A",
+		"pilihanA" : "Diganggu",
+		"pilihanB" : "Diberikan",
+		"pilihanC" : "Dilaksanakan",
+		"pilihanD" : "Dicoba"
+		},{
+		"isi_soal" : "Ibu pesan pada budi bila bermain harus ...",
+		"jawaban" : "D",
+		"pilihanA" : "Tidak boleh menangis",
+		"pilihanB" : "Hebat",
+		"pilihanC" : "Sopan",
+		"pilihanD" : "Hati hati"
+		},{
+		"isi_soal" : "Cara yang tepat bila ingin bertanya kepada bu guru yaitu ...",
+		"jawaban" : "D",
+		"pilihanA" : "Bicara keras",
+		"pilihanB" : "Bicara bisik bisik",
+		"pilihanC" : "Bertemu pak guru",
+		"pilihanD" : "Mengacungkan tangan"
+		},{
+		"isi_soal" : "Nasihat kedua orang tua wajib ...",
+		"jawaban" : "D",
+		"pilihanA" : "Dicoba",
+		"pilihanB" : "Ditinggalkan",
+		"pilihanC" : "Dibiarkan",
+		"pilihanD" : "Dipatuhi"
+		},{
+		"isi_soal" : "Del tanda istirahat berbunyi siswa ...",
+		"jawaban" : "A",
+		"pilihanA" : "Ke luar kelas",
+		"pilihanB" : "Ke dunia maya",
+		"pilihanC" : "Senang dikelas",
+		"pilihanD" : "Ke jalan raya"
+		},{
+		"isi_soal" : "Ayah berjenis kelamin...",
+		"jawaban" : "A",
+		"pilihanA" : "Laki-laki",
+		"pilihanB" : "Wanita",
+		"pilihanC" : "Perempuan",
+		"pilihanD" : "Cewe"
+		},{
+		"isi_soal" : "Anak laki – laki berambut....",
+		"jawaban" : "A",
+		"pilihanA" : "Pendek",
+		"pilihanB" : "Panjang",
+		"pilihanC" : "Lusuh",
+		"pilihanD" : "Merah"
+		},{
+		"isi_soal" : "Sayang adik contoh hidup rukun di....",
+		"jawaban" : "B",
+		"pilihanA" : "Sekolah",
+		"pilihanB" : "Rumah",
+		"pilihanC" : "Botak",
+		"pilihanD" : "Dunia maya"
+		},{
+		"isi_soal" : "Supaya pandai kita harus belajar dengan ....",
+		"jawaban" : "B",
+		"pilihanA" : "Malas",
+		"pilihanB" : "Rajin",
+		"pilihanC" : "Bodoh",
+		"pilihanD" : "Kucing"
+		},{
+		"isi_soal" : "Jika ada PR kerjakan di....",
+		"jawaban" : "D",
+		"pilihanA" : "Sekolah",
+		"pilihanB" : "Kamar",
+		"pilihanC" : "Handphone",
+		"pilihanD" : "Rumah"
+	}
+	
+	], "level_2":[{
+		"isi_soal" : "Temanmu terjatuh dari sepeda tindakanmu ....",
+		"jawaban" : "C",
+		"pilihanA" : "Membiarkannya",
+		"pilihanB" : "Menonton saja",
+		"pilihanC" : "Menolongnya",
+		"pilihanD" : "Mengambil sepedanya"
+		},{
+		"isi_soal" : "Kebersihan sekolah menjadi tanggung jawab ....",
+		"jawaban" : "A",
+		"pilihanA" : "Semua warga sekolah",
+		"pilihanB" : "Guru",
+		"pilihanC" : "Anak anak",
+		"pilihanD" : "Guru dan penjaga"
+		},{
+		"isi_soal" : "Kegiatan yang dilakukan dengan gotong royong adalah ....",
+		"jawaban" : "A",
+		"pilihanA" : "Membersihkan ruang kelas",
+		"pilihanB" : "Makan",
+		"pilihanC" : "Melukis",
+		"pilihanD" : "Mengerjakan ulangan"
+		},{
+		"isi_soal" : "Gotong royong dilakukan dengan cara ...",
+		"jawaban" : "A",
+		"pilihanA" :  "Bersama sama",
+		"pilihanB" :  "Lama",
+		"pilihanC" :  "Diam diam",
+		"pilihanD" :  "Sendiri-sendiri"
+		},{
+		"isi_soal" : "Kerukunan dapat menciptakan suasana ....",
+		"jawaban" : "D",
+		"pilihanA" : "Susah",
+		"pilihanB" : "Hancur",
+		"pilihanC" : "Gembira",
+		"pilihanD" : "Nyaman"
+		},{
+		"isi_soal" : "Dengan gotong royong pekerjaan akan ....",
+		"jawaban" : "A",
+		"pilihanA" : "Cepat selesai",
+		"pilihanB" : "Lama selesai",
+		"pilihanC" : "Hancur",
+		"pilihanD" : "Sama saja"
+		},{
+		"isi_soal" :  "Alam semesta ini ciptaan ....",
+		"jawaban" : "D",
+		"pilihanA" : "Manusia",
+		"pilihanB" : "Nenek moyang",
+		"pilihanC" : "Robot",
+		"pilihanD" : "Tuhan"
+		},{
+		"isi_soal" : "Asap pabrik dan kendaraan bermotor menyebabkan pencemaran ....",
+		"jawaban" : "D",
+		"pilihanA" : "Air",
+		"pilihanB" : "Tanah",
+		"pilihanC" : "Api",
+		"pilihanD" : "Udara"
+		},{
+		"isi_soal" : "Kelestarian alam menjadi tanggung jawab ....",
+		"jawaban" : "C",
+		"pilihanA" : "Warga desa",
+		"pilihanB" : "Semua orang",
+		"pilihanC" : "Pemerintah",
+		"pilihanD" : "Hewan"
+		},{
+		"isi_soal" : "Tumbuhan di sekitar kita membuat udara menjadi ....",
+		"jawaban" : "D",
+		"pilihanA" : "Kotor",
+		"pilihanB" : "Lembab",
+		"pilihanC" : "Bau",
+		"pilihanD" : "Segar"
+		},{
+		"isi_soal" : "Hewan di sekitar kita harus di ....",
+		"jawaban" : "B",
+		"pilihanA" : "Sembelih",
+		"pilihanB" : "Sayangi",
+		"pilihanC" : "Biarkan",
+		"pilihanD" : "Buang"
+		},{
+		"isi_soal" : "Tindakan yang merusak lingkungan adalah ....",
+		"jawaban" : "C",
+		"pilihanA" : "Menanam kembali hutan yang gundul",
+		"pilihanB" : "Rekreasi ke dalam hutan",
+		"pilihanC" : "Membuang sampah sembarangan",
+		"pilihanD" : "Menyiram tanaman"
+		},{
+		"isi_soal" : "Rudi tidak membawa pensil saat ulangan, yang sebaiknya kamu lakukan adalah.....",
+		"jawaban" : "A",
+		"pilihanA" : "Meminjamkan pensil",
+		"pilihanB" : "Meminjamkan penghapus",
+		"pilihanC" : "Pura-pura tidak tahu",
+		"pilihanD" : "Melihat saja"
+		},{
+		"isi_soal" : "Membantu korban bencana alam merupakan pengamalan Pancasila sila ke...",
+		"jawaban" : "A",
+		"pilihanA" : "Dua",
+		"pilihanB" : "Tiga",
+		"pilihanC" : "Empat",
+		"pilihanD" : "Lima"
+		},{
+		"isi_soal" : "Untuk menghindari banjir disekitar sungai yang arusnya besar, sebaiknya diberi...",
+		"jawaban" : "C",
+		"pilihanA" : "Papan",
+		"pilihanB" : "Jembatan",
+		"pilihanC" : "Tanggul",
+		"pilihanD" : "Makan"
+		},{
+		"isi_soal" : "Musyawarah dilakukan untuk mencapai....",
+		"jawaban" : "A",
+		"pilihanA" : "Mufakat",
+		"pilihanB" : "Semangat",
+		"pilihanC" : "Amanat",
+		"pilihanD" : "Ketinggian"
+		},{
+		"isi_soal" : "Musyawarah pemilihan ketua murid di kelas dua merupakan pengamalan Pancasila sila ke....",
+		"jawaban" : "C",
+		"pilihanA" : "2",
+		"pilihanB" : "3",
+		"pilihanC" : "4",
+		"pilihanD" : "5"
+		},{
+		"isi_soal" : "Apabila berjanji kita harus..... ",
+		"jawaban" : "A",
+		"pilihanA" : "Menepati",
+		"pilihanB" : "Menyetujui",
+		"pilihanC" : "Menghargai",
+		"pilihanD" : "Mengingkari"
+		},{
+		"isi_soal" : "Orang yang selalu berkata jujur pasti akan.....",
+		"jawaban" : "A",
+		"pilihanA" : "Mendapat kepercayaan",
+		"pilihanB" : "Dimanfaatkan",
+		"pilihanC" : "Memperoleh kesempatan",
+		"pilihanD" : "Menggenggam keberhasilan"
+		},{
+		"isi_soal" : "Mencontek adalah perbuatan....",
+		"jawaban" : "B",
+		"pilihanA" : "Baik",
+		"pilihanB" : "Tidak jujur",
+		"pilihanC" : "Teladan",
+		"pilihanD" : "Jujur"
+	}
+	], "level_3":[{
+		"isi_soal":"Jika kita melakukan kesalahan sebaiknya kita ...",
+		"jawaban" : "A",
+		"pilihanA" : "Minta maaf",
+		"pilihanB" : "Melupakannya",
+		"pilihanC" : "Minta uang",
+		"pilihanD" : "Tidak menyapa"
+		},{
+		"isi_soal" : "Nilai-nilai kemanusiaan harus kita ....",
+		"jawaban" : "A",
+		"pilihanA" : "Junjung tinggi",
+		"pilihanB" : "Sayang",
+		"pilihanC" : "Lupakan",
+		"pilihanD" : "Tinggalkan"
+		},{
+		"isi_soal" : "Mempertahankan harga diri merupakan .... setiap manusia.",
+		"jawaban" : "A",
+		"pilihanA" : "Hak",
+		"pilihanB" : "Pilihan",
+		"pilihanC" : "Kewajiban",
+		"pilihanD" : "Kekuasaan"
+		},{
+		"isi_soal" : "Tanggal 28 Oktober kita peringati sebagai hari . . . .",
+		"jawaban" : "C",
+		"pilihanA" : "Pahlawan",
+		"pilihanB" : "Kemerdekaan",
+		"pilihanC" : "Sumpah Pemuda",
+		"pilihanD" : "Pendidikan Nasional"
+		},{
+		"isi_soal" : "Sikap menghormati harus dilaksanakan di . . . .",
+		"jawaban" : "D",
+		"pilihanA" : "Sekolah",
+		"pilihanB" : "Rumah",
+		"pilihanC" : "Mana saja",
+		"pilihanD" : "Masyarakat"
+		},{
+		"isi_soal" : "Jika aturan berisi hal-hal yang tidak boleh dilakukan, berarti aturan itu berisi ....",
+		"jawaban" : "B",
+		"pilihanA" : "Perintah",
+		"pilihanB" : "Larangan",
+		"pilihanC" : "Paksaan",
+		"pilihanD" : "Anjuran"
+		},{
+		"isi_soal" : "Dalam kehidupan bermasyarakat harus saling . . . .",
+		"jawaban" : "C",
+		"pilihanA" : "Berjauhan",
+		"pilihanB" : "Bermusuhan",
+		"pilihanC" : "Menghormati",
+		"pilihanD" : "Mencurigai"
+		},{
+		"isi_soal" : "Sanksi dalam pelanggaran tata tertib bertujuan agar . . . .",
+		"jawaban" : "A",
+		"pilihanA" : "Pelanggar tidak mengulangi perbuatannya",
+		"pilihanB" : "Pelanggar tata tertib beruntung",
+		"pilihanC" : "Pelanggar tata tertib merasa puas",
+		"pilihanD" : "Pelanggar mengulangi perbuatannya"
+		},{
+		"isi_soal" : "Perilaku masyarakat Indonesia yang dijiwai nilai Sumpah Pemuda berikut ini adalah . . . .",
+		"jawaban" : "C",
+		"pilihanA" : "Melakukan kekerasan",
+		"pilihanB" : "Suka berperang",
+		"pilihanC" : "Gotong royong",
+		"pilihanD" : "Mementingkan diri sendiri"
+		},{
+		"isi_soal" : "Tata tertib dalam keluarga dibuat berdasarkan . . . .",
+		"jawaban" : "A",
+		"pilihanA" : "Musyawarah atau kesepakatan bersama keluarga",
+		"pilihanB" : "Keputusan kepala keluarga saja yaitu ayah",
+		"pilihanC" : "Paksaan dari ayah dan ibu",
+		"pilihanD" : "Keinginan dari anak-anaknya"
+		},{
+		"isi_soal" : "Keputusan bersama harus diambil berdasarkan . . . .",
+		"jawaban" : "A",
+		"pilihanA" : "Musyawarah",
+		"pilihanB" : "Paksaan",
+		"pilihanC" : "Kehendak sendiri",
+		"pilihanD" : "Diam-diam"
+		},{
+		"isi_soal" : "Salah satu cara menjaga harga diri, yaitu . . . .",
+		"jawaban" : "B",
+		"pilihanA" : "Melanggar aturan yang berlaku",
+		"pilihanB" : "Menaati aturan yang berlaku",
+		"pilihanC" : "Tidak menghormati teman dari suku lain",
+		"pilihanD" : "Mementingkan diri sendiri"
+		},{
+		"isi_soal" : "Kewajiban utama pelajar adalah . . . .",
+		"jawaban" : "B",
+		"pilihanA" : "Bekerja keras",
+		"pilihanB" : "Belajar",
+		"pilihanC" : "Membantu orang lain",
+		"pilihanD" : "Membayar uang sekolah"
+		},{
+		"isi_soal" : "Hasil gotong royong dapat dinikmati secara . . . ",
+		"jawaban" : "B",
+		"pilihanA" : "Pribadi",
+		"pilihanB" : "Bersama-sama",
+		"pilihanC" : "Berkelompok",
+		"pilihanD" : "Individual"
+		},{
+		"isi_soal" : "Jika bertemu tetangga di jalan sebaiknya . . . ",
+		"jawaban" : "A",
+		"pilihanA" : "Menyapa dengan ikhlas",
+		"pilihanB" : "Menghindar",
+		"pilihanC" : "Diam saja",
+		"pilihanD" : "Pura-pura tidak melihat"
+		},{
+		"isi_soal" : "Tanah, air, dan udara merupakan pemberian . . . .",
+		"jawaban" : "A",
+		"pilihanA" : "Tuhan",
+		"pilihanB" : "Orang tua",
+		"pilihanC" : "Nenek moyang",
+		"pilihanD" : "Para pahlawan bangsa"
+		},{
+		"isi_soal" : "Gerabah adalah alat-alat yang berasal dari . . . .",
+		"jawaban" : "A",
+		"pilihanA" : "Tanah liat",
+		"pilihanB" : "Batu",
+		"pilihanC" : "Pasir",
+		"pilihanD" : "Kerikil"
+		},{
+		"isi_soal" : "Kita harus berani kalau kita . . . .",
+		"jawaban" : "A",
+		"pilihanA" : "Benar",
+		"pilihanB" : "Kuat",
+		"pilihanC" : "Kaya",
+		"pilihanD" : "Pandai"
+		},{
+		"isi_soal" : "Jika diajak teman untuk berbohong sebaiknya . . . .",
+		"jawaban" : "A",
+		"pilihanA" : "Menolaknya",
+		"pilihanB" : "Mengikuti saja",
+		"pilihanC" : "Menyetujuinya",
+		"pilihanD" : "Mengajaknya"
+		},{
+		"isi_soal" : "Perpecahan antarwarga negara mengakibatkan bangsa Indonesia menjadi ....",
+		"jawaban" : "C",
+		"pilihanA" : "Mandiri",
+		"pilihanB" : "Kuat",
+		"pilihanC" : "Lemah",
+		"pilihanD" : "Bersatu"
+	}
+	], "level_4":[{
+		"isi_soal" : "Desa dipimpin oleh seorang . . . yang dipilih langsung oleh warga desa.",
+		"jawaban" : "D",
+		"pilihanA" : "Camat",
+		"pilihanB" : "Presiden",
+		"pilihanC" : "Bupati",
+		"pilihanD" : "Kepala Desa"
+		},{
+		"isi_soal" : "Istilah Desa di Propinsi Nangroe Aceh Darussalam adalah ....",
+		"jawaban" : "D",
+		"pilihanA" : "Kampong",
+		"pilihanB" : "Lembang",
+		"pilihanC" : "Negeri",
+		"pilihanD" : "Gampong"
+		},{
+		"isi_soal" : "Camat ditugaskan oleh ....",
+		"jawaban" : "B",
+		"pilihanA" :  "Gubernur",
+		"pilihanB" :  "Bupati",
+		"pilihanC" :  "DPRD",
+		"pilihanD" :  "Presiden"
+		},{
+		"isi_soal" : "Lembaga yang bertugas menjaga keamanan dan ketertiban di wilayah kecamatan adalah ....",
+		"jawaban" : "A",
+		"pilihanA" : "Koramil",
+		"pilihanB" : "Sekdes",
+		"pilihanC" : "Lurah",
+		"pilihanD" : "Sekcam"
+		},{
+		"isi_soal" : "Di bawah ini yang bukan termasuk lembaga yang ada di desa adalah ...",
+		"jawaban" : "D",
+		"pilihanA" : "LKMD",
+		"pilihanB" : "Karang Taruna",
+		"pilihanC" : "PKK",
+		"pilihanD" : "Koramil"
+		},{
+		"isi_soal" : "Berikut yang termasuk perangkat kecamatan adalah ....",
+		"jawaban" : "C",
+		"pilihanA" : "Camat",
+		"pilihanB" : "Sekretaris DPRD",
+		"pilihanC" : "Sekretaris Kecamatan",
+		"pilihanD" : "Kantor Gubernur"
+		},{
+		"isi_soal" : "Dalam pemilihan Kepala Desa, yang berhak memilih adalah ....",
+		"jawaban" : "D",
+		"pilihanA" : "Keluarga calon Kepala Desa",
+		"pilihanB" : "Camat",
+		"pilihanC" : "Bupati",
+		"pilihanD" : "Semua warga desa"
+		},{
+		"isi_soal" : "Contoh perbuatan yang mencerminkan hidup berdemokrasi adalah ....",
+		"jawaban" : "B",
+		"pilihanA" : "Tidak membeda-bedakan teman dalam bergaul",
+		"pilihanB" : "Memaksakan kehendak kepada orang lain",
+		"pilihanC" : "Tidak menghargai pendapat orang lain",
+		"pilihanD" : "Tidak menghormati penganut agama lain yang sedang beribadah"
+		},{
+		"isi_soal" : "Jika dalam sebuah musyawarah ada salah satu anggota yang berbeda pendapat dengan anggota yang lain, maka sikap yang mencerminkan demokrasi adalah ....",
+		"jawaban" : "B",
+		"pilihanA" : "Menertawakan",
+		"pilihanB" : "Menghargai",
+		"pilihanC" : "Memarahi",
+		"pilihanD" : "Mengacuhkan"
+		},{
+		"isi_soal" : "Persamaan antara Pemerintah Desa dan Kecamatan adalah ....",
+		"jawaban" : "A",
+		"pilihanA" : "Pemerintahan yang melayani kebutuhan masyarakat",
+		"pilihanB" : "Pemerintahan yang berada di bawah kepolisian",
+		"pilihanC" : "Pemerintahan yang dipilih oleh masyarakat",
+		"pilihanD" : "Pemerintahan yang dipilih oleh Bupati"
+		},{
+		"isi_soal" : "Kepala Desa dipilih oleh masyarakat desa, sedangkan Camat dipilih oleh....",
+		"jawaban" : "A",
+		"pilihanA" : "Bupati",
+		"pilihanB" : "Masyarakat",
+		"pilihanC" : "Gubernur",
+		"pilihanD" : "Presiden"
+		},{
+		"isi_soal" : "Pemerintahan desa dipimpin oleh Kepala Desa, sedangkan pemerintahan Kecamatan dipimpin oleh ....",
+		"jawaban" : "D",
+		"pilihanA" : "Lurah",
+		"pilihanB" : "Sekdes",
+		"pilihanC" : "Bupati",
+		"pilihanD" : "Camat"
+		},{
+		"isi_soal" : "Pejabat yang kedudukannya paling tinggi dalam pemerintahan kecamatan adalah ...",
+		"jawaban" : "A",
+		"pilihanA" : "Camat",
+		"pilihanB" : "Polisi",
+		"pilihanC" : "Sekretaris",
+		"pilihanD" : "Lurah"
+		},{
+		"isi_soal" : ". . . bertugas membantu Kepala Desa dalam menjalankan tugas pemerintah desa.",
+		"jawaban" : "D",
+		"pilihanA" : "Masyarakat",
+		"pilihanB" : "RW",
+		"pilihanC" : "RT",
+		"pilihanD" : "Sekdes"
+		},{
+		"isi_soal" : "Badan yang berfungsi menetapkan peraturan desa bersama Kepala Desa adalah ....",
+		"jawaban" : "C",
+		"pilihanA" : "RT",
+		"pilihanB" : "BPD",
+		"pilihanC" : "RW",
+		"pilihanD" : "Kepala dusun"
+		},{
+		"isi_soal" : "Camat diangkat oleh Bupati atau Walikota atas usulan ...",
+		"jawaban" : "C",
+		"pilihanA" : "Masyarakat",
+		"pilihanB" : "Menteri",
+		"pilihanC" : "Sekretaris Daerah",
+		"pilihanD" : "Presiden"
+		},{
+		"isi_soal" : "Yang bertugas mencatat administrasi dalam sebuah organisasi adalah ....",
+		"jawaban" : "A",
+		"pilihanA" : "Sekretaris",
+		"pilihanB" : "Ketua",
+		"pilihanC" : "Bendahara",
+		"pilihanD" : "wakil ketua"
+		},{
+		"isi_soal" : "yang bertanggung jawab penuh terhadap kesejahteraan anggota organisasi adalah ....",
+		"jawaban" : "D",
+		"pilihanA" : "Presiden",
+		"pilihanB" : "Wakil ketua",
+		"pilihanC" : "Bupati",
+		"pilihanD" : "Ketua"
+		},{
+		"isi_soal" : "Dalam sebah organisasi yang bertugas mengelola keuangan organisasi adalah ....",
+		"jawaban" : "B",
+		"pilihanA" : "Ketua",
+		"pilihanB" : "Bendahara",
+		"pilihanC" : "Wakil ketua",
+		"pilihanD" : "Sekretaris"
+		},{
+		"isi_soal" : "Ketua dalam menjalankan tugasnya dibantu oleh ....",
+		"jawaban" : "C",
+		"pilihanA" : "Ajudan",
+		"pilihanB" : "Anggota",
+		"pilihanC" : "Wakil ketua",
+		"pilihanD" : "Sekretaris"
+	}
+	], "level_5":[{
+		"isi_soal" : "Titik kulminasi sejarah perjuangan bangsa Indonesia dalam mendirikan Negara ditandai dengan ....",
+		"jawaban" : "C",
+		"pilihanA" : "Sumpah Pemuda",
+		"pilihanB" : "Pancasila",
+		"pilihanC" : "Proklamasi Kemerdekaan Indonesia",
+		"pilihanD" : "UUD 1945"
+		},{
+		"isi_soal" : "Hal yang tidak bisa diubah selama NKRI berdiri adalah ...",
+		"jawaban" : "B",
+		"pilihanA" : "Batang tubuh UUD 1945",
+		"pilihanB" : "Pancasila",
+		"pilihanC" : "Sistem pemilu",
+		"pilihanD" : "Masa jabatan Presiden"
+		},{
+		"isi_soal" : "Negara Indonesia adalah Negara kesatuan yang berbentuk . . .",
+		"jawaban" : "A",
+		"pilihanA" : "Republik",
+		"pilihanB" : "Monarki",
+		"pilihanC" : "Federasi",
+		"pilihanD" : "Persemakmuran"
+		},{
+		"isi_soal" : "Berdirinya NKRI ditandai dengan adanya . . .",
+		"jawaban" : "D",
+		"pilihanA" : "Hasil KMB",
+		"pilihanB" : "Hasil perundingan dengan PBB",
+		"pilihanC" : "Berdirinya BPUPKI",
+		"pilihanD" : "Kemerdekaan Indonesia"
+		},{
+		"isi_soal" : "Keberadaan wilayah Indonesia perlu dijaga oleh aparat agar . . .",
+		"jawaban" : "A",
+		"pilihanA" : "Tidak diserang negara lain",
+		"pilihanB" : "Diakui Negara lain",
+		"pilihanC" : "Dibantu Negara lain",
+		"pilihanD" : "Mendapat perhatian dunia"
+		},{
+		"isi_soal" : "Indonesia adalah Negara hukum, artinya . . .",
+		"jawaban" : "A",
+		"pilihanA" : "Negara berdasarkan hukum yang ditetapkan pemerintah",
+		"pilihanB" : "Negara yang berdasarkan perintah presiden",
+		"pilihanC" : "Negara yang berdasarkan aspirasi rakyat",
+		"pilihanD" : "Negara yang berdasarkan kekuasaan pemerintah"
+		},{
+		"isi_soal" : "Peraturan perundang-undangan di Indonesia yang tertinggi adalah . . .",
+		"jawaban" : "C",
+		"pilihanA" : "Peraturan pemerintah",
+		"pilihanB" : "Undang-undang",
+		"pilihanC" : "UUD 1945",
+		"pilihanD" : "Ketetapan MPR"
+		},{
+		"isi_soal" : "Peraturan yang ada di masyarakat merupakan suatu . . .",
+		"jawaban" : "C",
+		"pilihanA" : "Imbauan ",
+		"pilihanB" : "Anjuran",
+		"pilihanC" : "Pedoman",
+		"pilihanD" : "Kewajiban"
+		},{
+		"isi_soal" : "Peraturan pemerintah yang mengatur daerah provinsi dibuat oleh . . .",
+		"jawaban" : "B",
+		"pilihanA" : "Presiden",
+		"pilihanB" : "Gubernur",
+		"pilihanC" : "DPR",
+		"pilihanD" : "MPR"
+		},{
+		"isi_soal" : "Kebijakan tertulis yang bersifat pengetahuan dan dibuat oleh kepala daerah merupakan peraturan perundang-undangan tingkat . . .",
+		"jawaban" : "D",
+		"pilihanA" : "Pusat",
+		"pilihanB" : "Nasional",
+		"pilihanC" : "Provinsi",
+		"pilihanD" : "Daerah"
+		},{
+		"isi_soal" : "Berikut yang tidak termasuk peratuan yang dibuat oleh pemerintah pusat adalah . . .",
+		"jawaban" : "D",
+		"pilihanA" : "UUD 1945",
+		"pilihanB" : "Undang-undang",
+		"pilihanC" : "Peraturan Pemerintah",
+		"pilihanD" : "Perda"
+		},{
+		"isi_soal" : "Peraturan daerah berlaku di . . .",
+		"jawaban" : "A",
+		"pilihanA" : "Daerah setempat",
+		"pilihanB" : "Secara nasional",
+		"pilihanC" : "Semua daerah",
+		"pilihanD" : "Beberapa daerah"
+		},{
+		"isi_soal" : "Peraturan daerah itu bersifat kedaerahan karena untuk ....",
+		"jawaban" : "A",
+		"pilihanA" : "Melaksanakan kebijakan pemerintah daerah",
+		"pilihanB" : "Melaksanakan kebijakan kepala daerah",
+		"pilihanC" : "Kepentingan daerah setempat",
+		"pilihanD" : "Mendukung program pemerintah"
+		},{
+		"isi_soal" : "Peraturan yang mengatur di wilayah kota dibuat oleh ....",
+		"jawaban" : "D",
+		"pilihanA" : "Gubernur",
+		"pilihanB" : "DPRD Kota",
+		"pilihanC" : "Menteri dalam negeri",
+		"pilihanD" : "Walikota dan DPRD Kota"
+		},{
+		"isi_soal" : "Yang berhak mengajukan perpu adalah . . .",
+		"jawaban" : "A",
+		"pilihanA" : "Presiden",
+		"pilihanB" : "MPR",
+		"pilihanC" : "DPR",
+		"pilihanD" : "Mahkamah Agung"
+		},{
+		"isi_soal" : "Peraturan perundang-undangan yang dibuat harus sesuai dengan makna dari . . .",
+		"jawaban" : "B",
+		"pilihanA" : "Undang-undang",
+		"pilihanB" : "UUD 1945",
+		"pilihanC" : "Peraturan pemerintah",
+		"pilihanD" : "Keputusan Presiden"
+		},{
+		"isi_soal" : "Peraturan dibuat untuk menciptakan . . .",
+		"jawaban" : "A",
+		"pilihanA" : "Ketertiban",
+		"pilihanB" : "Kerusuhan",
+		"pilihanC" : "Kekacauan",
+		"pilihanD" : "Kegaduhan"
+		},{
+		"isi_soal" : "Ada dua jenis peraturan perundang-undangan menurut wilayah berlakunya, yaitu . . .",
+		"jawaban" : "C",
+		"pilihanA" : "Perundang-undangan tingkat pusat dan tingkat daerah",
+		"pilihanB" : "Undang-undang dasae dan undang-undang",
+		"pilihanC" : "Peraturan presiden dan peraturan menteri",
+		"pilihanD" : "Undang-undang legislatif dan undang-undang eksekutif"
+		},{
+		"isi_soal" : "Orang yang melanggar aturan hukum akan dikenakan ...",
+		"jawaban" : "D",
+		"pilihanA" : "Hadiah",
+		"pilihanB" : "Piagam",
+		"pilihanC" : "Pujian",
+		"pilihanD" : "Sanksi"
+		},{
+		"isi_soal" : "Manfaat adanya peraturan bagi kehidupan manusia adalah . . .",
+		"jawaban" : "C",
+		"pilihanA" : "Adanya kekacauan",
+		"pilihanB" : "Timbulnya keramaian",
+		"pilihanC" : "Adanya keteraturan",
+		"pilihanD" : "Menjadikan kesepian"
+	}]
+}

@@ -1,0 +1,712 @@
+
+
+
+	
+{ "level_1":[{
+		"isi_soal" : "Kutu apa yang paling mengerikan?",
+		"jawaban" : "D",
+		"pilihanA" : "Kutu rambut",
+		"pilihanB" : "Kutu buku",
+		"pilihanC" : "Kutu mati",
+		"pilihanD" : "Kutukan"
+		},{
+		"isi_soal" : "Daun apa yang bikin orang tidak bergerak?",
+		"jawaban" : "C",
+		"pilihanA" : "Daun muda",
+		"pilihanB" : "Daun pisang",
+		"pilihanC" : "Daun move",
+		"pilihanD" : "Daun joged"
+		},{
+		"isi_soal" : "Makanan apa yang paling enak di warteg?",
+		"jawaban" : "C",
+		"pilihanA" : "Nasi campur",
+		"pilihanB" : "Lalapan",
+		"pilihanC" : "Makanan gratis",
+		"pilihanD" : "Sambel penyet"
+		},{
+		"isi_soal" : "Jika ada lilin dan obor, mana yang sebaiknya dinyalakan dulu agar lebih terang?",
+		"jawaban" : "D",
+		"pilihanA" : "Lilin",
+		"pilihanB" : "Obor",
+		"pilihanC" : "Lilin dan obor",
+		"pilihanD" : "Korek api"
+		},{
+		"isi_soal" : "Kering tapi basah. Apakah itu?",
+		"jawaban" : "C",
+		"pilihanA" : "Hujan",
+		"pilihanB" : "Laundry",
+		"pilihanC" : "Keringat",
+		"pilihanD" : "Sungai"
+		},{
+		"isi_soal" : "Kalau putih dibilang kotor, tapi kalau hitam malah dibilang bersih. Apakah itu?",
+		"jawaban" : "C",
+		"pilihanA" : "Jalan raya",
+		"pilihanB" : "Buku",
+		"pilihanC" : "Papan tulis",
+		"pilihanD" : "Baju"
+		},{
+		"isi_soal" : "Apa yang bikin Jakarta banjir?",
+		"jawaban" : "C",
+		"pilihanA" : "sampah",
+		"pilihanB" : "kotoran",
+		"pilihanC" : "air",
+		"pilihanD" : "limbah"
+		},{
+		"isi_soal" : "Di tengah Jakarta ada apa?",
+		"jawaban" : "C",
+		"pilihanA" : "Monas",
+		"pilihanB" : "Gedung kementrian",
+		"pilihanC" : "Huruf A",
+		"pilihanD" : "Masjid Istiqlal"
+		},{
+		"isi_soal" : "Kalau dipecahkan, yang punya malah senang. Apakah itu?",
+		"jawaban" : "C",
+		"pilihanA" : "Piring",
+		"pilihanB" : "Mangkok",
+		"pilihanC" : "Masalah",
+		"pilihanD" : "Jendela"
+		},{
+		"isi_soal" : "Makanan apa yang warna dan namanya sama?",
+		"jawaban" : "D",
+		"pilihanA" : "Susu",
+		"pilihanB" : "Rumput",
+		"pilihanC" : "Strawberry",
+		"pilihanD" : "Coklat"
+		},{
+		"isi_soal" : "Buah apa yang rasa dan namanya sama?",
+		"jawaban" : "C",
+		"pilihanA" : "Coklat",
+		"pilihanB" : "Strawberry",
+		"pilihanC" : "Asam",
+		"pilihanD" : "Jeruk"
+		},{
+		"isi_soal" : "Es apa yang suka dinaiki orang?",
+		"jawaban" : "D",
+		"pilihanA" : "Es batu",
+		"pilihanB" : "Es campur",
+		"pilihanC" : "Es teler",
+		"pilihanD" : "Es kalator "
+		},{
+		"isi_soal" : "Bank apa yang malah rugi?",
+		"jawaban" : "C",
+		"pilihanA" : "Bang ojek pengkolan",
+		"pilihanB" : "Bank baru buka",
+		"pilihanC" : "Bank Krut",
+		"pilihanD" : "Bank Indonesia"
+		},{
+		"isi_soal" : "Meski sudah dipotong, tapi tetap panjang. Apakah itu?",
+		"jawaban" : "B",
+		"pilihanA" : "Rambut",
+		"pilihanB" : "Kacang panjang",
+		"pilihanC" : "Rumput",
+		"pilihanD" : "Pohon"
+		},{
+		"isi_soal" : "Benda apa yang kalau dipotong malah jadi tinggi?",
+		"jawaban" : "C",
+		"pilihanA" : "Pohon",
+		"pilihanB" : "Menara",
+		"pilihanC" : "Celana panjang",
+		"pilihanD" : "Tiang listrik"
+		},{
+		"isi_soal" : "Apa yang ada di akhir zaman?",
+		"jawaban" : "D",
+		"pilihanA" : "Kiamat",
+		"pilihanB" : "Malapetaka",
+		"pilihanC" : "Sangkakala",
+		"pilihanD" : "Huruf N"
+		},{
+		"isi_soal" : "Ayam apa yang tidak bisa lari?",
+		"jawaban" : "B",
+		"pilihanA" : "Ayam kampung",
+		"pilihanB" : "Ayam goreng",
+		"pilihanC" : "Ayam hutan",
+		"pilihanD" : "Ayam kakinya sakit"
+		},{
+		"isi_soal" : "Sambel apa yang ada di pinggir jalan?",
+		"jawaban" : "B",
+		"pilihanA" : "Sambel lalapan",
+		"pilihanB" : "Sambel ban",
+		"pilihanC" : "Sambel ijo",
+		"pilihanD" : "Sambel tomat"
+		},{
+		"isi_soal" : "Apa bahasa cinanya sepi?",
+		"jawaban" : "C",
+		"pilihanA" : "Sepi Mampring",
+		"pilihanB" : "Takada orang",
+		"pilihanC" : "Zun yi Zen yap",
+		"pilihanD" : "Ling ling"
+		},{
+		"isi_soal" : "Daun apa yang paling keras?",
+		"jawaban" : "D",
+		"pilihanA" : "Daun disemen",
+		"pilihanB" : "Daun olahraga",
+		"pilihanC" : "Daun muda",
+		"pilihanD" : "Smack daun"
+	}
+	
+	], "level_2":[{
+		"isi_soal" : "Apa bahasa Arabnya diam di tempat?",
+		"jawaban" : "C",
+		"pilihanA" : "Fengen du’duk",
+		"pilihanB" : "Ghosip’in orang",
+		"pilihanC" : "Ta’kabur",
+		"pilihanD" : "Ente cha’pek"
+		},{
+		"isi_soal" : "Rokok apa yang dimatiin tapi nggak mau mati??",
+		"jawaban" : "C",
+		"pilihanA" : "Rokok malas",
+		"pilihanB" : "Rokok ajaib",
+		"pilihanC" : "Rokok panjang umur",
+		"pilihanD" : "Rok terbang"
+		},{
+		"isi_soal" : "Gajah terbang dengan apa?",
+		"jawaban" : "D",
+		"pilihanA" : "Dengan sayap",
+		"pilihanB" : "Dengan burung",
+		"pilihanC" : "Dengan merem",
+		"pilihanD" : "Dengan susah payah"
+		},{
+		"isi_soal" : "Siapa penyanyi dunia asal Aceh yang tewas bunuh diri?",
+		"jawaban" : "C",
+		"pilihanA" : "Cut Nyak Dien",
+		"pilihanB" : "Teuku Cik di tiro",
+		"pilihanC" : "Cut Cobain",
+		"pilihanD" : "Cut Tari"
+		},{
+		"isi_soal" : "Siapa actor cewek berikut yang paling tinggi?",
+		"jawaban" : "C",
+		"pilihanA" : "Pevita Pearce",
+		"pilihanB" : "Raissa",
+		"pilihanC" : "Lulu tebing",
+		"pilihanD" : "Isyana Sarasvati"
+		},{
+		"isi_soal" : "Bakso apa yang wangi?",
+		"jawaban" : "B",
+		"pilihanA" : "Bakso disemprot parfum",
+		"pilihanB" : "Baksona deodorant",
+		"pilihanC" : "Bakso Kota",
+		"pilihanD" : "Bakso dibungkus"
+		},{
+		"isi_soal" : "Siapa actor cowok berikut yang paling tinggi?",
+		"jawaban" : "C",
+		"pilihanA" : "Tomas Jorghi",
+		"pilihanB" : "Nicholas Saputra",
+		"pilihanC" : "Jeremy Monas",
+		"pilihanD" : "Raffi Ahmad"
+		},{
+		"isi_soal" : "Ayam apa yang besar?",
+		"jawaban" : "B",
+		"pilihanA" : "Ayam hamil",
+		"pilihanB" : "Ayam semesta",
+		"pilihanC" : "Ayam raksasa",
+		"pilihanD" : "Ayam legenda"
+		},{
+		"isi_soal" : "Siapa nama bangsawan Inggris yang terkenal dengan acara lawaknya di TV?",
+		"jawaban" : "C",
+		"pilihanA" : "Sir Issaac",
+		"pilihanB" : "Billy S.",
+		"pilihanC" : "Sir Mulat",
+		"pilihanD" : "Lady D"
+		},{
+		"isi_soal" : "Bebek apa yang terkenal?",
+		"jawaban" : "B",
+		"pilihanA" : "Bebek kartun",
+		"pilihanB" : "Bebekstreet Boys",
+		"pilihanC" : "Bebek peking",
+		"pilihanD" : "Bebek sinjay"
+		},{
+		"isi_soal" : "Bola apa yang disukai anak kecil?",
+		"jawaban" : "D",
+		"pilihanA" : "Bola karet",
+		"pilihanB" : "Bola sepak",
+		"pilihanC" : "Bola volli",
+		"pilihanD" : "Bola Emon"
+		},{
+		"isi_soal" : "Daun apa yang lucu?",
+		"jawaban" : "C",
+		"pilihanA" : "Daun aneh",
+		"pilihanB" : "Daun joget",
+		"pilihanC" : "Dauno,kasino,indro",
+		"pilihanD" : "Daun nglawak"
+		},{
+		"isi_soal" : "Emping apa yang khusus buat komputer?",
+		"jawaban" : "B",
+		"pilihanA" : "Emping main keyboard",
+		"pilihanB" : "Empingsil-2B",
+		"pilihanC" : "Emping mentah",
+		"pilihanD" : "Emping goreng"
+		},{
+		"isi_soal" : "Error apa yang bisa nyanyi?",
+		"jawaban" : "C",
+		"pilihanA" : "Error konser",
+		"pilihanB" : "Error di mic-in",
+		"pilihanC" : "Errorsmith",
+		"pilihanD" : "Error komputer"
+		},{
+		"isi_soal" : "Es apa yang bikin panas dingin dan pusing – pusing?",
+		"jawaban" : "D",
+		"pilihanA" : "Es basi",
+		"pilihanB" : "Es beracun",
+		"pilihanC" : "Es teler",
+		"pilihanD" : "Es sai"
+		},{
+		"isi_soal" : "Hewan apa yang bersaudara?",
+		"jawaban" : "C",
+		"pilihanA" : "Kucing - harimau",
+		"pilihanB" : "Anjing kembar",
+		"pilihanC" : "Katak beradik",
+		"pilihanD" : "Love birds"
+		},{
+		"isi_soal" : "Tank apa yang moncongnya ke bawah?",
+		"jawaban" : "C",
+		"pilihanA" : "Tank jatuh",
+		"pilihanB" : "Tank kebalik",
+		"pilihanC" : "Tank kurep",
+		"pilihanD" : "Tank tentara"
+		},{
+		"isi_soal" : "Lemari apa yang bisa masuk ke kantong?",
+		"jawaban" : "A",
+		"pilihanA" : "Lemari buan",
+		"pilihanB" : "Lemari lipat",
+		"pilihanC" : "Lemari simpel",
+		"pilihanD" : "Lemari ajaib"
+		},{
+		"isi_soal" : "Lele apa yang banyak di pinggir jalan?",
+		"jawaban" : "C",
+		"pilihanA" : "Lele gelandangan",
+		"pilihanB" : "Lele dijual",
+		"pilihanC" : "Lelepon umum",
+		"pilihanD" : "Lele terbang"
+		},{
+		"isi_soal" : "Bulu apa yang kuning?",
+		"jawaban" : "B",
+		"pilihanA" : "Bulu monyet",
+		"pilihanB" : "Bulu band",
+		"pilihanC" : "Bulu dicat",
+		"pilihanD" : "Bulu ketek"
+	}
+	], "level_3":[{
+		"isi_soal" : "Sapi apa yang larinya bisa sampe 100km/jam?",
+		"jawaban" : "B",
+		"pilihanA" : "sapi atlit",
+		"pilihanB" : "sapi damotor",
+		"pilihanC" : "sapi olahraga",
+		"pilihanD" : "sapi estafet"
+		},{
+		"isi_soal" : "Buah semangka dilubangin, dikasih es, dikocok lalu digelindingin jadi apa?",
+		"jawaban" : "D",
+		"pilihanA" : "Jadi Es buah",
+		"pilihanB" : "Jadi es semangka",
+		"pilihanC" : "Jadi enak",
+		"pilihanD" : "Jadi jauh"
+		},{
+		"isi_soal" : "Ayam apa yang dicari orang?",
+		"jawaban" : "D",
+		"pilihanA" : "Ayam legendaris",
+		"pilihanB" : "Ayam artis",
+		"pilihanC" : "Ayam alas",
+		"pilihanD" : "Ayam hilang"
+		},{
+		"isi_soal" : "Siapa yang biasanya adzan di TV?",
+		"jawaban" : "B",
+		"pilihanA" : "Muadzin",
+		"pilihanB" : "Saat",
+		"pilihanC" : "Stasiun TV",
+		"pilihanD" : "Kaset"
+		},{
+		"isi_soal" : "Lampu apa yang kalau dipecahin keluar orang?",
+		"jawaban" : "B",
+		"pilihanA" : "Lampunya jinny",
+		"pilihanB" : "Lampu tetangga",
+		"pilihanC" : "Lampu ajaib",
+		"pilihanD" : "Lampu berhadiah"
+		},{
+		"isi_soal" : "Lele apa yang disukai anak – anak?",
+		"jawaban" : "B", 
+		"pilihanA" : "Lele lucu",
+		"pilihanB" : "Lele tubbies",
+		"pilihanC" : "Lele bakar",
+		"pilihanD" : "Lele di empang"
+		},{
+		"isi_soal" : "Lolly apa yang manis?",
+		"jawaban" : "B",	
+		"pilihanA" : "Lollypop",
+		"pilihanB" : "Lolly atin aja gue",
+		"pilihanC" : "Lolly permen",
+		"pilihanD" : "Lolly enak"
+		},{
+		"isi_soal" : "Kalau teletubbies digigit anjing gila jadi apa?",
+		"jawaban" : "D",
+		"pilihanA" : "Jadi Mati",
+		"pilihanB" : "Buletubbies",
+		"pilihanC" : "Bolotubbies",
+		"pilihanD" : "Kenarabies"
+		},{
+		"isi_soal" : "Apa bahasa inggrisnya keramas?",
+		"jawaban" : "C",
+		"pilihanA" : "Washing hair",
+		"pilihanB" : "Head and Shoulder",
+		"pilihanC" : "Golden monkey",
+		"pilihanD" : "Shampoo hair"
+		},{
+		"isi_soal" : "Monyet apa yang adanya di lapangan?",
+		"jawaban" : "B",
+		"pilihanA" : "Monyet gaul",
+		"pilihanB" : "Monyetak gol",
+		"pilihanC" : "Monyet olahraga",
+		"pilihanD" : "Topeng monyet"
+		},{
+		"isi_soal" : "Baso apa yang bisa berenang?",
+		"jawaban" : "B",
+		"pilihanA" : "Baso sapi",
+		"pilihanB" : "Baso ikan",
+		"pilihanC" : "Baso ayam",
+		"pilihanD" : "Baso keju"
+		},{
+		"isi_soal" : "Korek apa yang jago nyanyi?",
+		"jawaban" : "D",
+		"pilihanA" : "Korek konser",
+		"pilihanB" : "Korek kuping",
+		"pilihanC" : "Korek nglindur",
+		"pilihanD" : "Korek David"
+		},{
+		"isi_soal" : "Apa persamaan telpon sama jemuran?",
+		"jawaban" : "C",
+		"pilihanA" : "Sama – sama panjang",
+		"pilihanB" : "Sama – sama digantung",
+		"pilihanC" : "Kalo kering diangkat",
+		"pilihanD" : "Kalo sepi dianggurin"
+		},{
+		"isi_soal" : "Lap apa yang digemari wanita?",
+		"jawaban" : "C",
+		"pilihanA" : "Lap basah",
+		"pilihanB" : "Lap tissue",
+		"pilihanC" : "Westlap",
+		"pilihanD" : "Lap handuk"
+		},{
+		"isi_soal" : "Panci apa yang panjang?",
+		"jawaban" : "B",
+		"pilihanA" : "Panci molor",
+		"pilihanB" : "Pancingan ikan",
+		"pilihanC" : "Panci jalan - jalan",
+		"pilihanD" : "Panci alluminium"
+		},{
+		"isi_soal" : "Panci apa yang dihafalin anak SD?",
+		"jawaban" : "C",
+		"pilihanA" : "Panci ibu",
+		"pilihanB" : "Panci masak",
+		"pilihanC" : "Panci sila",
+		"pilihanD" : "Panci sop"
+		},{
+		"isi_soal" : "Sebelum dimasukin kering, setelah dikeluarin basah. Apa itu?",
+		"jawaban" : "B",
+		"pilihanA" : "Jemuran",
+		"pilihanB" : "Teh celup",
+		"pilihanC" : "Cucian",
+		"pilihanD" : "Baju"
+		},{
+		"isi_soal" : "Kera apa yang ada di pojokan?",
+		"jawaban" : "B",
+		"pilihanA" : "Kera setan",
+		"pilihanB" : "Keranjang sampah",
+		"pilihanC" : "Kera kesurupan",
+		"pilihanD" : "Kera berhantu"
+		},{
+		"isi_soal" : "Kera apa yang sakit?",
+		"jawaban" : "D",
+		"pilihanA" : "Kera masuk RS",
+		"pilihanB" : "Kera sakti",
+		"pilihanC" : "Kera flu",
+		"pilihanD" : "Keram"
+		},{
+		"isi_soal" : "Panci apa yang bisa ketelen anak kecil?",
+		"jawaban" : "C",
+		"pilihanA" : "Panci sop",
+		"pilihanB" : "Pancingan",
+		"pilihanC" : "Pancing baju",
+		"pilihanD" : "Panci mainan"
+	}
+	], "level_4":[{
+		"isi_soal" : "Kerangka apa yang belum pernah ditemukan fosilnya?",
+		"jawaban" : "D",
+		"pilihanA" : "Kerangka firaun",
+		"pilihanB" : "Kerangka purba",
+		"pilihanC" : "Kerang laut",
+		"pilihanD" : "Kerangka karangan"
+		},{
+		"isi_soal" : "Monyet apa yang jalannya mondar – mandir?",
+		"jawaban" : "B",
+		"pilihanA" : "Monyet galau",
+		"pilihanB" : "Monyetrika baju",
+		"pilihanC" : "Monyet jalan-jalan",
+		"pilihanD" : "Monyet caper"
+		},{
+		"isi_soal" : "Kera apa yang berharga?",
+		"jawaban" : "A",
+		"pilihanA" : "Kera Mat",
+		"pilihanB" : "Kera emas",
+		"pilihanC" : "Kera super",
+		"pilihanD" : "Kera langka "
+		},{
+		"isi_soal" : "Panci apa yang dimakan habis makan nasi?",
+		"jawaban" : "B",
+		"pilihanA" : "Panci sop",
+		"pilihanB" : "Pancuci mulut",
+		"pilihanC" : "Panci sayur",
+		"pilihanD" : "Pancingan ikan"
+		},{
+		"isi_soal" : "Ayam apa yang tidak disukai orang tua?",
+		"jawaban" : "C",
+		"pilihanA" : "Ayam muda",
+		"pilihanB" : "Ayam mati",
+		"pilihanC" : "Ayam urat",
+		"pilihanD" : "Ayam kabur"
+		},{
+		"isi_soal" : "Ada 5 orang bertubuh besar memakai 1 payung tapi kenapa mereka gak basah?",
+		"jawaban" : "C",
+		"pilihanA" : "payungnya muat",
+		"pilihanB" : "Desak desakan",
+		"pilihanC" : "lagi gak hujan",
+		"pilihanD" : "pake jas hujan"
+		},{
+		"isi_soal" : "Apa itu yang masuknya miring dan keluarnya juga miring?",
+		"jawaban" : "C",
+		"pilihanA" : "orang sinting",
+		"pilihanB" : "orang mabuk",
+		"pilihanC" : "kancing baju",
+		"pilihanD" : "pintunya miring"
+		},{
+		"isi_soal" : "Tukang apa yang bisa membangun gedung 70 lantai dalam waktu semalam saja?",
+		"jawaban" : "B",
+		"pilihanA" : "Tukang bangunan",
+		"pilihanB" : "Tukang ngibul",
+		"pilihanC" : "Dukun",
+		"pilihanD" : "Tukang sakti"
+		},{
+		"isi_soal" : "Negara apa yang selalu hujan dan kebanjiran sepanjang masa?",
+		"jawaban" : "D",
+		"pilihanA" : "Indonesia",
+		"pilihanB" : "India",
+		"pilihanC" : "Bangladesh",
+		"pilihanD" : "Bahrain"
+		},{
+		"isi_soal" : "Lem apa yang ada tanduknya?",
+		"jawaban" : "D",
+		"pilihanA" : "Lem ditempel",
+		"pilihanB" : "Lem glukol",
+		"pilihanC" : "Lem-G",
+		"pilihanD" : "Lem-bu"
+		},{
+		"isi_soal" : "Burung apa yang sudah renta, tak bertenaga?",
+		"jawaban" : "C",
+		"pilihanA" : "Burung punah",
+		"pilihanB" : "Burung merpati",
+		"pilihanC" : "Burung kakak tua",
+		"pilihanD" : "Burung elang"
+		},{
+		"isi_soal" : "Benda apa yang baru beli langsung dibuang?",
+		"jawaban" : "D",
+		"pilihanA" : "Sampah",
+		"pilihanB" : "Jajanan",
+		"pilihanC" : "Pancing ikan",
+		"pilihanD" : "Peti mati"
+		},{
+		"isi_soal" : "Daun apa yang tengahnya bolong?",
+		"jawaban" : "C",
+		"pilihanA" : "Daun berlobang",
+		"pilihanB" : "Daun dimakan uler",
+		"pilihanC" : "Daunat",
+		"pilihanD" : "Daun ompong"
+		},{
+		"isi_soal" : "Binatang apa yang hidupnya hanya minum saja tanpa pernah makan?",
+		"jawaban" : "D",
+		"pilihanA" : "Sapi",
+		"pilihanB" : "Lalat",
+		"pilihanC" : "Ikan",
+		"pilihanD" : "Nyamuk"
+		},{
+		"isi_soal" : "Kota apa yang nilainya selalu tujuh?",
+		"jawaban" : "B",
+		"pilihanA" : "Semarang",
+		"pilihanB" : "Salatiga",
+		"pilihanC" : "Surabaya",
+		"pilihanD" : "Malang"
+		},{
+		"isi_soal" : "BMW apanya yang mahal?",
+		"jawaban" : "D",
+		"pilihanA" : "harganya",
+		"pilihanB" : "mobilnya",
+		"pilihanC" : "mereknya",
+		"pilihanD" : "W-nya"
+		},{
+		"isi_soal" : "Apa itu yang kalau kamu bangun, dia tidur. Tapi kalau kamu tidur, dia bangun?",
+		"jawaban" : "C",
+		"pilihanA" : "orang melekan",
+		"pilihanB" : "burung hantu",
+		"pilihanC" : "telapak kaki",
+		"pilihanD" : "maling"
+		},{
+		"isi_soal" : "Skandal apa yang adanya di bawah?",
+		"jawaban" : "D",
+		"pilihanA" : "Skandal rahasia",
+		"pilihanB" : "Skandal terlarang",
+		"pilihanC" : "Skandal jatuh",
+		"pilihanD" : "Skandal jepit"
+		},{
+		"isi_soal" : "Apa itu yang bulat kecil item, kalau dipencet keluar orangnya?",
+		"jawaban" : "C",
+		"pilihanA" : "Tahi lalat",
+		"pilihanB" : "Jerawat",
+		"pilihanC" : "Bel",
+		"pilihanD" : "Noda hitam"
+		},{
+		"isi_soal" : "Jauh di mata, dekat di hati. Apa itu?",
+		"jawaban" : "D",
+		"pilihanA" : "Kekasih",
+		"pilihanB" : "Jodoh",
+		"pilihanC" : "Orang kangen",
+		"pilihanD" : "Usus"
+	}
+	], "level_5":[{
+		"isi_soal" : "Apa nama penyakit yang terkenal di Cina?",
+		"jawaban" : "B",
+		"pilihanA" : "Virus Zena",
+		"pilihanB" : "Kung Flue",
+		"pilihanC" : "Demam berdarah",
+		"pilihanD" : "Batuk pilek"
+		},{
+		"isi_soal" : "Kecoa apa yang masuk rumah sakit?",
+		"jawaban" : "A",
+		"pilihanA" : "Kecoalakaan",
+		"pilihanB" : "Kecoa sakit",
+		"pilihanC" : "Kecoa unik",
+		"pilihanD" : "Kecoa nyasar"
+		},{
+		"isi_soal" : "Orang apa yang cukur rambut terus tapi rambutnya nggak habis-habis?",
+		"jawaban" : "D",
+		"pilihanA" : "Orang ajaib",
+		"pilihanB" : "Orang ga punya rambut",
+		"pilihanC" : "Pake penumbuh rambut",
+		"pilihanD" : "Tukang cukur"
+		},{
+		"isi_soal" : "Kakinya ada 4 dan bisa terbang. Apakah itu?",
+		"jawaban" : "B",
+		"pilihanA" : "Kuda terbang(Pegasus)",
+		"pilihanB" : "2 Burung terbang",
+		"pilihanC" : "Naga",
+		"pilihanD" : "Burung ajaib"
+		},{
+		"isi_soal" : "Antara besi 50 kg dan kapas 50 kg, jika dijatuhkan ke kaki, sakitan yang mana?",
+		"jawaban" : "B",
+		"pilihanA" : "besi",
+		"pilihanB" : "kaki",
+		"pilihanC" : "kapas",
+		"pilihanD" : "sama-sama sakit"
+		},{
+		"isi_soal" : "Yang jual gak doyan, yang doyan gak beli, yang beli gak doyan. Apa itu?",
+		"jawaban" : "A",
+		"pilihanA" : "Rumput",
+		"pilihanB" : "Makanan basi",
+		"pilihanC" : "Pupuk",
+		"pilihanD" : "Loakan"
+		},{
+		"isi_soal" : "Ada bebek 10 di kali 2 jadi berapa?",
+		"jawaban" : "C",
+		"pilihanA" : "20",
+		"pilihanB" : "12",
+		"pilihanC" : "8",
+		"pilihanD" : "4"
+		},{
+		"isi_soal" : "Hewan apa yang namanya 2 huruf?",
+		"jawaban" : "B",
+		"pilihanA" : "I kan",
+		"pilihanB" : "U dan G",
+		"pilihanC" : "Ayam",
+		"pilihanD" : "Lalat"
+		},{
+		"isi_soal" : "Barang apa yang lebih berguna setelah pecah?",
+		"jawaban" : "C",
+		"pilihanA" : "Kaca",
+		"pilihanB" : "Plastik",
+		"pilihanC" : "Telor",
+		"pilihanD" : "Mangkok"
+		},{
+		"isi_soal" : "Naiknya cepet, turunnya lambat banget. Apa itu?",
+		"jawaban" : "D",
+		"pilihanA" : "Naik kereta",
+		"pilihanB" : "Dokar",
+		"pilihanC" : "Upil",
+		"pilihanD" : "Ingus"
+		},{
+		"isi_soal" : "Ada berapa huruf dalam abjad?",
+		"jawaban" : "D",
+		"pilihanA" : "26",
+		"pilihanB" : "13",
+		"pilihanC" : "7",
+		"pilihanD" : "5"
+		},{
+		"isi_soal" : "Ban apa yang bisa joget, bisa nyanyi?",
+		"jawaban" : "C",
+		"pilihanA" : "Ban pecah",
+		"pilihanB" : "Ban lepas",
+		"pilihanC" : "Ban ci",
+		"pilihanD" : "Ban orang"
+		},{
+		"isi_soal" : "Apa itu yang selalu diam di pojok tapi selalu keliling dunia?",
+		"jawaban" : "D",
+		"pilihanA" : "Nahkoda",
+		"pilihanB" : "Pilot",
+		"pilihanC" : "Tempat sampah",
+		"pilihanD" : "Perangko"
+		},{
+		"isi_soal" : "Benda cair apa yang kalau dipanaskan malah membeku?",
+		"jawaban" : "D",
+		"pilihanA" : "Air",
+		"pilihanB" : "Es Batu",
+		"pilihanC" : "Susu",
+		"pilihanD" : "Telur"
+		},{
+		"isi_soal" : "Hasil karyanya diinjak – injak, tapi dia gak pernah marah. Siapa dia?",
+		"jawaban" : "B",
+		"pilihanA" : "Tukang sampah",
+		"pilihanB" : "Tukang pembuat sandal",
+		"pilihanC" : "Tukang lukis",
+		"pilihanD" : "Tukang foto"
+		},{
+		"isi_soal" : "Kucing apa yang kuno?",
+		"jawaban" : "C",
+		"pilihanA" : "Kucing jadul",
+		"pilihanB" : "Kucing ga gaul",
+		"pilihanC" : "Kucinggalan jaman",
+		"pilihanD" : "Kucing kampung"
+		},{
+		"isi_soal" : "Kalau ayam berkokok, berarti harimau..?",
+		"jawaban" : "C",
+		"pilihanA" : "mengaum",
+		"pilihanB" : "mencari makan",
+		"pilihanC" : "pagi",
+		"pilihanD" : "pulang"
+		},{
+		"isi_soal" : "Bedak apa yang tidak dijual?",
+		"jawaban" : "A",
+		"pilihanA" : "Bedak bercula 1",
+		"pilihanB" : "Bedak mahal",
+		"pilihanC" : "Bedak rahasia",
+		"pilihanD" : "Bedak orang"
+		},{
+		"isi_soal" : "Lele apa yang jago main bulutangkis?",
+		"jawaban" : "D",
+		"pilihanA" : "Lele olahraga",
+		"pilihanB" : "Lele kece",
+		"pilihanC" : "Lele atlit",
+		"pilihanD" : "Leleana natsir"
+		},{
+		"isi_soal" : "Ban apa yang bisa menyeruduk?",
+		"jawaban" : "B",
+		"pilihanA" : "Ban lepas",
+		"pilihanB" : "Ban teng",
+		"pilihanC" : "Ban bocor",
+		"pilihanD" : "Ban kempes"
+	}]
+}
+

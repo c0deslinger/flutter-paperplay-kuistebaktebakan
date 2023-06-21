@@ -1,0 +1,717 @@
+{
+	
+	
+	"level_1": [
+      {
+		"isi_soal":"10 + 6 =…",
+		"jawaban":"A",
+		"pilihanA":"16",
+		"pilihanB":"17",
+		"pilihanC":"18",
+		"pilihanD":"19"
+		},{
+		"isi_soal":"Bola warna hijau ada 15 buah. Bola warna merah ada 2 buah. Banyak bola seluruhnya ada…",
+		"jawaban":"C",
+		"pilihanA":"13 ",
+		"pilihanB":"15 ",
+		"pilihanC":"17",
+		"pilihanD":"19"
+		},{
+		"isi_soal":"Ayam dalam kandang ada 19 ekor, dipotong 5 ekor, sisa ayam yang masih hidup…",
+		"jawaban":"B",
+		"pilihanA":"4",
+		"pilihanB":"14",
+		"pilihanC":"24",
+		"pilihanD":"27"
+		},{
+		"isi_soal":"benda yang berbentuk bola yaitu…",
+		"jawaban":"B",
+		"pilihanA":"tas koper",
+		"pilihanB":"globe",
+		"pilihanC":"kaleng susu",
+		"pilihanD":"papan tulis"
+		},{
+		"isi_soal":"kubus memiliki sisi sebanyak…",
+		"jawaban":"A",
+		"pilihanA":"enam",
+		"pilihanB":"lima",
+		"pilihanC":"dua belas",
+		"pilihanD":"lima belas"
+		},{
+		"isi_soal":"307, 309, 308. Urutan bilangan dari yang terkecil adalah?",
+		"jawaban":"C",
+		"pilihanA":"309, 308, 307",
+		"pilihanB":"307, 309, 308",
+		"pilihanC":"307, 308, 309",
+		"pilihanD":"309, 307, 308"
+		},{
+		"isi_soal":"hasil dari 19 – 7 adalah …",
+		"jawaban":"A",
+		"pilihanA":"12",
+		"pilihanB":"11",
+		"pilihanC":"9",
+		"pilihanD":"8"
+		},{
+		"isi_soal":"132, 134, 136, 138. Bilangan itu termasuk bilangan?",
+		"jawaban":"B",
+		"pilihanA":"ganjil",
+		"pilihanB":"genap",
+		"pilihanC":"prima",
+		"pilihanD":"faktorial"
+		},{
+		"isi_soal":"urutan bilangan genap dari 10 sampai 15 adalah… ",
+		"jawaban":"B",
+		"pilihanA":"11, 13, 15",
+		"pilihanB":"10, 12, 14",
+		"pilihanC":"10, 13, 14",
+		"pilihanD":"11, 12, 15"
+		},{
+		"isi_soal":"15 – 8 = 7, bentuk penjumlahannya adalah…",
+		"jawaban":"A",
+		"pilihanA":"8 + 7 = 15",
+		"pilihanB":"7 – 8 = 15",
+		"pilihanC":"8 + 15 = 7",
+		"pilihanD":"7 – 15 = 8"
+		},{
+		"isi_soal":"hasil dari 235 + 45 adalah?",
+		"jawaban":"C",
+		"pilihanA":"260",
+		"pilihanB":"270",
+		"pilihanC":"280",
+		"pilihanD":"290"
+		},{
+		"isi_soal":"263 + 28 – 78 = …",
+		"jawaban":"B",
+		"pilihanA":"313",
+		"pilihanB":"213",
+		"pilihanC":"113",
+		"pilihanD":"13"
+		},{
+		"isi_soal":"budi mulai belajar pukul 07.00. selesai pukul 10.00. lama budi belajar adalah?",
+		"jawaban":"A",
+		"pilihanA":"3 jam",
+		"pilihanB":"4 jam",
+		"pilihanC":"5 jam",
+		"pilihanD":"6 jam"
+		},{
+		"isi_soal":"BIlangan yang terletak di antara 1.123 dan 1.125 adalah …",
+		"jawaban":"B",
+		"pilihanA":"1.123",
+		"pilihanB":"1.124",
+		"pilihanC":"1.125",
+		"pilihanD":"1.126"
+		},{
+		"isi_soal":"235 + 143 = …",
+		"jawaban":"A",
+		"pilihanA":"378",
+		"pilihanB":"278",
+		"pilihanC":"189",
+		"pilihanD":"92"
+		},{
+		"isi_soal":"6 x 8 = ",
+		"jawaban":"C",
+		"pilihanA":"36",
+		"pilihanB":"42",
+		"pilihanC":"48",
+		"pilihanD":"54"
+		},{
+		"isi_soal":"56 / 8 = ",
+		"jawaban":"C",
+		"pilihanA":"6 ",
+		"pilihanB":"5",
+		"pilihanC":"7",
+		"pilihanD":"4"
+		},{
+		"isi_soal":"216 / 3 = ",
+		"jawaban":"D",
+		"pilihanA":"213",
+		"pilihanB":"108",
+		"pilihanC":"82",
+		"pilihanD":"72"
+		},{
+		"isi_soal":"Nilai selembar uang 100.000 rupiah sama dengan berapa keping uang 100 rupiah? ",
+		"jawaban":"C",
+		"pilihanA":"10 ",
+		"pilihanB":"100",
+		"pilihanC":"1000",
+		"pilihanD":"10000"
+		},{
+		"isi_soal":"4 minggu = … hari",
+		"jawaban":"B",
+		"pilihanA":"35",
+		"pilihanB":"28",
+		"pilihanC":"21",
+		"pilihanD":"14"
+	}],
+	
+	"level_2": [
+      {
+		"isi_soal":"6 kg – 18 ons = .. ons",
+		"jawaban":"D",
+		"pilihanA":"3",
+		"pilihanB":"12",
+		"pilihanC":"24",
+		"pilihanD":"42"
+		},{
+		"isi_soal":"25.750 + 79.508 = 79.508 + n.\n Nilai n adalah …",
+		"jawaban":"A",
+		"pilihanA":"25.750",
+		"pilihanB":"52.570",
+		"pilihanC":"25.890",
+		"pilihanD":"52.580"
+		},{
+		"isi_soal":"( 325 + 175 ) + 1.325 = ..",
+		"jawaban":"B",
+		"pilihanA":"1.285",
+		"pilihanB":"1.825",
+		"pilihanC":"1.325",
+		"pilihanD":"500"
+		},{
+		"isi_soal":"Angka yang menempati nilai puluhan ribu pada bilangan 342.576 adalah …",
+		"jawaban":"B",
+		"pilihanA":"2",
+		"pilihanB":"4",
+		"pilihanC":"3",
+		"pilihanD":"7"
+		},{
+		"isi_soal":"271.251 …. 271.521. Tanda yang tepat untuk mengisi titik-titik adalah …",
+		"jawaban":"A",
+		"pilihanA":"< ",
+		"pilihanB":"> ",
+		"pilihanC":"= ",
+		"pilihanD":"≥ "
+		},{
+		"isi_soal":"Nilai dari 6.913 : 7 = … sisa ….",
+		"jawaban":"A",
+		"pilihanA":"987 sisa 4",
+		"pilihanB":"985 sisa 6",
+		"pilihanC":"986 sisa 5",
+		"pilihanD":"984 sisa 3"
+		},{
+		"isi_soal":"Taksiran mendekati dari hasil 56 + 31 adalah?",
+		"jawaban":"C",
+		"pilihanA":"80",
+		"pilihanB":"100",
+		"pilihanC":"90",
+		"pilihanD":"70"
+		},{
+		"isi_soal":"Kelipatan dari bilangan 9 adalah …",
+		"jawaban":"A",
+		"pilihanA":"9, 18, 27, …",
+		"pilihanB":"9, 20, 30, …",
+		"pilihanC":"9, 7, 27, …",
+		"pilihanD":"9, 18, 75, …"
+		},{
+		"isi_soal":"Kelipatan persekutuan dari 4 dan 5 adalah …",
+		"jawaban":"D",
+		"pilihanA":"10, 20, 30",
+		"pilihanB":"30, 40, 50",
+		"pilihanC":"20, 30, 40",
+		"pilihanD":"20, 40, 60"
+		},{
+		"isi_soal":"FPB dari 35  dan 45 adalah …",
+		"jawaban":"A",
+		"pilihanA":"5",
+		"pilihanB":"7",
+		"pilihanC":"6",
+		"pilihanD":"9"
+		},{
+		"isi_soal":"FPB bentuk sederhana dari pecahan 25/30 adalah …",
+		"jawaban":"D",
+		"pilihanA":"2/6",
+		"pilihanB":"3/6",
+		"pilihanC":"4/6",
+		"pilihanD":"5/6"
+		},{
+		"isi_soal":"Sudut yang besarnya kurang dari 900 disebut …",
+		"jawaban":"B",
+		"pilihanA":"sudut siku - siku",
+		"pilihanB":"sudut lancip",
+		"pilihanC":"sudut tumpul",
+		"pilihanD":"sudut lurus"
+		},{
+		"isi_soal":"Bu Diah membeli beras 6 kwintal. Beras yang dibeli Bu Diah … kg",
+		"jawaban":"B",
+		"pilihanA":"6",
+		"pilihanB":"600",
+		"pilihanC":"60",
+		"pilihanD":"6000"
+		},{
+		"isi_soal":"Hasil dari 6 hm – 50 dam _ 40 m = … m",
+		"jawaban":"C",
+		"pilihanA":"120",
+		"pilihanB":"130",
+		"pilihanC":"140",
+		"pilihanD":"150"
+		},{
+		"isi_soal":"Hasil dari 3 ton + 12 kwintal + 300 kg = … kg",
+		"jawaban":"B",
+		"pilihanA":"4.600",
+		"pilihanB":"4.500",
+		"pilihanC":"4.300",
+		"pilihanD":"4.200"
+		},{
+		"isi_soal":"Ibu membeli sendok sebanyak 3 gros. Sendok yang dibeli ibu … buah.",
+		"jawaban":"A",
+		"pilihanA":"432",
+		"pilihanB":"36",
+		"pilihanC":"423",
+		"pilihanD":"3.000"
+		},{
+		"isi_soal":"Jika sudut siku-siku dibagi dua sama besar, maka besarnya adalah …",
+		"jawaban":"B",
+		"pilihanA":"30",
+		"pilihanB":"45",
+		"pilihanC":"60",
+		"pilihanD":"90"
+		},{
+		"isi_soal":"3 jam + 240 detik = … menit",
+		"jawaban":"C",
+		"pilihanA":"73",
+		"pilihanB":"243",
+		"pilihanC":"184",
+		"pilihanD":"420"
+		},{
+		"isi_soal":"12 windu = ... tahun",
+		"jawaban":"B",
+		"pilihanA":"52",
+		"pilihanB":"96",
+		"pilihanC":"60",
+		"pilihanD":"120"
+		},{
+		"isi_soal":"(– 25) – 34 = p, maka nilai p yang benar adalah …",
+		"jawaban":"A",
+		"pilihanA":"-59",
+		"pilihanB":"59",
+		"pilihanC":"9",
+		"pilihanD":"-9"
+	}],
+	"level_3": [
+      {
+		"isi_soal":"Hasil yang benar dari 13² adalah …",
+		"jawaban":"B",
+		"pilihanA":"13",
+		"pilihanB":"169",
+		"pilihanC":"26",
+		"pilihanD":"196"
+		},{
+		"isi_soal":"n x n = 1.024, sama artinya dengan √1.024=n, nilai n adalah?",
+		"jawaban":"C",
+		"pilihanA":"12",
+		"pilihanB":"24",
+		"pilihanC":"32",
+		"pilihanD":"34"
+		},{
+		"isi_soal":"Panjang sisi Kamar mandi yang berbentuk persegi dengan luas 16m² adalah  … meter. ",
+		"jawaban":"D",
+		"pilihanA":"12",
+		"pilihanB":"6",
+		"pilihanC":"9",
+		"pilihanD":"4"
+		},{
+		"isi_soal":"Luas trapezium dengan tinggi 10 cm dan sisi sejajarnya 12 cm dan 20 cm adalah?",
+		"jawaban":"C",
+		"pilihanA":"160 cm²",
+		"pilihanB":"240 cm²",
+		"pilihanC":"640 cm²",
+		"pilihanD":"5120 cm²"
+		},{
+		"isi_soal":"Panjang rusuk Kubus 8 m, maka volumenya adalah … m³",
+		"jawaban":"D",
+		"pilihanA":"16",
+		"pilihanB":"64",
+		"pilihanC":"24",
+		"pilihanD":"512"
+		},{
+		"isi_soal":"Balok kayu dengan panjang 10 cm, lebar 6 cm, dan tinggi 2 cm. maka volumenya …. cm ³",
+		"jawaban":"D",
+		"pilihanA":"12",
+		"pilihanB":"18",
+		"pilihanC":"60",
+		"pilihanD":"120"
+		},{
+		"isi_soal":"Dua buah kubus masing-masing panjang rusuknya adalah 8 cm dan 5 cm. Jumlah volume kedua kubus adalah?",
+		"jawaban":"B",
+		"pilihanA":"89",
+		"pilihanB":"637",
+		"pilihanC":"725",
+		"pilihanD":"837"
+		},{
+		"isi_soal":"12 l/menit = .. l/detik",
+		"jawaban":"D",
+		"pilihanA":"0.12",
+		"pilihanB":"0.02",
+		"pilihanC":"0.012",
+		"pilihanD":"0.2"
+		},{
+		"isi_soal":"Sebuah lingkaran memiliki jari-jari 28 cm. Maka luasnya adalah … cm²",
+		"jawaban":"A",
+		"pilihanA":"2.464",
+		"pilihanB":"1.232",
+		"pilihanC":"616",
+		"pilihanD":"308"
+		},{
+		"isi_soal":"Volume tabung dengan jari – jari 7 cm dan tinggi 25 cm adalah?",
+		"jawaban":"A",
+		"pilihanA":"3.850 cm³",
+		"pilihanB":"5.850 cm³",
+		"pilihanC":"7.700 cm³",
+		"pilihanD":"8.700 cm³"
+		},{
+		"isi_soal":"Nilai ulangan budi masing – masing 7,8,6,7,5. Rata – rata nilai ulangan Budi adalah?",
+		"jawaban":"B",
+		"pilihanA":"6.5",
+		"pilihanB":"6.6",
+		"pilihanC":"6.7",
+		"pilihanD":"6.8"
+		},{
+		"isi_soal":"Jika suatu segitiga sudut-sudutnya berbanding 1 : 2 : 3 maka besar sudut terbesarnya adalah?",
+		"jawaban":"D",
+		"pilihanA":"135 derajat",
+		"pilihanB":"120 derajat ",
+		"pilihanC":"108 derajat ",
+		"pilihanD":"90 derajat "
+		},{
+		"isi_soal":"Penyelesaian dari 3x + 7 = 31 – x adalah .....",
+		"jawaban":"B",
+		"pilihanA":"4",
+		"pilihanB":"6",
+		"pilihanC":"8",
+		"pilihanD":"12"
+		},{
+		"isi_soal":"Penyelesaian dari 5(7x – 3) – 3(7x – 3) = x + 7 adalah? ",
+		"jawaban":"D",
+		"pilihanA":"4",
+		"pilihanB":"3",
+		"pilihanC":"2",
+		"pilihanD":"1"
+		},{
+		"isi_soal":". Penyelesaian dari 4x − 4 =< 6 + 2x adalah .....",
+		"jawaban":"B",
+		"pilihanA":"x >= 5 ",
+		"pilihanB":"x <= 5 ",
+		"pilihanC":"x >= 6",
+		"pilihanD":"x <= 6"
+		},{
+		"isi_soal":"Suatu barang mempunyai tara sebesar 4% sama dengan 3 kg. Netto barang itu adalah .....",
+		"jawaban":"C",
+		"pilihanA":"57 kg",
+		"pilihanB":"67 kg",
+		"pilihanC":"72 kg",
+		"pilihanD":"75 kg"
+		},{
+		"isi_soal":"Harga barang setelah mendapat diskon 20% adalah Rp60.000. Harga barang itu sebelum diskon adalah?",
+		"jawaban":"C",
+		"pilihanA":"Rp 48.000",
+		"pilihanB":"Rp 72.000",
+		"pilihanC":"Rp 75.000",
+		"pilihanD":"Rp 80.000"
+		},{
+		"isi_soal":"Dio punya tabungan di bank sebesar Rp150.000 dengan bunga 18%/tahun. Berapa uang Dio setelah 8 bulan?",
+		"jawaban":"D",
+		"pilihanA":"Rp 158.000",
+		"pilihanB":"Rp 185.000",
+		"pilihanC":"Rp 178.000",
+		"pilihanD":"Rp 168.000"
+		},{
+		"isi_soal":"Koordinat bayangan titik Q (2, 4) oleh rotasi yang berpusat di O sejauh 90° adalah?",
+		"jawaban":"B",
+		"pilihanA":"(–2, –4)",
+		"pilihanB":"(–4, 2) ",
+		"pilihanC":"(4, –2) ",
+		"pilihanD":"(2, 4) "
+		},{
+		"isi_soal":"Diketahui 3x + 4y = 7 dan –2x + 3y = –16. Nilai 2x – 7y adalah ?",
+		"jawaban":"D",
+		"pilihanA":"-24",
+		"pilihanB":"-4",
+		"pilihanC":"4",
+		"pilihanD":"24"
+	}],
+	"level_4": [
+      {
+		"isi_soal":"Tentukan akar-akar penyelesaian dari bentuk x² – x – 12 = 0",
+		"jawaban":"C",
+		"pilihanA":"{3, 4}",
+		"pilihanB":"{4, 7}",
+		"pilihanC":"{-3, 4}",
+		"pilihanD":"{-4, -7}"
+		},{
+		"isi_soal":"Jika salah satu akar persamaan ax² – 7x – 15 = 0 adalah 5, maka nilai a adalah?",
+		"jawaban":"C",
+		"pilihanA":"1/2",
+		"pilihanB":"1",
+		"pilihanC":"2",
+		"pilihanD":"3"
+		},{
+		"isi_soal":"Banyak diagonal ruang pada sebuah balok adalah .... ",
+		"jawaban":"A",
+		"pilihanA":"4",
+		"pilihanB":"6",
+		"pilihanC":"8",
+		"pilihanD":"12"
+		},{
+		"isi_soal":"Peluang muncul angka dan gambar pada pelemparan dua keping uang logam bersama-sama adalah?",
+		"jawaban":"B",
+		"pilihanA":"1/2",
+		"pilihanB":"2/4",
+		"pilihanC":"1/3",
+		"pilihanD":"2/3"
+		},{
+		"isi_soal":"Sebuah dadu dilambungkan satu kali. Peluang muncul mata dadu lebih dari 4 adalah?",
+		"jawaban":"C",
+		"pilihanA":"1/6",
+		"pilihanB":"1/4",
+		"pilihanC":"1/3",
+		"pilihanD":"2/3"
+		},{
+		"isi_soal":"Jarak sebenarnya antara dua kota 80 km, sedangkan jarak pada peta 5 cm. Skala peta tsb adalah?",
+		"jawaban":"D",
+		"pilihanA":"1 : 400",
+		"pilihanB":"1 : 40.000",
+		"pilihanC":"1 : 160.000",
+		"pilihanD":"1 : 1.600.000"
+		},{
+		"isi_soal":"Rumus suku ke-n barisan bilangan 20, 17, 14, 11, … adalah ….",
+		"jawaban":"A",
+		"pilihanA":"23-3n",
+		"pilihanB":"23n-3",
+		"pilihanC":"17+3n",
+		"pilihanD":"17n+3"
+		},{
+		"isi_soal":"Hasil dari (3p+q)(2p– 5q) adalah ....",
+		"jawaban":"A",
+		"pilihanA":"6p² – 13pq – 5q²",
+		"pilihanB":"6p² + 13pq – 5q²",
+		"pilihanC":"6p² – 17pq – 5q2",
+		"pilihanD":"6p² + 17pq – 5q²"
+		},{
+		"isi_soal":"Rumus sebuah fungsi adalah f (x) = 1 – 2x². Nilai f (-2) adalah ....",
+		"jawaban":"A",
+		"pilihanA":"-7",
+		"pilihanB":"-3",
+		"pilihanC":"5",
+		"pilihanD":"9"
+		},{
+		"isi_soal":"Persamaan garis melalui titik (-4, -2) dan tegak lurus dengan garis 2x + 6y – 12 = 0 adalah?",
+		"jawaban":"C",
+		"pilihanA":"3y = x – 2",
+		"pilihanB":"3y = - x – 10",
+		"pilihanC":"y = 3x + 10",
+		"pilihanD":"y = -3x – 14"
+		},{
+		"isi_soal":"Modus dari data 7, 8, 6, 5, 6, 5, 8, 7, 6, 9 adalah ....",
+		"jawaban":"A",
+		"pilihanA":"6",
+		"pilihanB":"6.5",
+		"pilihanC":"6.7",
+		"pilihanD":"7"
+		},{
+		"isi_soal":"Diketahui segitiga PQR dengan P(0, 1, 4), Q(2, -3, 2), dan R(-1, 0, 2). Besar sudut PQR adalah..",
+		
+		"jawaban":"B",
+		"pilihanA":"120 derajat",
+		"pilihanB":"90 derajat",
+		"pilihanC":"60 derajat",
+		"pilihanD":"45 derajat"
+		},{
+		"isi_soal":"Dari suatu barisan aritmatika, U3 = 36, U5 + U7 = 144. Jumlah 10 deret pertamanya adalah..",
+		"jawaban":"B",
+		"pilihanA":"840",
+		"pilihanB":"660",
+		"pilihanC":"640",
+		"pilihanD":"630"
+		},{
+		"isi_soal":"Umur ali:Umur Badu 10 tahun lalu = 5:6. Hasil kali umur keduanya=1.512. Berapa umur Ali skrg?",
+		"jawaban":"C",
+		"pilihanA":"30 tahun",
+		"pilihanB":"35 tahun",
+		"pilihanC":"36 tahun",
+		"pilihanD":"38 tahun"
+		},{
+		"isi_soal":"Persamaan grafik fungsi kuadrat yang mempunyai titik balik minimum (1,2) dan melalui titik (2,3) adalah..",
+		"jawaban":"B",
+		"pilihanA":"y=x²-2x+1 ",
+		"pilihanB":"y=x²-2x+3",
+		"pilihanC":"y=x²+2x-1",
+		"pilihanD":"y=x+2x+1"
+		},{
+		"isi_soal":"Diketahui luas Segitiga PQR adalah 243 cm²  Jika panjang q = 27 cm dan r = 36 cm, besar  sudut P adalah?",
+		"jawaban":"B",
+		"pilihanA":"15 derajat ",
+		"pilihanB":"30 derajat ",
+		"pilihanC":"45 derajat ",
+		"pilihanD":"60 derajat "
+		},{
+		"isi_soal":"Diketahuu U3 dan U6 dari deret aritmatika adalah 8 dan 17. Jumlah 8 suku pertama deret tsb adalah..",
+		"jawaban":"A",
+		"pilihanA":"100 ",
+		"pilihanB":"110 ",
+		"pilihanC":"140",
+		"pilihanD":"160 "
+		},{
+		"isi_soal":"Diketahui deret geometri dengan U1=6 dan U4 = 48. Jumlah 6 suku pertama deret tsb adalah..",
+		"jawaban":"C",
+		"pilihanA":"368",
+		"pilihanB":"369",
+		"pilihanC":"378",
+		"pilihanD":"379"
+		},{
+		"isi_soal":"Diketahui kubus ABCD.EFGH dengan panjang rusuk 8 cm. Jarak titik H dan garis AC adalah..",
+		"jawaban":"C",
+		"pilihanA":"8 akar 3 cm ",
+		"pilihanB":"8 akar 2 cm",
+		"pilihanC":"4 akar 6 cm",
+		"pilihanD":"4 akar 3 cm"
+		},{
+		"isi_soal":"Dua buah dadi dilempar undi secara bersamaan sebanyak 1 kali. Peluang kejadian muncul jumlah mata dadu 9 atau 11 ..?",
+		"jawaban":"C",
+		"pilihanA":"1/2",
+		"pilihanB":"1/4",
+		"pilihanC":"1/6",
+		"pilihanD":"1/8"
+	}],
+	"level_5": [
+      {
+		"isi_soal":"Diketahui kubus ABCD EFGH. Maka di bawah ini yang bukan merupakan diagonal ruangnya adalah ….",
+		"jawaban":"D",
+		"pilihanA":"ABGH",
+		"pilihanB":"CDEF",
+		"pilihanC":"BCHE",
+		"pilihanD":"DGHF"
+		},{
+		"isi_soal":"Diketahui dua bola A dan B dengan rA = 6rB (r = jari-jari), maka perbandingan luas permukaan kedua bola adalah ….",
+		"jawaban":"A",
+		"pilihanA":"36 : 1",
+		"pilihanB":"16 : 1",
+		"pilihanC":"8 : 1",
+		"pilihanD":"6 : 1"
+		},{
+		"isi_soal":"Diketahui sebuah bola berdiameter 60 cm, maka luas permukaan bola tersebut adalah … cm²",
+		"jawaban":"D",
+		"pilihanA":"900π",
+		"pilihanB":"4.500π",
+		"pilihanC":"2.700π",
+		"pilihanD":"3.600π"
+		},{
+		"isi_soal":"Luas segi-12 beraturan dengan jari-jari lingkaran luar 8 cm adalah…",
+		"jawaban":"A",
+		"pilihanA":"192 cm²",
+		"pilihanB":"172 cm²",
+		"pilihanC":"162 cm²",
+		"pilihanD":"148 cm²"
+		},{
+		"isi_soal":"Jika f(x) = 1/x, maka f’(2) adalah ....",
+		"jawaban":"A",
+		"pilihanA":"1/4",
+		"pilihanB":"5/6",
+		"pilihanC":"1/2",
+		"pilihanD":"7/9"
+		},{
+		"isi_soal":"Jika f(x) = tan x sin x, maka f’(x) adalah ....",
+		"jawaban":"B",
+		"pilihanA":"sin x",
+		"pilihanB":"2 sin x/cos²2 x",
+		"pilihanC":"cos x",
+		"pilihanD":"2 cos x/sin²2x"
+		},{
+		"isi_soal":"Grafik fungsi y = x^4 – 8x^2 – 9 turun untuk nilai x ….",
+		"jawaban":"C",
+		"pilihanA":"x < - 3",
+		"pilihanB":"x > 3",
+		"pilihanC":"x < -2  atau o < x < 2",
+		"pilihanD":"-2 < x < 2"
+		},{
+		"isi_soal":"Grafik fungsi f(x) = x³ + 3x² + 5 turun untuk nilai x yang memenuhi ….",
+		"jawaban":"C",
+		"pilihanA":"x < - 2 atau x > 0",
+		"pilihanB":"0 < x < 2",
+		"pilihanC":"-2 < x < 0",
+		"pilihanD":"x < 0"
+		},{
+		"isi_soal":"Diketahui sin x=1/5 akar 13, x sudut lancip. Nilai cos 2x adalah..",
+		"jawaban":"D",
+		"pilihanA":"-1",
+		"pilihanB":"-1/2",
+		"pilihanC":"-1/5",
+		"pilihanD":"-1/25"
+		},{
+		"isi_soal":"Nilai invers dari fungsi korespondensi satu-satu f(x) = ¼ x + 3 adalah ….",
+		"jawaban":"D",
+		"pilihanA":"4x + 12",
+		"pilihanB":"-4x – 12",
+		"pilihanC":"4x – 6",
+		"pilihanD":"4x – 12"
+		},{
+		"isi_soal":"Jika f suatu fungsi yang dinyatakan oleh f(x) = 2x – 3, maka (f –1 o f –1)(x) adalah ….",
+		"jawaban":"B",
+		"pilihanA":"X-2",
+		"pilihanB":"X+9",
+		"pilihanC":"X-9",
+		"pilihanD":"-X+2"
+		},{
+		"isi_soal":"Diketahui f(x) = x² + 1 dan g(x) = 2x – 3 , maka (f o g) (x) adalah .…",
+		"jawaban":"D",
+		"pilihanA":"2x² – 2x + 10",
+		"pilihanB":"4x² –12x – 10",
+		"pilihanC":"2x² –12x – 10",
+		"pilihanD":"4x² –12x + 10"
+		},{
+		"isi_soal":"Pada sebuah segitiga ABC diketahui COS sudut A=3/5 dan COS sudut B=5/13. Nilai sin sudut C adalah..",
+		"jawaban":"A",
+		"pilihanA":"56/65",
+		"pilihanB":"33/65",
+		"pilihanC":"-16/65",
+		"pilihanD":"-33/65"
+		},{
+		"isi_soal":"Nilai invers dari fungsi korespondensi satu-satu f(x) = ¼ x + 2 adalah …",
+		"jawaban":"D",
+		"pilihanA":"4x – 2",
+		"pilihanB":"4x + 2",
+		"pilihanC":"x – 2",
+		"pilihanD":"4x – 8"
+		},{
+		"isi_soal":"Nilai maksimum f yang dirumuskan dengan f(x) = (2x² - 2)³ adalah .... ",
+		"jawaban":"D",
+		"pilihanA":"-8",
+		"pilihanB":"-6",
+		"pilihanC":"8",
+		"pilihanD":"0"
+		},{
+		"isi_soal":"f(x) = 3x cos x, maka f’(x) adalah  ....",
+		"jawaban":"A",
+		"pilihanA":"3 cos x – 3x sin x",
+		"pilihanB":"3 cos x + 3x sin x",
+		"pilihanC":"3 sin x – 3x cos x",
+		"pilihanD":"-3 sin x – 3x cos x"
+		},{
+		"isi_soal":"Seperangkat kartu bridge diambil 2 kartu sekaligus secara acak. Peluang yg terambil 2 kartu king.. ",
+		"jawaban":"A",
+		"pilihanA":"1/221",
+		"pilihanB":"1/13",
+		"pilihanC":"4/221",
+		"pilihanD":"11/221"
+		},{
+		"isi_soal":"Diketahui suatu barisan aritmatika dengan U3+U9+U11=75. Suku tengah=68 dan banyak suku=43. U43 adalah..?",
+		"jawaban":"D",
+		"pilihanA":"218",
+		"pilihanB":"208",
+		"pilihanC":"134",
+		"pilihanD":"131 "
+		},{
+		"isi_soal":"Koordinat titik balik dari fungsi kuadrat yg persamaannya y=(x-6)(X+2) adalah..",
+		"jawaban":"D",
+		"pilihanA":"(-2,0)",
+		"pilihanB":"(-1,-7)",
+		"pilihanC":"(1,-15)",
+		"pilihanD":"(2,-16)"
+		},{
+		"isi_soal":"Jumlah deret geometri tak hingga 8-8/3 + 8/9 – 8/27 +…. Adalah..",
+		"jawaban":"B",
+		"pilihanA":"47/9",
+		"pilihanB":"6",
+		"pilihanC":"8",
+		"pilihanD":"12"
+	}]
+}
+

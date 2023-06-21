@@ -1,0 +1,712 @@
+
+
+
+	
+{ "level_1":[{
+		"isi_soal" : "Ciri-ciri makhluk hidup adalah …",
+		"jawaban" : "D",
+		"pilihanA" : "tidak makan",
+		"pilihanB" : "tidak bernafas",
+		"pilihanC" : "besarnya tetap",
+		"pilihanD" : "dapat bergerak"
+		},{
+		"isi_soal" : "Daun putri malu akan menutup jika mendapat rangsangan berupa …",
+		"jawaban" : "C",
+		"pilihanA" : "cahaya matahari",
+		"pilihanB" : "gaya gravitasi",
+		"pilihanC" : "sentuhan",
+		"pilihanD" : "angin"
+		},{
+		"isi_soal" : "Burung dapat terbang karena memiliki alat gerak …",
+		"jawaban" : "B",
+		"pilihanA" : "paruh",
+		"pilihanB" : "sayap",
+		"pilihanC" : "kaki",
+		"pilihanD" : "sirip"
+		},{
+		"isi_soal" : "Makhluk hidup dapat melestarikan jenisnya dengan cara …",
+		"jawaban" : "A",
+		"pilihanA" : "berkembang biak",
+		"pilihanB" : "bergerak",
+		"pilihanC" : "bernafas",
+		"pilihanD" : "makan"
+		},{
+		"isi_soal" : "Anggota tubuh yang peka terhadap rangsangan suara adalah …",
+		"jawaban" : "C",
+		"pilihanA" : "lidah",
+		"pilihanB" : "kulit",
+		"pilihanC" : "telinga",
+		"pilihanD" : "mata"
+		},{
+		"isi_soal" : "berikut ini adalah contoh hewan pemakan tumbuhan, kecuali..",
+		"jawaban" : "C",
+		"pilihanA" : "kelinci",
+		"pilihanB" : "sapi",
+		"pilihanC" : "elang",
+		"pilihanD" : "rusa"
+		},{
+		"isi_soal" : "Peristiwa menghirup oksigen dan mengeluarkan gas karbon dioksida disebut …",
+		"jawaban" : "D",
+		"pilihanA" : "makan",
+		"pilihanB" : "tumbuh",
+		"pilihanC" : "bergerak",
+		"pilihanD" : "bernafas"
+		},{
+		"isi_soal" : "Mangga merupakan contoh tumbuhan …",
+		"jawaban" : "A",
+		"pilihanA" : "dikotil",
+		"pilihanB" : "monokotil",
+		"pilihanC" : "berkeping satu",
+		"pilihanD" : "berbiji terbuka"
+		},{
+		"isi_soal" : "Masa remaja terjadi pada usia …",
+		"jawaban" : "C",
+		"pilihanA" : "0-1 tahun",
+		"pilihanB" : "5-10 tahun",
+		"pilihanC" : "11-21 tahun",
+		"pilihanD" : "di atas 25 tahun"
+		},{
+		"isi_soal" : "Manusia dari bayi dapat menjadi manusia dewasa merupakan bukti bahwa makhluk hidup…",
+		"jawaban" : "C",
+		"pilihanA" : "gerak",
+		"pilihanB" : "makan",
+		"pilihanC" : "tumbuh",
+		"pilihanD" : "berkembang biak"
+		},{
+		"isi_soal" : "Zat yang diperlukan tubuh untuk pembentukan sel darah merah adalah …",
+		"jawaban" : "B",
+		"pilihanA" : "vitamin",
+		"pilihanB" : "zat besi",
+		"pilihanC" : "benzoate",
+		"pilihanD" : "protein"
+		},{
+		"isi_soal" : "Padi, kentang, jagung dan ketela merupakan makanan yang mengandung …",
+		"jawaban" : "D",
+		"pilihanA" : "vitamin",
+		"pilihanB" : "protein",
+		"pilihanC" : "lemak",
+		"pilihanD" : "karbohidrat"
+		},{
+		"isi_soal" : "Salah satu ciri makanan sehat adalah … ",
+		"jawaban" : "B",
+		"pilihanA" : "harganya mahal",
+		"pilihanB" : "bergizi",
+		"pilihanC" : "mengandung zat kimia",
+		"pilihanD" : "mengandung kuman"
+		},{
+		"isi_soal" : "Benda cair bergerak dengan cara . . . .",
+		"jawaban" : "A",
+		"pilihanA" : "mengalir",
+		"pilihanB" : "berputar",
+		"pilihanC" : "menggelinding",
+		"pilihanD" : "memantul"
+		},{
+		"isi_soal" : "Benda yang bergerak menggelinding berbentuk . . . .",
+		"jawaban" : "A",
+		"pilihanA" : "bulat",
+		"pilihanB" : "lonjong",
+		"pilihanC" : "pipih",
+		"pilihanD" : "kotak"
+		},{
+		"isi_soal" : "Olahraga yang memerlukan gerakan air mengalir adalah . . . .",
+		"jawaban" : "A",
+		"pilihanA" : "arung jeram",
+		"pilihanB" : "sepak bola",
+		"pilihanC" : "voli",
+		"pilihanD" : "tenis"
+		},{
+		"isi_soal" : "Gerak meluncur lebih mudah terjadi pada landasan yang . . . .",
+		"jawaban" : "C",
+		"pilihanA" : "rata",
+		"pilihanB" : "kasar",
+		"pilihanC" : "miring",
+		"pilihanD" : "bergelombang"
+		},{
+		"isi_soal" : "Energi bunyi ditimbulkan oleh....",
+		"jawaban" : "C",
+		"pilihanA" : "pembakaran",
+		"pilihanB" : "reaksi kimia",
+		"pilihanC" : "getaran",
+		"pilihanD" : "listrik"
+		},{
+		"isi_soal" : "Energi gerak yang dimiliki air terjun dapat dimanfaatkan untuk . . . .",
+		"jawaban" : "B",
+		"pilihanA" : "arung jeram",
+		"pilihanB" : "pembangkit listrik",
+		"pilihanC" : "mengairi sawah",
+		"pilihanD" : "memelihara ikan"
+		},{
+		"isi_soal" : "Sumber utama lokomotif pada zaman dahulu adalah . .. .",
+		"jawaban" : "B",
+		"pilihanA" : "solar",
+		"pilihanB" : "batu bara",
+		"pilihanC" : "minyak tanah",
+		"pilihanD" : "bensin"
+	}
+	
+	], "level_2":[{
+		"isi_soal" : "Kincir air yang berputar mendapat energi dari . . . .",
+		"jawaban" : "B",
+		"pilihanA" : "air",
+		"pilihanB" : "angin",
+		"pilihanC" : "matahari",
+		"pilihanD" : "panas"
+		},{
+		"isi_soal" : "Pancaran matahari menghasilkan energi . . . .",
+		"jawaban" : "B",
+		"pilihanA" : "cahaya dan gerak ",
+		"pilihanB" : "cahaya dan panas ",
+		"pilihanC" : "listrik dan gerak ",
+		"pilihanD" : "panas dan gerak "
+		},{
+		"isi_soal" : "Energi listrik diperoleh dari . . . ",
+		"jawaban" : "C",
+		"pilihanA" : "gas elpiji",
+		"pilihanB" : "batu bara",
+		"pilihanC" : "generator",
+		"pilihanD" : "minyak"
+		},{
+		"isi_soal" : "Blender dapat berputar karena energi . . . ",
+		"jawaban" : "A",
+		"pilihanA" : "listrik",
+		"pilihanB" : "gerak",
+		"pilihanC" : "kimia",
+		"pilihanD" : "bunyi"
+		},{
+		"isi_soal" : "Kincir angin, kincir yang digerakkan oleh . . . .",
+		"jawaban" : "B",
+		"pilihanA" : "air",
+		"pilihanB" : "angin",
+		"pilihanC" : "matahari",
+		"pilihanD" : "panas"
+		},{
+		"isi_soal" : "Kincir dapat digerakkan oleh . . . .",
+		"jawaban" : "A",
+		"pilihanA" : "angin dan air",
+		"pilihanB" : "air dan bensin",
+		"pilihanC" : "angin dan minyak",
+		"pilihanD" : "angin dan matahari"
+		},{
+		"isi_soal" : "Pada kincir angin, bagian yang berputar adalah . . . .",
+		"jawaban" : "C",
+		"pilihanA" : "poros",
+		"pilihanB" : "tepi",
+		"pilihanC" : "baling - baling",
+		"pilihanD" : "jeruji"
+		},{
+		"isi_soal" : "Sumber energi minyak tanah makin lama akan . . . .",
+		"jawaban" : "A",
+		"pilihanA" : "habis",
+		"pilihanB" : "murah",
+		"pilihanC" : "melimpah",
+		"pilihanD" : "bertambah"
+		},{
+		"isi_soal" : "Ilmu yang mempelajari tentang cuaca di sebut . . . .",
+		"jawaban" : "D",
+		"pilihanA" : "geologi",
+		"pilihanB" : "meteorologi",
+		"pilihanC" : "geografi",
+		"pilihanD" : "klimatologi"
+		},{
+		"isi_soal" : "Sebagian besar permukaan bumi terdiri atas . . . .",
+		"jawaban" : "D",
+		"pilihanA" : "dataran",
+		"pilihanB" : "pegunungan",
+		"pilihanC" : "daratan",
+		"pilihanD" : "lautan"
+		},{
+		"isi_soal" : "Daratan yang lebih rendah dari gunung dinamakan . . . .",
+		"jawaban" : "A",
+		"pilihanA" : "lembah",
+		"pilihanB" : "bukit",
+		"pilihanC" : "ngarai",
+		"pilihanD" : "pegunungan"
+		},{
+		"isi_soal" : "Tempat yang paling tinggi jika di ukur dari permukaan laut yaitu . . . .",
+		"jawaban" : "A",
+		"pilihanA" : "gunung",
+		"pilihanB" : "pantai",
+		"pilihanC" : "daratan",
+		"pilihanD" : "bukit"
+		},{
+		"isi_soal" : "Tiruan bentuk bumi di sebut . . . .",
+		"jawaban" : "B",
+		"pilihanA" : "peta bumi",
+		"pilihanB" : "globe",
+		"pilihanC" : "peta timbul",
+		"pilihanD" : "bola"
+		},{
+		"isi_soal" : "Hewan yang dilindungi oleh negara adalah . . . .",
+		"jawaban" : "C",
+		"pilihanA" : "kucing",
+		"pilihanB" : "sapi",
+		"pilihanC" : "orang utan",
+		"pilihanD" : "kambing"
+		},{
+		"isi_soal" : "Kegiatan berikut yang dapat merusak sumber daya alam adalah . . . .",
+		"jawaban" : "D",
+		"pilihanA" : "reboisasi",
+		"pilihanB" : "cagar alam",
+		"pilihanC" : "tebang pilih",
+		"pilihanD" : "pembalakan liar"
+		},{
+		"isi_soal" : "Sumber daya alam yang di peroleh dengan cara penambangan adalah . . . .",
+		"jawaban" : "A",
+		"pilihanA" : "batu bara",
+		"pilihanB" : "tumbuhan",
+		"pilihanC" : "mutiara",
+		"pilihanD" : "hewan"
+		},{
+		"isi_soal" : "Baterai mengandung energy..",
+		"jawaban" : "B",
+		"pilihanA" : "gerak",
+		"pilihanB" : "kimia",
+		"pilihanC" : "listrik",
+		"pilihanD" : "cahaya"
+		},{
+		"isi_soal" : "Bunyi berasal dari benda yang..",
+		"jawaban" : "B",
+		"pilihanA" : "diam",
+		"pilihanB" : "bergetar",
+		"pilihanC" : "melayang",
+		"pilihanD" : "bergerak"
+		},{
+		"isi_soal" : "Bukit, lembah, gunung, termasuk…",
+		"jawaban" : "C",
+		"pilihanA" : "lautan",
+		"pilihanB" : "daratan",
+		"pilihanC" : "dataran",
+		"pilihanD" : "atmosfir"
+		},{
+		"isi_soal" : "Laut yang sangat luas dan dalam disebut?",
+		"jawaban" : "C",
+		"pilihanA" : "Rawa",
+		"pilihanB" : "Danau",
+		"pilihanC" : "Samudra",
+		"pilihanD" : "Sungai"
+	}
+	], "level_3":[{
+		"isi_soal" : "Bagian mata yang biasa didonorkan kepada penderita kebutaan adalah ....",
+		"jawaban" : "D",
+		"pilihanA" : "iris",
+		"pilihanB" : "retina",
+		"pilihanC" : "pupil",
+		"pilihanD" : "kornea"
+		},{
+		"isi_soal" : "Alat indra yang juga berfungsi sebagai jalan pernapasan adalah ....",
+		"jawaban" : "C",
+		"pilihanA" : "mata",
+		"pilihanB" : "telinga",
+		"pilihanC" : "hidung",
+		"pilihanD" : "kulit"
+		},{
+		"isi_soal" : "Sebagian besar tulang anak-anak terdiri atas ....",
+		"jawaban" : "C",
+		"pilihanA" : "zat kapur",
+		"pilihanB" : "zat lemak",
+		"pilihanC" : "tulang rawan",
+		"pilihanD" : "zat besi"
+		},{
+		"isi_soal" : "Rangka tersusun oleh ....",
+		"jawaban" : "A",
+		"pilihanA" : "tulang dan otot",
+		"pilihanB" : "tulang dan kulit",
+		"pilihanC" : "tulang belulang",
+		"pilihanD" : "tulang dan daging "
+		},{
+		"isi_soal" : "Penghubung antartulang disebut ....",
+		"jawaban" : "B",
+		"pilihanA" : "otot",
+		"pilihanB" : "sendi",
+		"pilihanC" : "rangka",
+		"pilihanD" : "daging"
+		},{
+		"isi_soal" : "Tumbuhan yang menyimpan cadangan makanannya pada batang adalah ….",
+		"jawaban" : "C",
+		"pilihanA" : "padi",
+		"pilihanB" : "jagung",
+		"pilihanC" : "tebu",
+		"pilihanD" : "mangga"
+		},{
+		"isi_soal" : "Bagian tumbuhan yang berguna sebagai alat pengangkut atau transportasi adalah ….",
+		"jawaban" : "A",
+		"pilihanA" : "batang",
+		"pilihanB" : "bunga",
+		"pilihanC" : "daun",
+		"pilihanD" : "akar"
+		},{
+		"isi_soal" : "Bagian tumbuhan yang bertugas mencari air dan zat hara dari dalam tanah adalah ….",
+		"jawaban" : "D",
+		"pilihanA" : "daun",
+		"pilihanB" : "batang",
+		"pilihanC" : "bunga",
+		"pilihanD" : "akar"
+		},{
+		"isi_soal" : "Jenis hewan yang makanannya berasal dari tumbuhan saja dinamakan ....",
+		"jawaban" : "C",
+		"pilihanA" : "karnivora",
+		"pilihanB" : "omnivora",
+		"pilihanC" : "herbivora",
+		"pilihanD" : "insektivora"
+		},{
+		"isi_soal" : "Ciri yang nampak pada hewan karnivora adalah ....",
+		"jawaban" : "D",
+		"pilihanA" : "bertanduk",
+		"pilihanB" : "daun telinga lebar",
+		"pilihanC" : "berbulu",
+		"pilihanD" : "bergigi taring"
+		},{
+		"isi_soal" : "Lebah mengambil ... yang ada di tumbuhan.",
+		"jawaban" : "C",
+		"pilihanA" : "bunga",
+		"pilihanB" : "putik",
+		"pilihanC" : "nektar",
+		"pilihanD" : "serbuk sari"
+		},{
+		"isi_soal" : "Mata burung elang akan berbinar-binar saat melihat ....",
+		"jawaban" : "B",
+		"pilihanA" : "sapi",
+		"pilihanB" : "tikus",
+		"pilihanC" : "jagung",
+		"pilihanD" : "pepaya"
+		},{
+		"isi_soal" : "Walaupun bertubuh kecil, laba-laba merupakan … karena memangsa hewan kecil lain yang terjebak di sarangnya.",
+		"jawaban" : "A",
+		"pilihanA" : "karnivora",
+		"pilihanB" : "omnivora",
+		"pilihanC" : "herbivora",
+		"pilihanD" : "ortovora"
+		},{
+		"isi_soal" : "Serangga memiliki daur hidup yang berbeda. Daur hidup disebut juga ….",
+		"jawaban" : "C",
+		"pilihanA" : "metabolisme",
+		"pilihanB" : "mutualisme",
+		"pilihanC" : "metamorfosis",
+		"pilihanD" : "komunitas"
+		},{
+		"isi_soal" : "Tahapan metamorfosis dari kupu-kupu yang sangat merugikan petani adalah ….",
+		"jawaban" : "B",
+		"pilihanA" : "telur",
+		"pilihanB" : "ulat",
+		"pilihanC" : "kepompong",
+		"pilihanD" : "nimfa"
+		},{
+		"isi_soal" : "Hewan liar yang menguntungkan adalah ….",
+		"jawaban" : "A",
+		"pilihanA" : "lebah",
+		"pilihanB" : "lalat",
+		"pilihanC" : "nyamuk",
+		"pilihanD" : "kupu - kupu"
+		},{
+		"isi_soal" : "Hewan peliharaan yang dapat terjangkit penyakit rabies adalah ….",
+		"jawaban" : "A",
+		"pilihanA" : "anjing",
+		"pilihanB" : "kelinci",
+		"pilihanC" : "kerbau",
+		"pilihanD" : "ayam"
+		},{
+		"isi_soal" : "Di antara hewan-hewan berikut, yang tergolong hewan ternak adalah ….",
+		"jawaban" : "A",
+		"pilihanA" : "sapi",
+		"pilihanB" : "singa",
+		"pilihanC" : "tikus",
+		"pilihanD" : "cicak"
+		},{
+		"isi_soal" : "Makhluk hidup yang memperoleh energi dari produsen dan konsumen yang lain adalah ….",
+		"jawaban" : "B",
+		"pilihanA" : "karnivora",
+		"pilihanB" : "omnivora",
+		"pilihanC" : "herbivora",
+		"pilihanD" : "insektivora"
+		},{
+		"isi_soal" : "Benda di bawah ini yang merupakan benda gas adalah ….",
+		"jawaban" : "A",
+		"pilihanA" : "uap air",
+		"pilihanB" : "debu",
+		"pilihanC" : "tepung",
+		"pilihanD" : "kecap"
+	}
+	], "level_4":[{
+		"isi_soal" : "Ketika bernapas, setelah masuk ke hidung kemudian udara masuk ke ....",
+		"jawaban" : "B",
+		"pilihanA" : "batang tenggorokan",
+		"pilihanB" : "tenggorokan",
+		"pilihanC" : "paru - paru",
+		"pilihanD" : "trakea"
+		},{
+		"isi_soal" : "Hewan berikut bernapas dengan kulit yang selalu lembap dan basah yaitu..",
+		"jawaban" : "B",
+		"pilihanA" : "ikan",
+		"pilihanB" : "cacing",
+		"pilihanC" : "burung",
+		"pilihanD" : "serangga"
+		},{
+		"isi_soal" : "Proses penyerapan sari makanan terjadi pada…",
+		"jawaban" : "C",
+		"pilihanA" : "Lambung",
+		"pilihanB" : "Hati",
+		"pilihanC" : "Usus halus",
+		"pilihanD" : "Usus buntu"
+		},{
+		"isi_soal" : "Makanan berikut yang tidak termasuk karbohidrat ialah ....",
+		"jawaban" : "C",
+		"pilihanA" : "Nasi",
+		"pilihanB" : "Kentang",
+		"pilihanC" : "Telur",
+		"pilihanD" : "Jagung"
+		},{
+		"isi_soal" : "Kekurangan protein akan menyebabkan penyakit ....",
+		"jawaban" : "D",
+		"pilihanA" : "busung lapar",
+		"pilihanB" : "cacingan",
+		"pilihanC" : "gondok",
+		"pilihanD" : "kwashiorkor"
+		},{
+		"isi_soal" : "Daun pada tumbuhan berwarna hijau karena didalam daun terdapat....",
+		"jawaban" : "C",
+		"pilihanA" : "tulang daun",
+		"pilihanB" : "stomata",
+		"pilihanC" : "klorofil",
+		"pilihanD" : "lentisel"
+		},{
+		"isi_soal" : "Tebu menyimpan cadangan makanannya pada...",
+		"jawaban" : "B",
+		"pilihanA" : "akar",
+		"pilihanB" : "batang",
+		"pilihanC" : "buah",
+		"pilihanD" : "umbi"
+		},{
+		"isi_soal" : "Orang yang menderita hemofilia jika terkena luka maka darahnya..",
+		"jawaban" : "C",
+		"pilihanA" : "cepat membeku",
+		"pilihanB" : "cepat kering",
+		"pilihanC" : "sukar membeku",
+		"pilihanD" : "cepat pulih"
+		},{
+		"isi_soal" : "Zat hijau daun disebut....",
+		"jawaban" : "B",
+		"pilihanA" : "kloroplas",
+		"pilihanB" : "klorofil",
+		"pilihanC" : "plastida",
+		"pilihanD" : "epidermis"
+		},{
+		"isi_soal" : "Pada proses fotosintesis, tumbuhan menghasilkan....",
+		"jawaban" : "A",
+		"pilihanA" : "zat makanan",
+		"pilihanB" : "karbon dioksida",
+		"pilihanC" : "air dan mineral",
+		"pilihanD" : "garam mineral"
+		},{
+		"isi_soal" : "Di bawah ini contoh tumbuhan yang menyimpan cadangan makanan pada umbi  adalah ....",
+		"jawaban" : "D",
+		"pilihanA" : "padi",
+		"pilihanB" : "tebu",
+		"pilihanC" : "mangga",
+		"pilihanD" : "singkong"
+		},{
+		"isi_soal" : "Tumbuhan yang menyimpan cadangan makanan dalam bentuk buah ialah....",
+		"jawaban" : "D",
+		"pilihanA" : "tebu",
+		"pilihanB" : "bawang",
+		"pilihanC" : "wortel",
+		"pilihanD" : "mangga"
+		},{
+		"isi_soal" : "Sumber energy untuk menyusun bahan makanan pada tumbuhan diperoleh dari....",
+		"jawaban" : "C",
+		"pilihanA" : "air",
+		"pilihanB" : "klorofil",
+		"pilihanC" : "cahaya matahari",
+		"pilihanD" : "karbon dioksida"
+		},{
+		"isi_soal" : "sagu dan tebu menyimpan cadangan makanan di....",
+		"jawaban" : "A",
+		"pilihanA" : "batang",
+		"pilihanB" : "akar",
+		"pilihanC" : "daun",
+		"pilihanD" : "buah"
+		},{
+		"isi_soal" : "Karbon dioksida masuk kedalam tumbuhan melalui ....",
+		"jawaban" : "C",
+		"pilihanA" : "klorofil",
+		"pilihanB" : "batang",
+		"pilihanC" : "stoma",
+		"pilihanD" : "bunga"
+		},{
+		"isi_soal" : "Berikut ini yang tidak termasuk pola hidup sehat adalah..",
+		"jawaban" : "A",
+		"pilihanA" : "merokok",
+		"pilihanB" : "berolahraga",
+		"pilihanC" : "menjaga kebersihan",
+		"pilihanD" : "makan teratur"
+		},{
+		"isi_soal" : "Karbohidrat diperlukan oleh tubuh sebagai..",
+		"jawaban" : "A",
+		"pilihanA" : "zat tenaga",
+		"pilihanB" : "cadangan makanan",
+		"pilihanC" : "zat pembangun",
+		"pilihanD" : "zat pengatur"
+		},{
+		"isi_soal" : "Penyakit gondok disebabkan oleh kekurangan…",
+		"jawaban" : "B",
+		"pilihanA" : "mineral",
+		"pilihanB" : "yodium",
+		"pilihanC" : "fosfor",
+		"pilihanD" : "zt besi"
+		},{
+		"isi_soal" : "Zat yang terkandung dalam buah jeruk adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "Protein",
+		"pilihanB" : "Lemak",
+		"pilihanC" : "Vitamin C",
+		"pilihanD" : "Karbohidrat"
+		},{
+		"isi_soal" : "Berikut ini yang mengandung protein nabati yaitu…",
+		"jawaban" : "C",
+		"pilihanA" : "keju",
+		"pilihanB" : "susu",
+		"pilihanC" : "kedelai",
+		"pilihanD" : "mentega"
+	}
+	], "level_5":[{
+		"isi_soal" : "Kemampuan kelelawar dalam mendeteksi benda dengan gelombang bunyi disebut ….",
+		"jawaban" : "B",
+		"pilihanA" : "adaptasi",
+		"pilihanB" : "ekolokasi",
+		"pilihanC" : "interaksi",
+		"pilihanD" : "fisiologi"
+		},{
+		"isi_soal" : "Untuk mengelabuhi musuhnya saat dikejar cumi – cumi akan ….",
+		"jawaban" : "C",
+		"pilihanA" : "memutuskan ekor",
+		"pilihanB" : "memancarkan sinar",
+		"pilihanC" : "mengeluarkan tinta",
+		"pilihanD" : "menggulung tubuh"
+		},{
+		"isi_soal" : "Bau busuk pada bunga Rafflesia merupakan bentuk adaptasi ….",
+		"jawaban" : "C",
+		"pilihanA" : "morfologi",
+		"pilihanB" : "sosiologi",
+		"pilihanC" : "fisiologi",
+		"pilihanD" : "tingkah laku"
+		},{
+		"isi_soal" : "Batang dan akar teratai berongga yang berfungsi untuk ….",
+		"jawaban" : "C",
+		"pilihanA" : "memperkuat pertumbuhan",
+		"pilihanB" : "membantu pernapasan",
+		"pilihanC" : "mengurangi penguapan",
+		"pilihanD" : "mudah mengapung"
+		},{
+		"isi_soal" : "Tanaman bambu berkembangbiak secara vegetatif alami menggunakan ….",
+		"jawaban" : "B",
+		"pilihanA" : "akar tunggal",
+		"pilihanB" : "tunas",
+		"pilihanC" : "umbi lapis",
+		"pilihanD" : "umbi batang"
+		},{
+		"isi_soal" : "Alat kelamin jantan pada tumbuhan adalah ….",
+		"jawaban" : "A",
+		"pilihanA" : "benangsari",
+		"pilihanB" : "putik",
+		"pilihanC" : "nektar",
+		"pilihanD" : "biji"
+		},{
+		"isi_soal" : "Hewan yang berkembangbiak dengan membelah diri adalah ….",
+		"jawaban" : "C",
+		"pilihanA" : "cacing",
+		"pilihanB" : "hydra",
+		"pilihanC" : "amuba",
+		"pilihanD" : "planaria"
+		},{
+		"isi_soal" : "Hewan yang berkembangbiak dengan cara bertelur disebut ….",
+		"jawaban" : "B",
+		"pilihanA" : "Vivipar",
+		"pilihanB" : "Ovipar",
+		"pilihanC" : "Ovovivivipar",
+		"pilihanD" : "Herbivora"
+		},{
+		"isi_soal" : "Salah satu ciri – ciri hewan yang berkembangbiak dengan beranak yaitu ….",
+		"jawaban" : "D",
+		"pilihanA" : "Berbulu",
+		"pilihanB" : "Bersisik",
+		"pilihanC" : "Berkaki empat",
+		"pilihanD" : "Punya kelenjar susu"
+		},{
+		"isi_soal" : "Embrio dalam telur akan memperoleh cadangan makanan dari ….",
+		"jawaban" : "A",
+		"pilihanA" : "plasenta",
+		"pilihanB" : "dalam telur",
+		"pilihanC" : "pembuluh darah",
+		"pilihanD" : "susu"
+		},{
+		"isi_soal" : "Penyerbukan serbuk sari dari 1 bunga jatuh ke putik bunga lain pada tumbuhan yang berbeda jenis yaitu?",
+		"jawaban" : "A",
+		"pilihanA" : "tetangga",
+		"pilihanB" : "silang",
+		"pilihanC" : "sendiri",
+		"pilihanD" : "bastar"
+		},{
+		"isi_soal" : "Penyebab gangguan ekosistem terbesar adalah ….",
+		"jawaban" : "C",
+		"pilihanA" : "hewan",
+		"pilihanB" : "tumbuhan",
+		"pilihanC" : "manusia",
+		"pilihanD" : "bencana alam"
+		},{
+		"isi_soal" : "Dampak negatif yang ditimbulkan dari asap kendaraan bermotor adalah ….",
+		"jawaban" : "B",
+		"pilihanA" : "udara panas",
+		"pilihanB" : "polusi udara",
+		"pilihanC" : "asap hitam",
+		"pilihanD" : "jalan berdebu"
+		},{
+		"isi_soal" : "Kayu cendana banyak dimanfaatkan orang sebagai bahan ….",
+		"jawaban" : "D",
+		"pilihanA" : "memasak",
+		"pilihanB" : "merawat kecantikan",
+		"pilihanC" : "pengawet makanan",
+		"pilihanD" : "minyak wangi"
+		},{
+		"isi_soal" : "Bagian dari pohon aren yang digunakan sebagai bahan baku tepung sagu adalah ….",
+		"jawaban" : "C",
+		"pilihanA" : "buahnya",
+		"pilihanB" : "batangnya",
+		"pilihanC" : "empelur",
+		"pilihanD" : "daun"
+		},{
+		"isi_soal" : "Kanguru pohon adalah salah satu hewan langka yang berasal dari ….",
+		"jawaban" : "D",
+		"pilihanA" : "Sumatra",
+		"pilihanB" : "Jawa",
+		"pilihanC" : "Kalimantan",
+		"pilihanD" : "Papua"
+		},{
+		"isi_soal" : "Tempat perlindungan khusus bagi hewan langka adalah ….",
+		"jawaban" : "A",
+		"pilihanA" : "suaka margasatwa",
+		"pilihanB" : "cagar alam",
+		"pilihanC" : "hutan lindung",
+		"pilihanD" : "kebun raya"
+		},{
+		"isi_soal" : "Taman hutan raya di Bali bernama ….",
+		"jawaban" : "B",
+		"pilihanA" : "way kambas",
+		"pilihanB" : "ngurah rai",
+		"pilihanC" : "gunung gede",
+		"pilihanD" : "ujung kulon"
+		},{
+		"isi_soal" : "Perpindahan panas disertai perpindahan zat perantaraanya disebut ….",
+		"jawaban" : "C",
+		"pilihanA" : "konduksi",
+		"pilihanB" : "radiasi",
+		"pilihanC" : "konveksi",
+		"pilihanD" : "konduktor"
+		},{
+		"isi_soal" : "Contoh alat yang menggunakan konduktor dan isolator sekaligus adalah ….",
+		"jawaban" : "C",
+		"pilihanA" : "gelas,piring",
+		"pilihanB" : "wajan,sendok",
+		"pilihanC" : "setrika,solder",
+		"pilihanD" : "piring,wajan"
+	}]
+}
+

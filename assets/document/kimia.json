@@ -1,0 +1,711 @@
+
+
+
+	
+{ "level_1":[{
+		"isi_soal" : "Larutan asam dapat merubah warna kertas lakmus menjadi berwarna…",
+		"jawaban" : "A",
+		"pilihanA" : "merah",
+		"pilihanB" : "kuning",
+		"pilihanC" : "hijau",
+		"pilihanD" : "biru"
+		},{
+		"isi_soal" : "Larutan di bawah ini yang termasuk asam lemah adalah..",
+		"jawaban" : "D",
+		"pilihanA" : "HCl",
+		"pilihanB" : "H2SO4",
+		"pilihanC" : "HNO3",
+		"pilihanD" : "HCN"
+		},{
+		"isi_soal" : "Peralatan rumah tangga berikut ini yang mudah rusak apabila terkena larutan asam adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "ember plastik",
+		"pilihanB" : "cobek batu",
+		"pilihanC" : "gergaji",
+		"pilihanD" : "rak kayu"
+		},{
+		"isi_soal" : "Larutan berikut yang termasuk basa kuat adalah ....",
+		"jawaban" : "A",
+		"pilihanA" : "Mg(OH)2",
+		"pilihanB" : "LiOH",
+		"pilihanC" : "NH3",
+		"pilihanD" : "Al(OH)3"
+		},{
+		"isi_soal" : "Kalsium hidroksida banyak dimanfaatkan sebagai ....",
+		"jawaban" : "A",
+		"pilihanA" : "bahan cat tembok",
+		"pilihanB" : "bahan pembersih kaca",
+		"pilihanC" : "obat antacid",
+		"pilihanD" : "bahan pembuat sabun"
+		},{
+		"isi_soal" : "Larutan air kapur dengan pH = 12 apabila diuji dengan indikator fenolftalein maka warna yang terjadi adalah ....",
+		"jawaban" : "B",
+		"pilihanA" : "kuning",
+		"pilihanB" : "merah",
+		"pilihanC" : "biru",
+		"pilihanD" : "tak berwarna"
+		},{
+		"isi_soal" : "Garam yang sukar larut dalam air adalah ....",
+		"jawaban" : "D",
+		"pilihanA" : "NaCl",
+		"pilihanB" : "KNO3",
+		"pilihanC" : "CaCl2",
+		"pilihanD" : "PbCl2"
+		},{
+		"isi_soal" : "Asam klorida (HCl) di dalam air akan terurai menjadi ….",
+		"jawaban" : "B",
+		"pilihanA" : "H+ dan Cl-",
+		"pilihanB" : "H3O+ dan Cl",
+		"pilihanC" : "H2O dan Cl-",
+		"pilihanD" : "H+, OH- dan Cl"
+		},{
+		"isi_soal" : "Zat asam dapat menghantarkan arus listrik karena adanya ion ….",
+		"jawaban" : "B",
+		"pilihanA" : "H2O",
+		"pilihanB" : "H+",
+		"pilihanC" : "OH",
+		"pilihanD" : "H-"
+		},{
+		"isi_soal" : "Pada buah jeruk mengandung ….",
+		"jawaban" : "B",
+		"pilihanA" : "asam malat",
+		"pilihanB" : "asam sitrat",
+		"pilihanC" : "asam tartat",
+		"pilihanD" : "asam asetat"
+		},{
+		"isi_soal" : "Air accu dibuat dengan bahan kimia dengan nama .... ?",
+		"jawaban" : "D",
+		"pilihanA" : "asam nitrat",
+		"pilihanB" : "asam sitrat",
+		"pilihanC" : "asam malat",
+		"pilihanD" : "asam sulfat"
+		},{
+		"isi_soal" : "Basa mempunyai rasa…",
+		"jawaban" : "B",
+		"pilihanA" : "masam",
+		"pilihanB" : "pahit",
+		"pilihanC" : "asin",
+		"pilihanD" : "manis"
+		},{
+		"isi_soal" : "Zat asam memiliki pH berkisar antara…",
+		"jawaban" : "B",
+		"pilihanA" : "1-3",
+		"pilihanB" : "0-6",
+		"pilihanC" : "5-8",
+		"pilihanD" : "8-9"
+		},{
+		"isi_soal" : "Bahan-bahan berikut bersifat basa, kecuali ….",
+		"jawaban" : "B",
+		"pilihanA" : "sabun cuci",
+		"pilihanB" : "cuka dapur",
+		"pilihanC" : "cairan karbol",
+		"pilihanD" : "kapur tulis"
+		},{
+		"isi_soal" : "Tanah yang bersifat asam dapat dinetralkan dengan menambah …. ",
+		"jawaban" : "C",
+		"pilihanA" : "kalium hidroksida",
+		"pilihanB" : "natrium hidroksida ",
+		"pilihanC" : "ammonium hidroksida ",
+		"pilihanD" : "magnesida hidroksida "
+		},{
+		"isi_soal" : "Reaksi penetralan terjadi antara … ",
+		"jawaban" : "B",
+		"pilihanA" : "asam dengan garam",
+		"pilihanB" : "asam dengan basa",
+		"pilihanC" : "basa dengan logam",
+		"pilihanD" : "logam dengan garam"
+		},{
+		"isi_soal" : "Hasil reaksi penetralan adalah … ",
+		"jawaban" : "D",
+		"pilihanA" : "asam dan basa",
+		"pilihanB" : "air dan logam",
+		"pilihanC" : "logam dan garam",
+		"pilihanD" : "garam dan air"
+		},{ 
+		"isi_soal" : "Asam klorida yang berlebihan dalam lambung dapat dinetralkan dengan obat maag karena mengandung …. ",
+		"jawaban" : "C",
+		"pilihanA" : "NaOH",
+		"pilihanB" : "KOH",
+		"pilihanC" : "Mg(OH)2",
+		"pilihanD" : "Cu(OH)2"
+		},{
+		"isi_soal" : "Zat-zat berikut yang mempunyai pH paling tinggi adalah …. ",
+		"jawaban" : "B",
+		"pilihanA" : "asam sitrat",
+		"pilihanB" : "asam sulfat",
+		"pilihanC" : "asam nitrat",
+		"pilihanD" : "natrium klorida"
+		},{
+		"isi_soal" : "Larutan NaOH jika ditetesi kunyit berwarna …. ",
+		"jawaban" : "B",
+		"pilihanA" : "hijau",
+		"pilihanB" : "kuning",
+		"pilihanC" : "merah",
+		"pilihanD" : "biru"
+	}
+	
+	], "level_2":[{
+		"isi_soal" : "Yang tidak termasuk NAPZA adalah ?",
+		"jawaban" : "C",
+		"pilihanA" : "Narkotika",
+		"pilihanB" : "Psikotropika",
+		"pilihanC" : "Aditif",
+		"pilihanD" : "Adiktif"
+		},{
+		"isi_soal" : "Zat yang tidak termasuk dalam narkotika golongan I adalah..",
+		"jawaban" : "D",
+		"pilihanA" : "heroin",
+		"pilihanB" : "kokain",
+		"pilihanC" : "ganja",
+		"pilihanD" : "morfin"
+		},{
+		"isi_soal" : "Jenis narkotika yang termasuk dalam golongan III adalah..",
+		"jawaban" : "A",
+		"pilihanA" : "codein",
+		"pilihanB" : "kokain",
+		"pilihanC" : "ganja",
+		"pilihanD" : "morfin"
+		},{
+		"isi_soal" : "Bahan yang berpotensi tinggi mengakibatkan ketergantungan adalah narkotika golongan?",
+		"jawaban" : "B",
+		"pilihanA" : "I",
+		"pilihanB" : "II",
+		"pilihanC" : "III",
+		"pilihanD" : "IV"
+		},{
+		"isi_soal" : "Narkotika yang banyak digunakan dalam terapi adalah jenis narkotika golongan? ",
+		"jawaban" : "C",
+		"pilihanA" : "I",
+		"pilihanB" : "II",
+		"pilihanC" : "III",
+		"pilihanD" : "IV"
+		},{
+		"isi_soal" : "Zat yang dapat menyebabkan perubahan pada aktivitas mental dan perilaku adalah jenis?",
+		"jawaban" : "B",
+		"pilihanA" : "narkotika",
+		"pilihanB" : "ekstasi",
+		"pilihanC" : "aditif",
+		"pilihanD" : "DUM"
+		},{
+		"isi_soal" : "Diazepam adalah psikotropika golongan?",
+		"jawaban" : "D",
+		"pilihanA" : "I",
+		"pilihanB" : "II",
+		"pilihanC" : "III",
+		"pilihanD" : "IV"
+		},{
+		"isi_soal" : "Kadar etanol 30% termasuk minuman beralkohol golongan..",
+		"jawaban" : "C",
+		"pilihanA" : "A",
+		"pilihanB" : "B",
+		"pilihanC" : "C",
+		"pilihanD" : "D"
+		},{
+		"isi_soal" : "Zat berikut yang termasuk zat adiktif adalah..",
+		"jawaban" : "A",
+		"pilihanA" : "rokok",
+		"pilihanB" : "kanabis",
+		"pilihanC" : "opioda",
+		"pilihanD" : "LSD"
+		},{
+		"isi_soal" : "LSD (Lysergic Acid) termasuk dalam Napza golongan?",
+		"jawaban" : "D",
+		"pilihanA" : "depresan",
+		"pilihanB" : "stimulan",
+		"pilihanC" : "downer",
+		"pilihanD" : "halusinogen"
+		},{
+		"isi_soal" : "Bahan berbahaya dari rokok yang dapat menimbulkan iritasi paru – paru adalah ?",
+		"jawaban" : "A",
+		"pilihanA" : "tar",
+		"pilihanB" : "CO",
+		"pilihanC" : "nikotin",
+		"pilihanD" : "kafein"
+		},{
+		"isi_soal" : "Minuman anggur memiliki kadar etanol yang berkisar antara..",
+		"jawaban" : "B",
+		"pilihanA" : "1-5%",
+		"pilihanB" : "5-20%",
+		"pilihanC" : "20-50%",
+		"pilihanD" : "50-80%"
+		},{
+		"isi_soal" : "Zat adiktif yang cara penggunaannya gas yang dihirup disebut?",
+		"jawaban" : "B",
+		"pilihanA" : "alkohol",
+		"pilihanB" : "inhalasi",
+		"pilihanC" : "LSD",
+		"pilihanD" : "benzodiazepin"
+		},{
+		"isi_soal" : "Kanabis merupakan nama lain dari",
+		"jawaban" : "B",
+		"pilihanA" : "ekstasi",
+		"pilihanB" : "ganja",
+		"pilihanC" : "morphin",
+		"pilihanD" : "heroin"
+		},{
+		"isi_soal" : "Besi, air, tanah dan udara merupakan contoh.. ",
+		"jawaban" : "D",
+		"pilihanA" : "unsur",
+		"pilihanB" : "senyawa",
+		"pilihanC" : "campuran",
+		"pilihanD" : "materi"
+		},{
+		"isi_soal" : "Berikut adalah contoh beberapa campuran, kecuali…",
+		"jawaban" : "D",
+		"pilihanA" : "emas 22 karat",
+		"pilihanB" : "air mineral",
+		"pilihanC" : "udara",
+		"pilihanD" : "amoniak"
+		},{
+		"isi_soal" : "Bagian terkecil dari unsur disebut?",
+		"jawaban" : "C",
+		"pilihanA" : "molekul",
+		"pilihanB" : "unsur",
+		"pilihanC" : "atom",
+		"pilihanD" : "materi"
+		},{
+		"isi_soal" : "Zat tunggal yang masih dapat diuraikan disebut?",
+		"jawaban" : "B",
+		"pilihanA" : "campuran",
+		"pilihanB" : "senyawa",
+		"pilihanC" : "unsur",
+		"pilihanD" : "materi"
+		},{
+		"isi_soal" : "Nama yang tepat untuk KBr adalah…",
+		"jawaban" : "B",
+		"pilihanA" : "Kalium brom",
+		"pilihanB" : "Kalium bromida",
+		"pilihanC" : "Kalsium brom",
+		"pilihanD" : "Kalsium bromida"
+		},{
+		"isi_soal" : "Penulisan lambang unsur seperti yang dikenal sekarang dikemukakan oleh?",
+		"jawaban" : "A",
+		"pilihanA" : "Berzelius",
+		"pilihanB" : "Newlands",
+		"pilihanC" : "Doberainer",
+		"pilihanD" : "Lothar meyer"
+	}
+	], "level_3":[{
+		"isi_soal" : "Teori yang menyatakan bahwa atom berupa sebuah bola kosong adalah teori?",
+		"jawaban" : "A",
+		"pilihanA" : "teori atom Delton",
+		"pilihanB" : "teori atom Thomson",
+		"pilihanC" : "teori atom Rutherford ",
+		"pilihanD" : "teori atom Bohr "
+		},{
+		"isi_soal" : "Model atom roti kismis dikemukakan oleh?",
+		"jawaban" : "B",
+		"pilihanA" : "Delton",
+		"pilihanB" : "Thomson",
+		"pilihanC" : "Chadwick",
+		"pilihanD" : "Bohr"
+		},{
+		"isi_soal" : "Rumus kimia untuk emas dan perak berturut – turut adalah?",
+		"jawaban" : "B",
+		"pilihanA" : "Fm dn Pr",
+		"pilihanB" : "Au dan Ag",
+		"pilihanC" : "Au dan Pr",
+		"pilihanD" : "Fm dan Ag"
+		},{
+		"isi_soal" : "Contoh dari sifat senyawa ion adalah..",
+		"jawaban" : "A",
+		"pilihanA" : "garam dapur",
+		"pilihanB" : "air",
+		"pilihanC" : "besi",
+		"pilihanD" : "tembaga"
+		},{
+		"isi_soal" : "Jumlah atom dalam 7 molekul Ca(OH)2 adalah…? ",
+		"jawaban" : "C",
+		"pilihanA" : "8",
+		"pilihanB" : "16",
+		"pilihanC" : "35",
+		"pilihanD" : "51"
+		},{
+		"isi_soal" : "Senyawa berikut yang merupakan rumus empiris adalah..",
+		"jawaban" : "C",
+		"pilihanA" : "C6H12O6",
+		"pilihanB" : "C2H6COOH",
+		"pilihanC" : "CH2O",
+		"pilihanD" : "CH3"
+		},{
+		"isi_soal" : "Nama senyawa Cl2O5 adalah…",
+		"jawaban" : "B",
+		"pilihanA" : "dikalsium pentaoksida",
+		"pilihanB" : "diklorin pentaoksida",
+		"pilihanC" : "kalsium pentaoksida",
+		"pilihanD" : "klorin pentaoksida"
+		},{
+		"isi_soal" : "Rumus senyawa karbon tetrabromida adalah?",
+		"jawaban" : "B",
+		"pilihanA" : "CaBr4 ",
+		"pilihanB" : "CBr4",
+		"pilihanC" : "CrBr4",
+		"pilihanD" : "CbBr4"
+		},{
+		"isi_soal" : "Perbandingan massa unsur – unsur dalam senyawa selalu tetap adalah hukum dari?",
+		"jawaban" : "C",
+		"pilihanA" : "kekekalan massa",
+		"pilihanB" : "perbandingan berganda",
+		"pilihanC" : "perbandingan tetap",
+		"pilihanD" : "hukum avogrado"
+		},{
+		"isi_soal" : "Berikut ini yang bukan tata nama senyawa basa adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "Natrium hidroksida",
+		"pilihanB" : "Magnesium hidroksida",
+		"pilihanC" : "Asam sulfidae",
+		"pilihanD" : "Kalsium hidroksida"
+		},{
+		"isi_soal" : "Berikut ini yang bukan contoh tata nama senyawa anion poliatomik adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "Karbonat",
+		"pilihanB" : "Sianida",
+		"pilihanC" : "Nitrat",
+		"pilihanD" : "Amonium"
+		},{
+		"isi_soal" : "Di antara unsur berikut yang terletak dalam periode 3 golongan IVA adalah? ",
+		"jawaban" : "B",
+		"pilihanA" : "13A",
+		"pilihanB" : "14B",
+		"pilihanC" : "15C",
+		"pilihanD" : "16D"
+		},{
+		"isi_soal" : "Bila Al(No. atom=13) membentuk Al3+ maka susunan electron terluarnya adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "4s24p6",
+		"pilihanB" : "6s22p6",
+		"pilihanC" : "2s2",
+		"pilihanD" : "2s22p6"
+		},{
+		"isi_soal" : "Unsur di bawah ini yang paling mudah membentuk ion negative adalah..",
+		"jawaban" : "A",
+		"pilihanA" : "17Cl",
+		"pilihanB" : "15P",
+		"pilihanC" : "11Na",
+		"pilihanD" : "12Mg"
+		},{
+		"isi_soal" : "Suatu unsur X dengan nomor atom 27 mempunyai jumlah orbital..",
+		"jawaban" : "D",
+		"pilihanA" : "10",
+		"pilihanB" : "13",
+		"pilihanC" : "14",
+		"pilihanD" : "15"
+		},{
+		"isi_soal" : "Unsur yang jari – jari atomnya terbesar adalah..",
+		"jawaban" : "A",
+		"pilihanA" : "11Na",
+		"pilihanB" : "13Al",
+		"pilihanC" : "14Si",
+		"pilihanD" : "17Cl"
+		},{
+		"isi_soal" : " Senyawa manakah yang tidak membentuk ikatan hidrogen  antar molekulnya?",
+		"jawaban" : "A",
+		"pilihanA" : "CH3CHO",
+		"pilihanB" : "CH3NH2",
+		"pilihanC" : "CH3OH",
+		"pilihanD" : "NH3"
+		},{
+		"isi_soal" : "Komponen gas yang berperan sebagai pelarut adalah..",
+		"jawaban" : "B",
+		"pilihanA" : "O2",
+		"pilihanB" : "CO2",
+		"pilihanC" : "N2",
+		"pilihanD" : "H2O"
+		},{
+		"isi_soal" : "Diantarazat berikut, yang bersifat elektrolit lemah dan berikatan kovalen setelah dilarutkan dalam air adalah.. ",
+		"jawaban" : "A",
+		"pilihanA" : "MgCl2",
+		"pilihanB" : "NH4Cl",
+		"pilihanC" : "CH3COOH",
+		"pilihanD" : "CCl4"
+		},{
+		"isi_soal" : "Pada molekul N2 jumlah pasangan electron ikatan adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "1",
+		"pilihanB" : "2",
+		"pilihanC" : "3",
+		"pilihanD" : "4"
+	}
+	], "level_4":[{
+		"isi_soal" : "Siat berikut merupakan perubahan kimia, kecuali?",
+		"jawaban" : "D",
+		"pilihanA" : "kertas menjadi abu",
+		"pilihanB" : "ubi menjadi tempe",
+		"pilihanC" : "kayu menjadi arang",
+		"pilihanD" : "air menjadi es"
+		},{
+		"isi_soal" : "Bilangan oksidasi karbon dari senyawa Na2C2O4 adalah..",
+		"jawaban" : "B",
+		"pilihanA" : "+2",
+		"pilihanB" : "+3",
+		"pilihanC" : "+4",
+		"pilihanD" : "+5"
+		},{
+		"isi_soal" : "Larutan yang tidak dapat terhidrolisis adalah garam ….",
+		"jawaban" : "D",
+		"pilihanA" : "Na2S",
+		"pilihanB" : "CaCO3",
+		"pilihanC" : "CaCl2S",
+		"pilihanD" : "CaSO4"
+		},{
+		"isi_soal" : "Yang merupakan larutan elektrolit kuat adalah..",
+		"jawaban" : "D",
+		"pilihanA" : "gula",
+		"pilihanB" : "asam cuka",
+		"pilihanC" : "alkohol",
+		"pilihanD" : "garam dapur"
+		},{
+		"isi_soal" : "Basa konjugasi dari NH3 adalah..",
+		"jawaban" : "C",
+		"pilihanA" : "NH4OH",
+		"pilihanB" : "H2O",
+		"pilihanC" : "NH2-",
+		"pilihanD" : "NH2+"
+		},{
+		"isi_soal" : "Campuran yang merupakan larutan penyangga adalah ….",
+		"jawaban" : "D",
+		"pilihanA" : "H2CO3 dan (NH4)2SO4",
+		"pilihanB" : "NH3 dan NH4Cl",
+		"pilihanC" : "HCl dan NaCl",
+		"pilihanD" : "HCl dan NH4Cl"
+		},{
+		"isi_soal" : "Blok p dalam system periodic unsur tidak mengandung unsur….",
+		"jawaban" : "D",
+		"pilihanA" : "logam",
+		"pilihanB" : "non logam",
+		"pilihanC" : "metaloid",
+		"pilihanD" : "transisi"
+		},{
+		"isi_soal" : "Bentuk molekul SF6 (Nomor atom S=16) adalah..",
+		"jawaban" : "D",
+		"pilihanA" : "tetrahedral",
+		"pilihanB" : "piramida trigonal",
+		"pilihanC" : "bipiramida",
+		"pilihanD" : "oktahedral"
+		},{
+		"isi_soal" : "Berikut ini yang termasuk reaksi endoterm adalah...",
+		"jawaban" : "D",
+		"pilihanA" : "kapur di dalam air",
+		"pilihanB" : "perkaratan besi",
+		"pilihanC" : "pembakaran",
+		"pilihanD" : "fotosintesis"
+		},{
+		"isi_soal" : "Garam yang pH nya <7 adalah ….",
+		"jawaban" : "A",
+		"pilihanA" : "NH4Cl",
+		"pilihanB" : "CH3COOH",
+		"pilihanC" : "NaHCO3",
+		"pilihanD" : "KCH3COO"
+		},{
+		"isi_soal" : "Garam yang tidak terhidrolisis adalah?",
+		"jawaban" : "B",
+		"pilihanA" : "kalium asetat",
+		"pilihanB" : "natrium sulfat",
+		"pilihanC" : "ammonium klorida",
+		"pilihanD" : " natrium asetat"
+		},{
+		"isi_soal" : "Ion yang dapat mengalami peristiwa hidrolisis dalam air adalah...",
+		"jawaban" : "D",
+		"pilihanA" : "SO42- ",
+		"pilihanB" : "Na+ ",
+		"pilihanC" : "Cl- ",
+		"pilihanD" : "S2-"
+		},{
+		"isi_soal" : "Unsur uranium (Z=92) termasuk dalam kelompok unsur..",
+		"jawaban" : "B",
+		"pilihanA" : "golongan IVA",
+		"pilihanB" : "aktinida",
+		"pilihanC" : ".golongan IVB",
+		"pilihanD" : "lantanida"
+		},{
+		"isi_soal" : "Indikator fenolftalein akan berubah warna menjadi merah dalam larutan ...",
+		"jawaban" : "B",
+		"pilihanA" : "NH4Cl ",
+		"pilihanB" : "K2SO4 ",
+		"pilihanC" : ".CH3COONa ",
+		"pilihanD" : "NaNO3 "
+		},{
+		"isi_soal" : "Molekul berikut ini yang tidak mengikuti kaidah oktet adalah... ",
+		"jawaban" : "D",
+		"pilihanA" : "H2O",
+		"pilihanB" : "NH3",
+		"pilihanC" : "PH3",
+		"pilihanD" : "BCl3"
+		},{
+		"isi_soal" : "Pada pembuatan asam sulfat dengan proses kontak digunakan katalis...",
+		"jawaban" : "A",
+		"pilihanA" : "V2O5 ",
+		"pilihanB" : "Serbuk Fe ",
+		"pilihanC" : "Serbuk Ni",
+		"pilihanD" : "K2O"
+		},{
+		"isi_soal" : "Di antara spesi berikut yang tidak berlaku sebagai asam Bronsted-Lowry adalah...",
+		"jawaban" : "B",
+		"pilihanA" : "NH4+",
+		"pilihanB" : "CO32-",
+		"pilihanC" : "H2O",
+		"pilihanD" : "H3O+"
+		},{
+		"isi_soal" : "Peristiwa perpindahan electron berlangsung pada pembentukan senyawa...",
+		"jawaban" : "C",
+		"pilihanA" : "HBr",
+		"pilihanB" : "NH3",
+		"pilihanC" : "AlH3",
+		"pilihanD" : "Na2S"
+		},{
+		"isi_soal" : "Gejala atau proses yang ada kaitannya dengan system koloid adalah….",
+		"jawaban" : "D",
+		"pilihanA" : "efek tyndall",
+		"pilihanB" : "koagulasi",
+		"pilihanC" : "emulsi",
+		"pilihanD" : "elektrolisis"
+		},{
+		"isi_soal" : "Sol Fe(OH)3 dibuat melalui cara….",
+		"jawaban" : "A",
+		"pilihanA" : "hidrolisis ",
+		"pilihanB" : "mekanik ",
+		"pilihanC" : "koagulasi ",
+		"pilihanD" : "dispersi "
+	}
+	], "level_5":[{
+		"isi_soal" : "Konsentrasi 0.01 M larutan di bawah ini yang memiliki tekanan osmosis paling besar dalam suhu yang sama adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "NaCl",
+		"pilihanB" : "CO(NH2)2",
+		"pilihanC" : "FeCl3",
+		"pilihanD" : "NaOH"
+		},{
+		"isi_soal" : "Energi listrik yang dihasilkan dalam sel volta dihasilkan oleh…. ",
+		"jawaban" : "D",
+		"pilihanA" : "reaksi reduksi",
+		"pilihanB" : "reaksi oksidasi",
+		"pilihanC" : "netralnya muatan listrik",
+		"pilihanD" : "aliran elektron"
+		},{
+		"isi_soal" : "Unsur Mn dengan bilangan oksidasi tertinggi terdapat pada senyawa … . ",
+		"jawaban" : "D",
+		"pilihanA" : "MnO2",
+		"pilihanB" : "K2MnO4",
+		"pilihanC" : "MnO",
+		"pilihanD" : "KMnO4"
+		},{
+		"isi_soal" : "Karat dari unsur logam tergolong senyawa?",
+		"jawaban" : "B",
+		"pilihanA" : "hidrida",
+		"pilihanB" : "oksida",
+		"pilihanC" : "halida",
+		"pilihanD" : "karbonil"
+		},{
+		"isi_soal" : "Logam Na akan dihasilkan pada elektrolisis … ",
+		"jawaban" : "A",
+		"pilihanA" : "lelehan NaCl",
+		"pilihanB" : "larutan NaOH",
+		"pilihanC" : "larutan NaBr",
+		"pilihanD" : "larutan NaI"
+		},{
+		"isi_soal" : "Unsur di bawah ini yang beperan dalam pembentukan hujan asam adalah …. ",
+		"jawaban" : "C",
+		"pilihanA" : "magnesium",
+		"pilihanB" : "argentum",
+		"pilihanC" : "nitrogen",
+		"pilihanD" : "klorida"
+		},{
+		"isi_soal" : "Unsur halogen yang digunakan sebagai antiseptic adalah.. ",
+		"jawaban" : "B",
+		"pilihanA" : "klorin",
+		"pilihanB" : "iodin",
+		"pilihanC" : "bromin",
+		"pilihanD" : "fluorin"
+		},{
+		"isi_soal" : "Senyawa halogen yang paling asam adalah .... ",
+		"jawaban" : "D",
+		"pilihanA" : "HBr",
+		"pilihanB" : "HF",
+		"pilihanC" : "HCl",
+		"pilihanD" : "HI"
+		},{
+		"isi_soal" : "Senyawa sumber unsur aluminium adalah.. ",
+		"jawaban" : "B",
+		"pilihanA" : "alumina",
+		"pilihanB" : "bauksit",
+		"pilihanC" : "kapur klor",
+		"pilihanD" : "fosforus"
+		},{
+		"isi_soal" : "Berikut ini yang merupakan senyawa nitrogen yang sering digunakan adalah..",
+		"jawaban" : "B",
+		"pilihanA" : "oleum",
+		"pilihanB" : "amonia",
+		"pilihanC" : "tiroid",
+		"pilihanD" : "cuka"
+		},{
+		"isi_soal" : "Unsur di bawah ini dapat dibuat dengan cara elektrolisis, kecuali...?",
+		"jawaban" : "D",
+		"pilihanA" : "aluminium",
+		"pilihanB" : "natrium",
+		"pilihanC" : "magnesium",
+		"pilihanD" : "oksigen"
+		},{
+		"isi_soal" : "Senyawa yang dapat menurunkan titik leleh Al2O3 adalah.. ",
+		"jawaban" : "D",
+		"pilihanA" : "karbon tetraklorida",
+		"pilihanB" : "asam sulfat",
+		"pilihanC" : "amonia",
+		"pilihanD" : "kryolit"
+		},{
+		"isi_soal" : "Di bawah ini adalah unsur yang ionnya menimbulkan kesadahan air, kecuali.... ",
+		"jawaban" : "B",
+		"pilihanA" : "Ca",
+		"pilihanB" : "Cu",
+		"pilihanC" : "Fe",
+		"pilihanD" : "Mg"
+		},{
+		"isi_soal" : "Pupuk anorganik berikut mengandung unsur N, kecuali..?",
+		"jawaban" : "C",
+		"pilihanA" : "urea",
+		"pilihanB" : "ZA",
+		"pilihanC" : "TSP",
+		"pilihanD" : "amofos"
+		},{
+		"isi_soal" : "Pembuatan H2SO4 pertama kali dilakukan dengan?",
+		"jawaban" : "A",
+		"pilihanA" : "kamar timbal",
+		"pilihanB" : "proses kontak",
+		"pilihanC" : "metalurgi",
+		"pilihanD" : "destilasi bertingkat"
+		},{
+		"isi_soal" : "Jari – jari terbesar dari unsur gas mulia adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "neon",
+		"pilihanB" : "argon",
+		"pilihanC" : "kripton",
+		"pilihanD" : "radon"
+		},{
+		"isi_soal" : "suatu zat dapat bersenyawa dengan unsur gas mulia. Maka unsur itu bersifat?",
+		"jawaban" : "D",
+		"pilihanA" : "basa kuat",
+		"pilihanB" : "asam kuat",
+		"pilihanC" : "reduktor kuat",
+		"pilihanD" : "oksidator kuat"
+		},{
+		"isi_soal" : "Unsur halogen yang berwujud cair pada suhu kamar adalah?",
+		"jawaban" : "C",
+		"pilihanA" : "fluorin",
+		"pilihanB" : "klorin",
+		"pilihanC" : "bromin",
+		"pilihanD" : "iodin"
+		},{
+		"isi_soal" : "Bilangan oksidasi dalam kalium iodat adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "-1",
+		"pilihanB" : "+1",
+		"pilihanC" : "+3",
+		"pilihanD" : "+5"
+		},{
+		"isi_soal" : "Logam alkali yang bersifat radioaktif adalah?",
+		"jawaban" : "D",
+		"pilihanA" : "K",
+		"pilihanB" : "Rb",
+		"pilihanC" : "Cs",
+		"pilihanD" : "Fr"
+	}]
+}

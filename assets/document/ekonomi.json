@@ -1,0 +1,713 @@
+
+
+
+	
+	{
+		"level_1" :[{
+		"isi_soal" : "Perdagangan internasional dapat terjadi di antara dua negara apabila masing-masing negara mampu menghasilkan satu jenis barang yang lebih unggul dibandingkan negara lainnya. Pernyataan tersebut dikemukakan oleh ...",
+		"jawaban" : "A",
+		"pilihanA" : "Adam Smith",
+		"pilihanB" : "Thomas Robert Malthus",
+		"pilihanC" : "John Stuart Mill",
+		"pilihanD" : "David Ricardo"
+		},{
+		"isi_soal" : "Sebab utama yang mendorong tumbuhnya perdagangan Internasional adalah adanya ...",
+		"jawaban" : "D",
+		"pilihanA" : "Perbedaan sistem ekonomi",
+		"pilihanB" : "Persamaan sistem ekonomi",
+		"pilihanC" : "Pertemuan ideologi beberapa negara",
+		"pilihanD" : "Perbedaan sumber daya alam"
+		},{
+		"isi_soal" :  "Pasar di mana pertama kali suatu perusahaan  menawarkan sahamnya kepada public disebut ...",
+		"jawaban" : "D",
+		"pilihanA" : "Pasar pertama",
+		"pilihanB" : "Pasar sekunder",
+		"pilihanC" : "Pasar tunai",
+		"pilihanD" : "Pasar perdana"
+		},{
+		"isi_soal" : "Berikut yang tidak termasuk perbedaan antara pasar perdana dan pasar sekunder adalah ...",
+		"jawaban" : "C",
+		"pilihanA" : "Pada pasar perdana harga tidak berubah, sedangkan pada pasar sekunder harga ditentukan oleh mekanisme pasar",
+		"pilihanB" : "Transaksi perdagangan di pasar sekunder tidak dikenakan biaya komisi, sedangkanpasar perdana terdapat biaya komisi",
+		"pilihanC" : "Pada pasar perdana hanya terjadi pembelian saham sedangkan di pasar sekunder dapat terjadi jual beli saham",
+		"pilihanD" : "Dari sudut pandang jangka waktu, pasar perdana memiliki batas waktu, sedangkan pasar sekunder tidak"
+		},{
+		"isi_soal" : "Resiko membeli saham suatu perusahaan adalah sebagai berikut, kecuali ....",
+		"jawaban" : "B",
+		"pilihanA" : "Tidak mendapat deviden",
+		"pilihanB" : "Mendapat capital gain",
+		"pilihanC" : "Perusahan bangkrut atau dilikuidasi",
+		"pilihanD" : "Saham dipucatkan dari bursa efek (delisting)"
+		},{
+		"isi_soal" : "Indeks yang terdiri dari 39 jenis saham yang dipilih berdasarkan aturan syariah islam adalah ....",
+		"jawaban" : "D",
+		"pilihanA" : "Indeks LQ45",
+		"pilihanB" : "IHSG",
+		"pilihanC" : "Indeks Sektoral",
+		"pilihanD" : "Indeks Syariah"
+		},{
+		"isi_soal" : "Salah satu peran pasar modal adalah ....",
+		"jawaban" : "A",
+		"pilihanA" : "Membiayai pembangunan",
+		"pilihanB" : "Sebagai indikator perkembangan ekonomi suatu negara",
+		"pilihanC" : "Menutupi defisit APBN",
+		"pilihanD" : "Salah satu sumber penerimaan pemerintah"
+		},{
+		"isi_soal" : "Kebijakan fiscal merupakan kebijakan pemerintah untuk ...",
+		"jawaban" : "B",
+		"pilihanA" : "Mengendalikan uang beredar",
+		"pilihanB" : "Mengatur pendapatan dan belanja Negara",
+		"pilihanC" : "Mengendalikan kinerja bank sentral",
+		"pilihanD" : "Mengendalikan harga"
+		},{
+		"isi_soal" : "Beberapa ciri pokok pajak adalah sbb, kecuali ....",
+		"jawaban" : "A",
+		"pilihanA" : "Dikenakan atas setiap penduduk tanpa kecuali",
+		"pilihanB" : "Sifatnya wajib",
+		"pilihanC" : "Hak tunggal pada pemerintah",
+		"pilihanD" : "Untuk membiayai pengeluaran umum"
+		},{
+		"isi_soal" : "Kebijakan yang dilaksanakan pemerintah dengan cara meningkatkan atau menurunkan pendapatan Negara atau belanja Negara, disebut ....",
+		"jawaban" : "C",
+		"pilihanA" : "Kebijakan moneter",
+		"pilihanB" : "Kebijakan fiscal",
+		"pilihanC" : "Kebijakan anggaran",
+		"pilihanD" : "kebijakan defisit"
+		},{
+		"isi_soal" : "Asas berimbang dalam penyusunan APBN adalah ...",
+		"jawaban" : "D",
+		"pilihanA" : "Penerimaan lebih besar dari pengeluaran",
+		"pilihanB" : "Penerimaan lebih kecil dari pengeluaran",
+		"pilihanC" : "Penghematan penerimaan dan pengeluaran",
+		"pilihanD" : "Penerimaan relatif sama dengan pengeluaran"
+		},{
+		"isi_soal" : "Yang dimaksud anggaran defisit adalah ...",
+		"jawaban" : "D",
+		"pilihanA" : "Jumlah anggaran belanja meningkat setiap tahunnya",
+		"pilihanB" : "Jumlah anggaran pendapatan menurun setiap tahunnya",
+		"pilihanC" : "Jumlah anggaran belanja sama dengan jumlah anggaran pendapatan",
+		"pilihanD" : "Jumlah anggaran belanja lebih kecil dari jumlah anggaran pendapatan"
+		},{
+		"isi_soal" : "Tujuan APBN adalah ...",
+		"jawaban" : "C",
+		"pilihanA" : "Penetapan batas tertinggi penerimaan dan pengeluaran negara",
+		"pilihanB" : "Penjelasan rinci mengenai penerimaan dan pengeluaran negara",
+		"pilihanC" : "Sebagai pedoman anggaran penerimaan dan pengeluaran negara",
+		"pilihanD" : "Intensifikasi pendapatan dan efektivitas dalam pengeluaran"
+		},{
+		"isi_soal" : "Bila pendapatan dalam APBN diarahkan untuk membiayai pengeluaran di sector pembangunan, maka fungsi APBN yang dimaksud adalah ....",
+		"jawaban" : "D",
+		"pilihanA" : "Fungsi alokasi",
+		"pilihanB" : "Fungsi distribusi",
+		"pilihanC" : "Fungsi reguler",
+		"pilihanD" : "Fungsi agent of development"
+		},{
+		"isi_soal" : "Perluasan tenaga kerja dapat dilakukan dengan cara ...",
+		"jawaban" : "D",
+		"pilihanA" : "Pengurangan bantuan luar negeri",
+		"pilihanB" : "Penambahan industry yang padat modal",
+		"pilihanC" : "Peningkatan produktivitas angkatan kerja",
+		"pilihanD" : "Peningkatan kegiatan ekonomi dan pendapatan nasional"
+		},{
+		"isi_soal" : "Pengangguran yang terjadi akibat tidak sesuainya jenis pekerjaan yang diminta dengan yang ditawarkan disebut pengangguran ....",
+		"jawaban" : "D",
+		"pilihanA" : "Siklis",
+		"pilihanB" : "Struktural",
+		"pilihanC" : "Musiman",
+		"pilihanD" : "Friksional"
+		},{
+		"isi_soal" :  "Pertumbuhan ekonomi adalah....",
+		"jawaban" : "B",
+		"pilihanA" : "Proses kenaikan volume ekspor dan impor",
+		"pilihanB" : "Proses kenaikan output per kapita dalam jangka panjang",
+		"pilihanC" : "Proses berkembangnya suatu bisnis",
+		"pilihanD" : "Proses kenaikan penghasilan masyarakat"
+		},{
+		"isi_soal" : "Masalah pokok dalam pembangunan meliputi ....",
+		"jawaban" : "B",
+		"pilihanA" : "Perbedaan suku, agama, dan kebudayaan",
+		"pilihanB" : "Pengangguran, kemiskinan, dan kesenjangan pendapatan",
+		"pilihanC" : "Ketidakstabilan nilai tukar",
+		"pilihanD" : "Terjadinya krisis ekonomi"
+		},{
+		"isi_soal" : "Pembangunan ekonomi pada dasarnya berkaitan dengan hal-hal sebagai berikut, kecuali ....",
+		"jawaban" : "B",
+		"pilihanA" : "Penggunaan faktor-faktor langka, sehingga dapat digunakan secara maksimal",
+		"pilihanB" : "Penggunaan factor-faktor terbatas, sehingga penggunaannya efisien",
+		"pilihanC" : "Peningkatan produksi barang dan jasa, sehingga hasilnya dapat memenuhi kebutuhan",
+		"pilihanD" : "Penyediaan dana, sehingga mencukupi semua pengeluaran total rumah tangga"
+		},{
+		"isi_soal" : "Upah Minimum Regional (UMR) Jakarta lebih besar dibandingkan UMR daerah lainnya dikarenakan ...",
+		"jawaban" : "B",
+		"pilihanA" : "Penduduk Jakarta lebih padat dibanding daerah yang lainnya",
+		"pilihanB" : "Biaya hidup di Jakarta lebih tinggi dibandingkan daerah lainnya",
+		"pilihanC" : "Penetapan upah di Jakarta ditentukan oleh Dewan Pengupahan Daerah",
+		"pilihanD" : "Tingkat pendidikan pekerja di Jakarta lebih tinggi dibandingkan tingkat pendidikan tenaga kerja di daerah lain"
+	}
+	
+	], "level_2":[{
+		"isi_soal" : "Berikut ini yang bukan tujuan kebijakan moneter, yaitu.....",
+		"jawaban" : "D",
+		"pilihanA" : "Memperbaiki neraca pembayaran",
+		"pilihanB" : "Meningkatan kesempatan kerja",
+		"pilihanC" : "Menciptakan kestabilan ekonomi",
+		"pilihanD" : "Mengatur pengeluaran negara"
+		},{
+		"isi_soal" : "Kegiatan meningkatkan kemampuan ekonomi untuk memproduksi output dimasa yang akan datang disebut.....",
+		"jawaban" : "D",
+		"pilihanA" : "Pendapatan",
+		"pilihanB" : "Tabungan",
+		"pilihanC" : "Biaya",
+		"pilihanD" : "Investasi"
+		},{
+		"isi_soal" : "Berikut ini yang merupakan arti dari titik impas adalah.....",
+		"jawaban" : "A",
+		"pilihanA" : "Besarnya konsumsi pada saat pendapatan nol",
+		"pilihanB" : "Besarnya tabungan tabungan sama dengan investasi",
+		"pilihanC" : "Besarnya konsumsi sama dengan besarnya tabungan",
+		"pilihanD" : "Besarnya konsumsi sama dengan besarnya pendapatan"
+		},{
+		"isi_soal" : "Dalam menentukan standar keuangan negara dipilih logam tertentu sebagai standar, maka hal ini termasuk sistem....",
+		"jawaban" : "A",
+		"pilihanA" : "Standar logam (metalisme)",
+		"pilihanB" : "Standar Pincang",
+		"pilihanC" : "Standar Ganda",
+		"pilihanD" : "Standar Tunggal"
+		},{
+		"isi_soal" : "Jaminan yang diberikan oleh peminjam untuk menjaga kemungkinan mampu melunasi utangnya pada saat jatuh tempo merupakan salah satu syarat kredit yang disebut.....",
+		"jawaban" : "B",
+		"pilihanA" : "Character",
+		"pilihanB" : "Collateral",
+		"pilihanC" : "Capacity",
+		"pilihanD" : "Capital"
+		},{
+		"isi_soal" : "Fungsi bank umum adalah sebagai berikut, kecuali.....",
+		"jawaban" : "A",
+		"pilihanA" : "Sebagai penghimpun dana",
+		"pilihanB" : "Penyalur dana",
+		"pilihanC" : "Memberi kredit likuiditas bank",
+		"pilihanD" : "Menjual valuta bank"
+		},{
+		"isi_soal" : "Lembaga penting dalam melaksanakan kebijakan moneter yang dapat mempengaruhi jumlah uang yang beredar dimasyarakat adalah.....",
+		"jawaban" : "D",
+		"pilihanA" : "Lembaga keuangan",
+		"pilihanB" : "Bank",
+		"pilihanC" : "Dirjen moneter",
+		"pilihanD" : "Departemen keuangan"
+		},{
+		"isi_soal" : "Berikut ini merupakan kegiatan-kegiatan investasi, kecuali.....",
+		"jawaban" : "D",
+		"pilihanA" : "Pembelian berbagai jenis alat produksi",
+		"pilihanB" : "Pengeluaran masyarakat untuk mendirikan rumah",
+		"pilihanC" : "Pembelian mesin-mesin untuk mendirikan perusahaan",
+		"pilihanD" : "Pengeluaran perusahaan untuk distribusi barang jadi"
+		},{
+		"isi_soal" : "Dibawah ini adalah konsep investasi dalam perhitungan pendapatan nasional, kecuali.....",
+		"jawaban" : "D",
+		"pilihanA" : "Pembelian peralatan produksi",
+		"pilihanB" : "Pembangunan rumah dan kantor",
+		"pilihanC" : "Persediaan barang dagang",
+		"pilihanD" : "Pembeliaan makanan dan minuman"
+		},{
+		"isi_soal" : "Rumus dari fungsi konsumsi adalah  C = a + bY. Artinya a dalam rumus tersebu adalah.....",
+		"jawaban" : "A",
+		"pilihanA" : "Besarnya konsumsi pada saat pendapatan sama dengan nol",
+		"pilihanB" : "Besarnya konsumsi pada saat pendapatan bertambah",
+		"pilihanC" : "Besarnya konsumsi awal",
+		"pilihanD" : "Besarnya Konsumsi minimal"
+		},{
+		"isi_soal" : "Nilai barang dan jasa yang dihasilkan seluruh warga masyarakat, termasuk warga negara yang berada diluar negeri disebut.....",
+		"jawaban" : "C",
+		"pilihanA" : "Pendapatan nasional",
+		"pilihanB" : "Gross domestic product",
+		"pilihanC" : "Gross national Product",
+		"pilihanD" : "Netto National Product"
+		},{
+		"isi_soal" : "Barang yang dimiliki oleh perusahaan untuk dijual disebut juga.....",
+		"jawaban" : "A",
+		"pilihanA" : "Persediaan",
+		"pilihanB" : "Investasi",
+		"pilihanC" : "Konsumsi",
+		"pilihanD" : "Cadangan"
+		},{
+		"isi_soal" : "Selain sebagai alat pembayaran, uang memiliki beberapa fungsi, fungsi uang terbagi menjad dua, yaitu....",
+		"jawaban" : "A",
+		"pilihanA" : "Fungsi asli dan turunan",
+		"pilihanB" : "Fungsi giral dan fungsi kuartal",
+		"pilihanC" : "Fungsi negatif dan fungsi positif",
+		"pilihanD" : "Fungsi pembayaran dan fungsi kekayaan"
+		},{
+		"isi_soal" : "Kegiatan atau tugas bank memberikan kredit kepada masyarakat yang membutuhkan, kegiatan ini disebut....",
+		"jawaban" : "A",
+		"pilihanA" : "Operasi kredit aktif",
+		"pilihanB" : "Operasi Kredit Pasif",
+		"pilihanC" : "Simpan pinjam",
+		"pilihanD" : "Tabungan deposito"
+		},{
+		"isi_soal" : "Syarat-syarat suatu barang dapat digunakan sebagai uang adalah sebagai berikut, kecuali.....",
+		"jawaban" : "C",
+		"pilihanA" : "Tahan lama",
+		"pilihanB" : "Nilainya tetap dalam jangka waktu yang lama",
+		"pilihanC" : "Tahan panas dan dingin",
+		"pilihanD" : "Dapat diterima secara umum"
+		},{
+		"isi_soal" : "Jumlah konsumsi yang harus ada dilambangkan dengan.....",
+		"jawaban" : "C",
+		"pilihanA" : "C",
+		"pilihanB" : "I",
+		"pilihanC" : "Y",
+		"pilihanD" : "MPC"
+		},{
+		"isi_soal" : "Dengan uang Rp. 5.000,00 dapat dibelikan dengan satu kg gula pasir. Hal itu menunjukan . . .",
+		"jawaban" : "B",
+		"pilihanA" : "Nilai intrinsik",
+		"pilihanB" : "Nilai riil",
+		"pilihanC" : "Nilai nominal",
+		"pilihanD" : "Nilai standar"
+		},{
+		"isi_soal" : "Bank Indonesia merupakan banker’s of bank, artinya.....",
+		"jawaban" : "A",
+		"pilihanA" : "Merupakan sumber dana bagi bank-bank di Indonesia",
+		"pilihanB" : "Merupakan bank pemberi pinjaman terakhir pada bank umum",
+		"pilihanC" : "Merupakan bank pencetak uang",
+		"pilihanD" : "Merupakan bank sirkulasi"
+		},{
+		"isi_soal" : "Jika keadaan sedang inflasi maka Bank Indonesia melalui kebijakan operasi moneter akan.....",
+		"jawaban" : "B",
+		"pilihanA" : "Membeli surat-surat berharga",
+		"pilihanB" : "Menjual surat-surat berharga",
+		"pilihanC" : "Menaikan suku bunga",
+		"pilihanD" : "Menurunkan suku bunga"
+		},{
+		"isi_soal" : "Berdasarkan fungsinya, bank di indonesia terdiri dari.....",
+		"jawaban" : "A",
+		"pilihanA" : "Bank sentral, bank umum, bank syariah, bank perkreditan rakyat",
+		"pilihanB" : "Bank BUMN, bank swasta nasional, bank asing",
+		"pilihanC" : "Bank premier dan bank sekunder",
+		"pilihanD" : "Bank Indonesia dan bank umum"
+	}
+	], "level_3":[{
+		"isi_soal" : "Negara berkembang banyak ditemukan di benua ....",
+		"jawaban" : "C",
+		"pilihanA" : "Amerika",
+		"pilihanB" : "Eropa",
+		"pilihanC" : "Afrika",
+		"pilihanD" : "Asia"
+		},{
+		"isi_soal" : "Ciri masyarakat tradisional di dalam kegiatan ekonomi ....",
+		"jawaban" : "B",
+		"pilihanA" : "Berorientasi pasar",
+		"pilihanB" : "Memenuhi kebutuhan sendiri",
+		"pilihanC" : "Produksi barang / jasa industri",
+		"pilihanD" : "Melakukan ekspor impor"
+		},{
+		"isi_soal" : "Perusahaan yang memberikan jaminan hari tua bagi para pegawai atau karyawan adalah....",
+		"jawaban" : "B",
+		"pilihanA" : "Pegadaian",
+		"pilihanB" : "Lembaga Dana pensiun",
+		"pilihanC" : "Asuransi",
+		"pilihanD" : "BPR"
+		},{
+		"isi_soal" : "Ciri-ciri Negara berkembang.....",
+		"jawaban" : "A",
+		"pilihanA" : "Tergantung pada keadaan alam",
+		"pilihanB" : "Tingkat pendidikan tinggi",
+		"pilihanC" : "Tingkat pendapatan tinggi",
+		"pilihanD" : "Teknologinya modern"
+		},{
+		"isi_soal" : "Sebagian besar penduduk di kawasan Asia Tenggara bermata pencaharian sebagai ....",
+		"jawaban" : "D",
+		"pilihanA" : "pedagang",
+		"pilihanB" : "pekerja tambang",
+		"pilihanC" : "nelayan",
+		"pilihanD" : "petani"
+		},{
+		"isi_soal" : "Sebagian besar Negara maju terletak di belahan bumi bagian ....",
+		"jawaban" : "C",
+		"pilihanA" : "Timur",
+		"pilihanB" : "Barat",
+		"pilihanC" : "Utara",
+		"pilihanD" : "Selatan"
+		},{
+		"isi_soal" : "Yang termasuk negara berkembang di benua Amerika adalah ....",
+		"jawaban" : "D",
+		"pilihanA" : "Amerika Serikat,Brazil",
+		"pilihanB" : "Amerika,Kanada",
+		"pilihanC" : "Kanada,Chili",
+		"pilihanD" : "Mexico,Peru"
+		},{
+		"isi_soal" : "Yang bukan merupakan ciri Negara berkembang adalah.....",
+		"jawaban" : "B",
+		"pilihanA" : "Pertumbuhan penduduk tinggi",
+		"pilihanB" : "Angka kematian bayi keci",
+		"pilihanC" : "Sebagian besar penduduk  sebagai petani",
+		"pilihanD" : "Pertumbuhan penduduk tinggi"
+		},{
+		"isi_soal" : "Yang bukan merupakan ciri dari sebuah Negara maju adalah ....",
+		"jawaban" : "B",
+		"pilihanA" : "Pertumbuhan penduduk kecil",
+		"pilihanB" : "Angka kematian bayi besar",
+		"pilihanC" : "Pendapatan rata-rata tinggi",
+		"pilihanD" : "Sebagian besar penduduk tinggal di perkotaan"
+		},{
+		"isi_soal" : "Uang mempunyai fungsi asli dan fungsi turunan. Fungsi asli uang antara lain adalah sebagai alat ....",
+		"jawaban" : "D",
+		"pilihanA" : "Menabung",
+		"pilihanB" : "Pembayaran",
+		"pilihanC" : "Pendorong kegiatan ekonomi",
+		"pilihanD" : "Satuan hitung"
+		},{
+		"isi_soal" : "Lembaga keuangan bukan bank yang memberi pinjaman dengan jaminan adalah ....",
+		"jawaban" : "A",
+		"pilihanA" : "Pegadaian",
+		"pilihanB" : "Koperasi",
+		"pilihanC" : "Asuransi",
+		"pilihanD" : "Dana pensiun"
+		},{
+		"isi_soal" : "Yang bukan tugas bank Indonesia adalah ....",
+		"jawaban" : "C",
+		"pilihanA" : "Mengedarkan uang dalam masyarakat",
+		"pilihanB" : "Menarik kembali uang yang beredar di masyarakat",
+		"pilihanC" : "Melakukan transaksi jual beli valuta asing",
+		"pilihanD" : "Mencetak uang"
+		},{
+		"isi_soal" : "Mata uang Jepang adalah ...",
+		"jawaban" : "D",
+		"pilihanA" : "Golden",
+		"pilihanB" : "Dolar",
+		"pilihanC" : "Pound",
+		"pilihanD" : "Yen"
+		},{
+		"isi_soal" : "Yang tidak termasuk uang giral adalah ....",
+		"jawaban" : "B",
+		"pilihanA" : "Kartu kredit",
+		"pilihanB" : "Uang logam, uang kertas",
+		"pilihanC" : "Cek,bilyet giro",
+		"pilihanD" : "Wesel,pemindahan telegrafis"
+		},{
+		"isi_soal" : "Fungsi asli dari uang adalah ...",
+		"jawaban" : "B",
+		"pilihanA" : "Alat pembayaran",
+		"pilihanB" : "Alat penukar",
+		"pilihanC" : "Penimbun kekayaan",
+		"pilihanD" : "Komoditas/ . barang dagangan"
+		},{
+		"isi_soal" : "Yang bukan syarat benda dapat dijadikan uang adalah ....",
+		"jawaban" : "C",
+		"pilihanA" : "Dipercaya,diterima dan disenangi umum",
+		"pilihanB" : "Mudah disimpan, tidak mudah rusak",
+		"pilihanC" : "Berubah-ubah nilainya",
+		"pilihanD" : "Mudah dibagi-bagi tanpa mengurangi nilai"
+		},{
+		"isi_soal" : "Syarat terjadinya tukar menukar barang secara barter adalah .....",
+		"jawaban" : "A",
+		"pilihanA" : "Mencari orang lain yang bersedia untuk diajak saling menukar barang",
+		"pilihanB" : "Rela mengorbankan barang yang kita miliki",
+		"pilihanC" : "Membawa barang yang akan ditukarkan ke pasar",
+		"pilihanD" : "Sepakat menukarkan barang yang sama"
+		},{
+		"isi_soal" : "Di bawah ini yang bukan merupakan ciri manusia kreatif adalah ....",
+		"jawaban" : "D",
+		"pilihanA" : "Mandiri",
+		"pilihanB" : "Percaya diri",
+		"pilihanC" : "Tekun",
+		"pilihanD" : "Pesimis"
+		},{
+		"isi_soal" : "Tujuan dari kegiatan produksi adalah....",
+		"jawaban" : "D",
+		"pilihanA" : "Meningkatkan kegunaan suatu barang",
+		"pilihanB" : "Mengolah SDA menjadi alat pemuas kebutuhan",
+		"pilihanC" : "Menghasilkan barang dan jasa",
+		"pilihanD" : "Semua jawaban benar"
+		},{
+		"isi_soal" : "Keinginan yang menjadi pendorong manusia melakukan kegiatan ekonomi ialah ....",
+		"jawaban" : "B",
+		"pilihanA" : "Prinsip ekonomi",
+		"pilihanB" : "Motif ekonomi",
+		"pilihanC" : "Sistem ekonomi",
+		"pilihanD" : "Hukum ekonomi"
+	}
+	], "level_4":[{
+		"isi_soal" : "Yang termasuk sector usaha formal adalah....",
+		"jawaban" : "B",
+		"pilihanA" : "BUMN, BUMD, Pedagang",
+		"pilihanB" : "BUMN, Koperasi, BUMS",
+		"pilihanC" : "Bank, Koperasi, pedagang Kaki lima",
+		"pilihanD" : "Bank, BUMN, Perjan, Pedagang keliling"
+		},{
+		"isi_soal" : "Dana bagi hasil, Dana alokasi umum, Dana alokasi khusus termasuk dalam....",
+		"jawaban" : "C",
+		"pilihanA" : "Dana anggota koperasi",
+		"pilihanB" : "Dana pembangunan",
+		"pilihanC" : "Dana perimbangan",
+		"pilihanD" : "Dana  Bank"
+		},{
+		"isi_soal" : "Yang termasuk belanja untuk daerah adalah....",
+		"jawaban" : "D",
+		"pilihanA" : "Dana BUMN",
+		"pilihanB" : "Pemasukan hasil Usaha Bank swasta",
+		"pilihanC" : "Dana Iuran",
+		"pilihanD" : "Dana perimbangan , dana otonomi khusus dan penyesuaian"
+		},{
+		"isi_soal" : "Pos pengeluaran APBN terdiri dari.....",
+		"jawaban" : "B",
+		"pilihanA" : "Belanja alat tulis menulis",
+		"pilihanB" : "Pelanja pemerintah pusat dan belanja untuk daerah",
+		"pilihanC" : "Pendapatan Negara",
+		"pilihanD" : "Hasil BUMN"
+		},{
+		"isi_soal" : "Pengeluaran keuangan Negara di atur dalam....",
+		"jawaban" : "A",
+		"pilihanA" : "UUD 1945 pasal 23 ayat 1",
+		"pilihanB" : "Tap MPR",
+		"pilihanC" : "Pemerintah",
+		"pilihanD" : "DPR"
+		},{
+		"isi_soal" : "Yang termasuk penerimaan Negara bukan pajak, Penerimaan sumber daya alam adalah kecuali...",
+		"jawaban" : "D",
+		"pilihanA" : "Minyak bumi",
+		"pilihanB" : "Gas alam",
+		"pilihanC" : "Pertambangan",
+		"pilihanD" : "Hibah"
+		},{
+		"isi_soal" : "Yang termasuk Pos penerimaan APBN  adalah..,kecuali...",
+		"jawaban" : "D",
+		"pilihanA" : "Penerimaan dalam Negeri",
+		"pilihanB" : "Penerimaan Negara Bukan Pajak",
+		"pilihanC" : "Hibah",
+		"pilihanD" : "Alokasi umum"
+		},{
+		"isi_soal" : "Orang  yang membayar mendapatkan imbalan pelayanan dari pemerintah secara langsung  seperti Membayar parker, membayar    masuk taman hiburan, membayar listrik termasuk  pengertian dari....",
+		"jawaban" : "A",
+		"pilihanA" : "Retribusi",
+		"pilihanB" : "Pajak",
+		"pilihanC" : "Bia cukai",
+		"pilihanD" : "Dana"
+		},{
+		"isi_soal" : "Pungutan yang merupakan hak  preoratif Pemerintah yang berdasarkan UU, pungutan dapat di paksakan kepada subyek pajak dan tidak ada balas jasa yang langsung, merupakan pengertian dari....",
+		"jawaban" : "B",
+		"pilihanA" : "Retribusi",
+		"pilihanB" : "Pajak",
+		"pilihanC" : "Bia cukai",
+		"pilihanD" : "Dana"
+		},{
+		"isi_soal" :  "Penarikan pajak termasuk....",
+		"jawaban" : "A",
+		"pilihanA" : "Sumber pendapatan Negara",
+		"pilihanB" : "Tujuan Negara",
+		"pilihanC" : "Program Penguasa",
+		"pilihanD" : "Sumber Keuntungan Koperasi"
+		},{
+		"isi_soal" : "Untuk menciptakan kemakmuran Masyarakat secara luas, merupakan tujuan dari....",
+		"jawaban" : "C",
+		"pilihanA" : "Koperasi",
+		"pilihanB" : "Pengusaha",
+		"pilihanC" : "Pengeluaran Negara",
+		"pilihanD" : "Perseroan"
+		},{
+		"isi_soal" : "Penerimaan  APBN terdiri dari....",
+		"jawaban" : "A",
+		"pilihanA" : "Penerimaan dalam Negeri, Penerimaan pembangunan",
+		"pilihanB" : "Iuran, Administrasi sekolah",
+		"pilihanC" : "Retribusi parker motor",
+		"pilihanD" : "Retribusi  jual beli"
+		},{
+		"isi_soal" : "Posisi penerimaan dan pengeluaran (pembelanjaan ) Negara untuk melaksanakan tugas sehari-hari dalam rangka peningkatan kemakmuran masyarakat  melalui program pembangunan. merupakan definisi dari...",
+		"jawaban" : "C",
+		"pilihanA" : "Pendapatan keuangan",
+		"pilihanB" : "Pajak",
+		"pilihanC" : "Keuangan Negara",
+		"pilihanD" : "Bank"
+		},{
+		"isi_soal" : "Invisible band berkaitan dengan.....",
+		"jawaban" : "A",
+		"pilihanA" : "Kekuatan permintaan dan penawaran yang dapat mengatur kegiatan ekonomi",
+		"pilihanB" : "Pemerintahaan tangan besi",
+		"pilihanC" : "Campur tangan Pemerintah dalam perekonomian",
+		"pilihanD" : "Pemerintah cuci tangan terhadap persoalan ekonomi"
+		},{
+		"isi_soal" : "Pilihan terhadap bentuk sistim ekonomi yang dianut oleh suatu Negara akan tergantung pada....",
+		"jawaban" : "A",
+		"pilihanA" : "UUD, Idiologi Negara dan kesepakatan nasional",
+		"pilihanB" : "Presiden, Menteri dan lembaga legislative",
+		"pilihanC" : "UUD, Menteri  dan idiologi Negara",
+		"pilihanD" : "Kesepakatan nasional, Presiden dan Menteri"
+		},{
+		"isi_soal" : "Sistim ekonomi Indonesia memiliki acuan dasar yang jelas yaitu.....",
+		"jawaban" : "D",
+		"pilihanA" : "Program pemerintah",
+		"pilihanB" : "Pelaku ekonomi",
+		"pilihanC" : "Untuk kemakmuran rakyat Indonesia",
+		"pilihanD" : "UUD 1945"
+		},{
+		"isi_soal" : "Kesejahteraan rakyat yang meningkat merata dan berkeadilan merupakan tujuan utama dari....",
+		"jawaban" : "C",
+		"pilihanA" : "Sistim ekonomi campuran",
+		"pilihanB" : "Sistim ekonomi liberal",
+		"pilihanC" : "Sistim ekonomi kerakyatan",
+		"pilihanD" : "Sistim ekonomi sentralis"
+		},{
+		"isi_soal" :  "Pengaturan kehidupan ekonomi yang memungkinkan seluruh potensi  masyarakat untuk berpartisipasi aktif dalam berbagai kegiatan ekonomi . merupakan definisi dari pengertian....",
+		"jawaban" : "A",
+		"pilihanA" : "Sistim ekonomi kerakyatan",
+		"pilihanB" : "Sistim ekonomi campuran",
+		"pilihanC" : "Sistim ekonomi kapitalis",
+		"pilihanD" : "Sistim ekonomi sentralistik"
+		},{
+		"isi_soal" : "Yang tidak termasuk 3 sistim ekonomi  adalah.....",
+		"jawaban" : "D",
+		"pilihanA" : "Sistim ekonomi pasar bebas",
+		"pilihanB" : "Sistim ekonomi perencanaan sentral",
+		"pilihanC" : "Sistim ekonomi campuran",
+		"pilihanD" : "Sistim ekonomi  perngusaha"
+		},{
+		"isi_soal" : "Yang tidak termasuk 3 persoalan pokok ekonomi adalah....",
+		"jawaban" : "D",
+		"pilihanA" : "Jenis dan jumlah barang serta jasa yang harus diproduksi",
+		"pilihanB" : "Cara sistim ekonomi  menghasilkan barang dan jasa",
+		"pilihanC" : "Cara distribusi barang dan jasa",
+		"pilihanD" : "Ekonomi berdasarkan pancasila dan UUD 45"
+	}
+	], "level_5":[{
+		"isi_soal" : "Salah satu contoh negara maju adalah.....",
+		"jawaban" : "D",
+		"pilihanA" : "Malaysia",
+		"pilihanB" : "Brasil",
+		"pilihanC" : "India",
+		"pilihanD" : "Inggris"
+		},{
+		"isi_soal" : "Perukaran barter dapat menyulitkan karena antara barang yang satu dengan yang lain...",
+		"jawaban" : "C",
+		"pilihanA" : "Sama nilainya",
+		"pilihanB" : "Sama besar dan fungsinya",
+		"pilihanC" : "Tidak sama nilainya",
+		"pilihanD" : "Sama bentuk dan jenisnya"
+		},{
+		"isi_soal" : "Yang termasuk ciri-ciri negara berkembang adalah……",
+		"jawaban" : "A",
+		"pilihanA" : "Tergantung pada keadaan alam",
+		"pilihanB" : "Tingkat pendidikan tinggi",
+		"pilihanC" : "Teknologi modern",
+		"pilihanD" : "Pendapatan perkapita tinggi"
+		},{
+		"isi_soal" : "Mobil, kulkas, dan perabotan termasuk kebutuhan....",
+		"jawaban" : "D",
+		"pilihanA" : "Jasmani",
+		"pilihanB" : "Rohani",
+		"pilihanC" : "Sekunder",
+		"pilihanD" : "Tersier"
+		},{
+		"isi_soal" : "Kebutuhan dilihat dari sifatnya adalah....",
+		"jawaban" : "A",
+		"pilihanA" : "Jasmani dan rohani",
+		"pilihanB" : "Primer dan tersier",
+		"pilihanC" : "Sekarang dan akan datang",
+		"pilihanD" : "Perorangan dan kelompok"
+		},{
+		"isi_soal" : "Manusia perlu ketenangan dan keamanan. Hal itu termasuk kebutuhan....",
+		"jawaban" : "A",
+		"pilihanA" : "Jasmani",
+		"pilihanB" : "Rohani",
+		"pilihanC" : "Primer",
+		"pilihanD" :  "Sekunder"
+		},{
+		"isi_soal" : "Pelayanan guru, dokter, dan tukang cukur termasuk wujud barang yang berupa....",
+		"jawaban" : "C",
+		"pilihanA" : "Kepuasan",
+		"pilihanB" : "Ekonomis",
+		"pilihanC" : "Jasa",
+		"pilihanD" : "Konsumsi"
+		},{
+		"isi_soal" : "Barang yang tersedia dalam jumlah yang terbatas jika dibandingkan dangan kebutuhan manusia disebut....",
+		"jawaban" : "B",
+		"pilihanA" : "Benda bebas",
+		"pilihanB" : "Benda ekonomi",
+		"pilihanC" : "Benda konsumsi",
+		"pilihanD" : "Benda produksi"
+		},{
+		"isi_soal" : "Benda yang dalam pemakaiannya dapat saling menggantikan disebut....",
+		"jawaban" : "A",
+		"pilihanA" : "Benda substitusi",
+		"pilihanB" : "Benda komplementer",
+		"pilihanC" : "Benda illith",
+		"pilihanD" : "Benda ekonomi"
+		},{
+		"isi_soal" : "Benda yang dalam pemakaiannya harus digabung dengan benda lain disebut...",
+		"jawaban" : "B",
+		"pilihanA" : "Nenda substitusi",
+		"pilihanB" : "Benda komplementer",
+		"pilihanC" : "Benda illith",
+		"pilihanD" : "Benda ekonomi"
+		},{
+		"isi_soal" : "Alasan yang mendorong manusia melakukan tindakan ekonomi disebut....",
+		"jawaban" : "A",
+		"pilihanA" : "Motif ekonomi",
+		"pilihanB" : "Prinsip ekonomi",
+		"pilihanC" : "Tindakan ekonomi",
+		"pilihanD" : "Hukum ekonomi"
+		},{
+		"isi_soal" : "Dengan bertindak ekonomi, manusia berusaha memenuhi kebutuhan dengan cara menetapkan....",
+		"jawaban" : "B",
+		"pilihanA" : "Skala harga",
+		"pilihanB" : "Skala prioritas",
+		"pilihanC" : "Jumlah kebutuhan",
+		"pilihanD" : "Jumlah barang dan jasa"
+		},{
+		"isi_soal" : "Pelaku utama dalam rumah tangga produk adalah....",
+		"jawaban" : "D",
+		"pilihanA" : "Konsumsi",
+		"pilihanB" : "Konsumen",
+		"pilihanC" : "Produksi",
+		"pilihanD" : "Produsen"
+		},{
+		"isi_soal" : "Memberikan pengorbanan yang sekecil-kecillnya dengan maksud untuk mendapatkan keuntungan sebesar-besarnya merupakan pengertian...",
+		"jawaban" : "B",
+		"pilihanA" : "Tindakan ekonomi",
+		"pilihanB" : "Prinsip ekonomi",
+		"pilihanC" : "Motif ekonomi",
+		"pilihanD" : "Politik ekonomi"
+		},{
+		"isi_soal" : "Tindakan manusia untuk mencapai kemakmuran dengan melakukan tindakan-tindakan ekonomi disebut....",
+		"jawaban" : "C",
+		"pilihanA" : "Tindakan ekonomi",
+		"pilihanB" : "Prinsip ekonomi",
+		"pilihanC" : "Motif ekonomi",
+		"pilihanD" : "Hukum ekonomi"
+		},{
+		"isi_soal" : "Payung dan jas hujan lebih bermanfaat pada waktu musim hujan. Pernyataan tersebut termasuk....",
+		"jawaban" : "D",
+		"pilihanA" : "Utility of form",
+		"pilihanB" : "Utility of place",
+		"pilihanC" : "Utility of element",
+		"pilihanD" : "Utility of time"
+		},{
+		"isi_soal" : "Alat pemuas kebutuhan manusia adalah....",
+		"jawaban" : "C",
+		"pilihanA" : "Barang",
+		"pilihanB" : "Jasa",
+		"pilihanC" : "Barang dan jasa",
+		"pilihanD" : "Barang, jasa, dan uang"
+		},{
+		"isi_soal" : "Menurut cara pemakaiannya, barang dapat dibedakan menjadi....",
+		"jawaban" : "A",
+		"pilihanA" : "Barang pelengkap dan pengganti",
+		"pilihanB" : "Barang konsumsi dan barang produksi",
+		"pilihanC" : "Barang konsumsi dan barang distribusi",
+		"pilihanD" : "Barang produksi dan barang distribusi"
+		},{
+		"isi_soal" : "Berikut ini adalah kebutuhan utama manusia,'kecuali....",
+		"jawaban" : "D",
+		"pilihanA" : "Pakaian",
+		"pilihanB" : "Rumah",
+		"pilihanC" : "Makanan",
+		"pilihanD" : "Kendaraan"
+		},{
+		"isi_soal" : "Manusia mempunyai kebutuhan yang harus dipenuhinya untuk....",
+		"jawaban" : "B",
+		"pilihanA" : "Memperbanyak Keturunan",
+		"pilihanB" : "Mempertahankan Hidup",
+		"pilihanC" : "Hidup Layak dan Sejahtera",
+		"pilihanD" : "Menghindari Rasa Lapar"
+	}]
+}
+
